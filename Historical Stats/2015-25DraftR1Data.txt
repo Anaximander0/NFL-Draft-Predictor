@@ -1,0 +1,3277 @@
+1
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Jameis Winston
+QB
+Florida State
+
+2
+
+Titans
+Tennessee
+Titans
+Marcus Mariota
+QB
+Oregon
+
+3
+
+Jaguars
+Jacksonville
+Jaguars
+Dante Fowler Jr.
+OLB
+Florida
+
+4
+
+Raiders
+Oakland
+Raiders
+Amari Cooper
+WR
+Alabama
+
+5
+
+Redskins
+Washington
+Redskins
+Brandon Scherff
+OG
+Iowa
+
+6
+
+Jets
+New York
+Jets
+Leonard Williams
+DE
+USC
+
+7
+
+Bears
+Chicago
+Bears
+Kevin White
+WR
+West Virginia
+
+8
+
+Falcons
+Atlanta
+Falcons
+Vic Beasley
+OLB
+Clemson
+from Falcons
+
+9
+
+Giants
+New York
+Giants
+Ereck Flowers
+OT
+Miami
+
+10
+
+Rams
+St. Louis
+Rams
+Todd Gurley
+RB
+Georgia
+from Falcons thru Rams
+
+11
+
+Vikings
+Minnesota
+Vikings
+Trae Waynes
+CB
+Michigan State
+
+12
+
+Browns
+Cleveland
+Browns
+Danny Shelton
+NT
+Washington
+
+13
+
+Saints
+New Orleans
+Saints
+Andrus Peat
+OT
+Stanford
+
+14
+
+Dolphins
+Miami
+Dolphins
+DeVante Parker
+WR
+Louisville
+
+15
+
+Chargers
+San Diego
+Chargers
+Melvin Gordon
+RB
+Wisconsin
+from 49ers
+
+16
+
+Texans
+Houston
+Texans
+Kevin Johnson
+CB
+Wake Forest
+
+17
+
+Niners
+San Francisco
+Niners
+Arik Armstead
+DT
+Oregon
+from Chargers
+
+18
+
+Chiefs
+Kansas City
+Chiefs
+Marcus Peters
+CB
+Washington
+
+19
+
+Browns
+Cleveland
+Browns
+Cameron Erving
+C
+Florida State
+from Bills
+
+20
+
+Eagles
+Philadelphia
+Eagles
+Nelson Agholor
+WR
+USC
+
+21
+
+Bengals
+Cincinnati
+Bengals
+Cedric Ogbuehi
+OT
+Texas A&M
+
+22
+
+Steelers
+Pittsburgh
+Steelers
+Bud Dupree
+OLB
+Kentucky
+
+23
+
+Broncos
+Denver
+Broncos
+Shane Ray
+DE
+Missouri
+from Lions
+
+24
+
+Cardinals
+Arizona
+Cardinals
+D.J. Humphries
+OT
+Florida
+
+25
+
+Panthers
+Carolina
+Panthers
+Shaq Thompson
+OLB
+Washington
+
+26
+
+Ravens
+Baltimore
+Ravens
+Breshad Perriman
+WR
+UCF
+
+27
+
+Cowboys
+Dallas
+Cowboys
+Byron Jones
+CB
+Connecticut
+
+28
+
+Lions
+Detroit
+Lions
+Laken Tomlinson
+OG
+Duke
+from Broncos
+
+29
+
+Colts
+Indianapolis
+Colts
+Phillip Dorsett
+WR
+Miami
+
+30
+
+Packers
+Green Bay
+Packers
+Damarious Randall
+FS
+Arizona State
+
+31
+
+Saints
+New Orleans
+Saints
+Stephone Anthony
+ILB
+Clemson
+from Seahawks
+
+32
+
+Patriots
+New England
+Patriots
+Malcom Brown
+DT
+Texas
+
+1
+
+Rams
+Los Angeles
+Rams
+Jared Goff
+QB
+California
+From Titans
+
+2
+
+Eagles
+Philadelphia
+Eagles
+Carson Wentz
+QB
+North Dakota State
+From Browns
+
+3
+
+Chargers
+San Diego
+Chargers
+Joey Bosa
+DE
+Ohio State
+
+4
+
+Cowboys
+Dallas
+Cowboys
+Ezekiel Elliott
+RB
+Ohio State
+
+5
+
+Jaguars
+Jacksonville
+Jaguars
+Jalen Ramsey
+CB
+Florida State
+
+6
+
+Ravens
+Baltimore
+Ravens
+Ronnie Stanley
+OT
+Notre Dame
+
+7
+
+49ers
+San Francisco
+49ers
+DeForest Buckner
+DE
+Oregon
+
+8
+
+Titans
+Tennessee
+Titans
+Jack Conklin
+OT
+Michigan State
+From Browns through Eagles through Dolphins
+
+9
+
+Bears
+Chicago
+Bears
+Leonard Floyd
+OLB
+Georgia
+From Buccaneers
+
+10
+
+Giants
+New York
+Giants
+Eli Apple
+CB
+Ohio State
+
+11
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Vernon Hargreaves III
+CB
+Florida
+From Bears
+
+12
+
+Saints
+New Orleans
+Saints
+Sheldon Rankins
+DT
+Louisville
+
+13
+
+Dolphins
+Miami
+Dolphins
+Laremy Tunsil
+OT
+Mississippi
+From Eagles
+
+14
+
+Raiders
+Oakland
+Raiders
+Karl Joseph
+S
+West Virginia
+
+15
+
+Browns
+Cleveland
+Browns
+Corey Coleman
+WR
+Baylor
+From Titans through Rams
+
+16
+
+Lions
+Detroit
+Lions
+Taylor Decker
+OT
+Ohio State
+
+17
+
+Falcons
+Atlanta
+Falcons
+Keanu Neal
+SS
+Florida
+
+18
+
+Colts
+Indianapolis
+Colts
+Ryan Kelly
+C
+Alabama
+
+19
+
+Bills
+Buffalo
+Bills
+Shaq Lawson
+DE
+Clemson
+
+20
+
+Jets
+New York
+Jets
+Darron Lee
+OLB
+Ohio State
+
+21
+
+Texans
+Houston
+Texans
+Will Fuller
+WR
+Notre Dame
+From Redskins
+
+22
+
+Redskins
+Washington
+Redskins
+Josh Doctson
+WR
+TCU
+From Texans
+
+23
+
+Vikings
+Minnesota
+Vikings
+Laquon Treadwell
+WR
+Mississippi
+
+24
+
+Bengals
+Cincinnati
+Bengals
+William Jackson
+CB
+Houston
+
+25
+
+Steelers
+Pittsburgh
+Steelers
+Artie Burns
+CB
+Miami
+
+26
+
+Broncos
+Denver
+Broncos
+Paxton Lynch
+QB
+Memphis
+From Seahawks
+
+27
+
+Packers
+Green Bay
+Packers
+Kenny Clark
+NT
+UCLA
+
+28
+
+49ers
+San Francisco
+49ers
+Joshua Garnett
+OG
+Stanford
+From Chiefs
+
+29
+
+Cardinals
+Arizona
+Cardinals
+Robert Nkemdiche
+DT
+Mississippi
+
+30
+
+Panthers
+Carolina
+Panthers
+Vernon Butler
+DT
+Louisiana Tech
+
+31
+
+Seahawks
+Seattle
+Seahawks
+Germain Ifedi
+OG
+Texas A&M
+From Broncos
+
+1
+
+Browns
+Cleveland
+Browns
+Myles Garrett
+DE
+Texas A&M
+
+2
+
+Bears
+Chicago
+Bears
+Mitchell Trubisky
+QB
+North Carolina
+From 49ers
+
+3
+
+49ers
+San Francisco
+49ers
+Solomon Thomas
+DE
+Stanford
+From Bears
+
+4
+
+Jaguars
+Jacksonville
+Jaguars
+Leonard Fournette
+RB
+LSU
+
+5
+
+Titans
+Tennessee
+Titans
+Corey Davis
+WR
+Western Michigan
+From Rams
+
+6
+
+Jets
+New York
+Jets
+Jamal Adams
+S
+LSU
+
+7
+
+Chargers
+Los Angeles
+Chargers
+Mike Williams
+WR
+Clemson
+
+8
+
+Panthers
+Carolina
+Panthers
+Christian McCaffrey
+RB
+Stanford
+
+9
+
+Bengals
+Cincinnati
+Bengals
+John Ross
+WR
+Washington
+
+10
+
+Chiefs
+Kansas City
+Chiefs
+Patrick Mahomes
+QB
+Texas Tech
+From Bills
+
+11
+
+Saints
+New Orleans
+Saints
+Marshon Lattimore
+CB
+Ohio State
+
+12
+
+Texans
+Houston
+Texans
+Deshaun Watson
+QB
+Clemson
+From Browns through Eagles
+
+13
+
+Cardinals
+Arizona
+Cardinals
+Haason Reddick
+DE
+Temple
+
+14
+
+Eagles
+Philadelphia
+Eagles
+Derek Barnett
+DE
+Tennessee
+From Vikings
+
+15
+
+Colts
+Indianapolis
+Colts
+Malik Hooker
+S
+Ohio State
+
+16
+
+Ravens
+Baltimore
+Ravens
+Marlon Humphrey
+CB
+Alabama
+
+17
+
+Redskins
+Washington
+Redskins
+Jonathan Allen
+DE
+Alabama
+
+18
+
+Titans
+Tennessee
+Titans
+Adoree' Jackson
+CB
+USC
+
+19
+
+Buccaneers
+Tampa Bay
+Buccaneers
+O.J. Howard
+TE
+Alabama
+
+20
+
+Broncos
+Denver
+Broncos
+Garett Bolles
+OT
+Utah
+
+21
+
+Lions
+Detroit
+Lions
+Jarrad Davis
+LB
+Florida
+
+22
+
+Dolphins
+Miami
+Dolphins
+Charles Harris
+DE
+Missouri
+
+23
+
+Giants
+New York
+Giants
+Evan Engram
+TE
+Mississippi
+
+24
+
+Raiders
+Oakland
+Raiders
+Gareon Conley
+CB
+Ohio State
+
+25
+
+Browns
+Cleveland
+Browns
+Jabrill Peppers
+LB
+Michigan
+From Texans
+
+26
+
+Falcons
+Atlanta
+Falcons
+Takk McKinley
+DE
+UCLA
+From Seahawks
+
+27
+
+Bills
+Buffalo
+Bills
+Tre'Davious White
+CB
+LSU
+From Chiefs
+
+28
+
+Cowboys
+Dallas
+Cowboys
+Taco Charlton
+DE
+Michigan
+
+29
+
+Browns
+Cleveland
+Browns
+David Njoku
+TE
+Miami
+From Packers
+
+30
+
+Steelers
+Pittsburgh
+Steelers
+T.J. Watt
+LB
+Wisconsin
+
+31
+
+49ers
+San Francisco
+49ers
+Reuben Foster
+LB
+Alabama
+From Seahawks through Falcons
+
+32
+
+Saints
+New Orleans
+Saints
+Ryan Ramczyk
+OT
+Wisconsin
+From Patriots
+1
+
+Browns
+Cleveland
+Browns
+Baker Mayfield
+QB
+Oklahoma
+
+2
+
+Giants
+New York
+Giants
+Saquon Barkley
+RB
+Penn State
+
+3
+
+Jets
+New York
+Jets
+Sam Darnold
+QB
+USC
+IND > NYJ
+
+4
+
+Browns
+Cleveland
+Browns
+Denzel Ward
+CB
+Ohio State
+HOU > CLE
+
+5
+
+Broncos
+Denver
+Broncos
+Bradley Chubb
+DE
+N.C. State
+
+6
+
+Colts
+Indianapolis
+Colts
+Quenton Nelson
+G
+Notre Dame
+NYJ > IND
+
+7
+
+Bills
+Buffalo
+Bills
+Josh Allen
+QB
+Wyoming
+TB > BUF
+
+8
+
+Bears
+Chicago
+Bears
+Roquan Smith
+LB
+Georgia
+
+9
+
+49ers
+San Francisco
+49ers
+Mike McGlinchey
+OT
+Notre Dame
+
+10
+
+Cardinals
+Arizona
+Cardinals
+Josh Rosen
+QB
+UCLA
+OAK > ARI
+
+11
+
+Dolphins
+Miami
+Dolphins
+Minkah Fitzpatrick
+S
+Alabama
+
+12
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Vita Vea
+DT
+Washington
+CIN > BUF > TB
+
+13
+
+Redskins
+Washington
+Redskins
+Daron Payne
+DT
+Alabama
+
+14
+
+Saints
+New Orleans
+Saints
+Marcus Davenport
+DE
+Texas-San Antonio
+GB > NO
+
+15
+
+Raiders
+Oakland
+Raiders
+Kolton Miller
+OT
+UCLA
+ARI > OAK
+
+16
+
+Bills
+Buffalo
+Bills
+Tremaine Edmunds
+ILB
+Virginia Tech
+BAL > BUF
+
+17
+
+Chargers
+Los Angeles
+Chargers
+Derwin James
+S
+Florida State
+
+18
+
+Packers
+Green Bay
+Packers
+Jaire Alexander
+CB
+Louisville
+SEA > GB
+
+19
+
+Cowboys
+Dallas
+Cowboys
+Leighton Vander Esch
+ILB
+Boise State
+
+20
+
+Lions
+Detroit
+Lions
+Frank Ragnow
+C
+Arkansas
+
+21
+
+Bengals
+Cincinnati
+Bengals
+Billy Price
+C
+Ohio State
+BUF > CIN
+
+22
+
+Titans
+Tennessee
+Titans
+Rashaan Evans
+OLB
+Alabama
+KC > BUF > BAL > TEN
+
+23
+
+Patriots
+New England
+Patriots
+Isaiah Wynn
+T
+Georgia
+LA > NE
+
+24
+
+Panthers
+Carolina
+Panthers
+DJ Moore
+WR
+Maryland
+
+25
+
+Ravens
+Baltimore
+Ravens
+Hayden Hurst
+TE
+South Carolina
+TEN > BAL
+
+26
+
+Falcons
+Atlanta
+Falcons
+Calvin Ridley
+WR
+Alabama
+
+27
+
+Seahawks
+Seattle
+Seahawks
+Rashaad Penny
+RB
+San Diego State
+NO > GB > SEA
+
+28
+
+Steelers
+Pittsburgh
+Steelers
+Terrell Edmunds
+S
+Virginia Tech
+
+29
+
+Jaguars
+Jacksonville
+Jaguars
+Taven Bryan
+DT
+Florida
+
+30
+
+Vikings
+Minnesota
+Vikings
+Mike Hughes
+CB
+UCF
+
+31
+
+Patriots
+New England
+Patriots
+Sony Michel
+RB
+Georgia
+
+32
+
+Ravens
+Baltimore
+Ravens
+Lamar Jackson
+QB
+Louisville
+PHI > BAL
+1
+
+Cardinals
+Arizona
+Cardinals
+Kyler Murray
+QB
+Oklahoma
+
+2
+
+49ers
+San Francisco
+49ers
+Nick Bosa
+DE
+Ohio State
+
+3
+
+Jets
+New York
+Jets
+Quinnen Williams
+DT
+Alabama
+
+4
+
+Raiders
+Oakland
+Raiders
+Clelin Ferrell
+DE
+Clemson
+
+5
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Devin White
+LB
+LSU
+
+6
+
+Giants
+New York
+Giants
+Daniel Jones
+QB
+Duke
+
+7
+
+Jaguars
+Jacksonville
+Jaguars
+Josh Hines-Allen
+EDGE
+Kentucky
+
+8
+
+Lions
+Detroit
+Lions
+T.J. Hockenson
+TE
+Iowa
+
+9
+
+Bills
+Buffalo
+Bills
+Ed Oliver
+DT
+Houston
+
+10
+
+Steelers
+Pittsburgh
+Steelers
+Devin Bush
+LB
+Michigan
+DEN > PIT
+
+11
+
+Bengals
+Cincinnati
+Bengals
+Jonah Williams
+OT
+Alabama
+
+12
+
+Packers
+Green Bay
+Packers
+Rashan Gary
+DE
+Michigan
+
+13
+
+Dolphins
+Miami
+Dolphins
+Christian Wilkins
+DT
+Clemson
+
+14
+
+Falcons
+Atlanta
+Falcons
+Chris Lindstrom
+G
+Boston College
+
+15
+
+Redskins
+Washington
+Redskins
+Dwayne Haskins
+QB
+Ohio State
+
+16
+
+Panthers
+Carolina
+Panthers
+Brian Burns
+EDGE
+Florida State
+
+17
+
+Giants
+New York
+Giants
+Dexter Lawrence
+DT
+Clemson
+CLE > NYG
+
+18
+
+Vikings
+Minnesota
+Vikings
+Garrett Bradbury
+C
+N.C. State
+
+19
+
+Titans
+Tennessee
+Titans
+Jeffery Simmons
+DT
+Mississippi State
+
+20
+
+Broncos
+Denver
+Broncos
+Noah Fant
+TE
+Iowa
+PIT > DEN
+
+21
+
+Packers
+Green Bay
+Packers
+Darnell Savage
+S
+Maryland
+SEA > GB
+
+22
+
+Eagles
+Philadelphia
+Eagles
+Andre Dillard
+T
+Washington State
+BAL > PHI
+
+23
+
+Texans
+Houston
+Texans
+Tytus Howard
+T
+Alabama State
+
+24
+
+Raiders
+Oakland
+Raiders
+Josh Jacobs
+RB
+Alabama
+CHI > OAK
+
+25
+
+Ravens
+Baltimore
+Ravens
+Marquise Brown
+WR
+Oklahoma
+PHI > BAL
+
+26
+
+Redskins
+Washington
+Redskins
+Montez Sweat
+EDGE
+Mississippi State
+IND > WAS
+
+27
+
+Raiders
+Oakland
+Raiders
+Johnathan Abram
+S
+Mississippi State
+DAL > OAK
+
+28
+
+Chargers
+Los Angeles
+Chargers
+Jerry Tillery
+DT
+Notre Dame
+
+29
+
+Seahawks
+Seattle
+Seahawks
+L.J. Collier
+DE
+TCU
+KC > SEA
+
+30
+
+Giants
+New York
+Giants
+Deandre Baker
+CB
+Georgia
+NO > GB > SEA > NYG
+
+31
+
+Falcons
+Atlanta
+Falcons
+Kaleb McGary
+T
+Washington
+LA > ATL
+
+32
+
+Patriots
+New England
+Patriots
+N'Keal Harry
+WR
+Arizona State
+
+1
+
+Bengals
+Cincinnati
+Bengals
+Joe Burrow
+QB
+LSU
+
+2
+
+Football Team
+Washington
+Football Team
+Chase Young
+DE
+Ohio State
+
+3
+
+Lions
+Detroit
+Lions
+Jeff Okudah
+CB
+Ohio State
+
+4
+
+Giants
+New York
+Giants
+Andrew Thomas
+T
+Georgia
+
+5
+
+Dolphins
+Miami
+Dolphins
+Tua Tagovailoa
+QB
+Alabama
+
+6
+
+Chargers
+Los Angeles
+Chargers
+Justin Herbert
+QB
+Oregon
+
+7
+
+Panthers
+Carolina
+Panthers
+Derrick Brown
+DT
+Auburn
+
+8
+
+Cardinals
+Arizona
+Cardinals
+Isaiah Simmons
+LB
+Clemson
+
+9
+
+Jaguars
+Jacksonville
+Jaguars
+C.J. Henderson
+CB
+Florida
+
+10
+
+Browns
+Cleveland
+Browns
+Jedrick Wills
+T
+Alabama
+
+11
+
+Jets
+New York
+Jets
+Mekhi Becton
+T
+Louisville
+
+12
+
+Raiders
+Las Vegas
+Raiders
+Henry Ruggs III
+WR
+Alabama
+
+13
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Tristan Wirfs
+T
+Iowa
+IND > SF > TB
+
+14
+
+49ers
+San Francisco
+49ers
+Javon Kinlaw
+DT
+South Carolina
+TB > SF
+
+15
+
+Broncos
+Denver
+Broncos
+Jerry Jeudy
+WR
+Alabama
+
+16
+
+Falcons
+Atlanta
+Falcons
+A.J. Terrell
+CB
+Clemson
+
+17
+
+Cowboys
+Dallas
+Cowboys
+CeeDee Lamb
+WR
+Oklahoma
+
+18
+
+Dolphins
+Miami
+Dolphins
+Austin Jackson
+T
+USC
+PIT > MIA
+
+19
+
+Raiders
+Las Vegas
+Raiders
+Damon Arnette
+CB
+Ohio State
+CHI > LV
+
+20
+
+Jaguars
+Jacksonville
+Jaguars
+K'Lavon Chaisson
+EDGE
+LSU
+LA > JAX
+
+21
+
+Eagles
+Philadelphia
+Eagles
+Jalen Reagor
+WR
+TCU
+
+22
+
+Vikings
+Minnesota
+Vikings
+Justin Jefferson
+WR
+LSU
+BUF > MIN
+
+23
+
+Chargers
+Los Angeles
+Chargers
+Kenneth Murray, Jr.
+LB
+Oklahoma
+NE > LAC
+
+24
+
+Saints
+New Orleans
+Saints
+Cesar Ruiz
+C
+Michigan
+
+25
+
+49ers
+San Francisco
+49ers
+Brandon Aiyuk
+WR
+Arizona State
+MIN > SF
+
+26
+
+Packers
+Green Bay
+Packers
+Jordan Love
+QB
+Utah State
+HOU > MIA > GB
+
+27
+
+Seahawks
+Seattle
+Seahawks
+Jordyn Brooks
+LB
+Texas Tech
+
+28
+
+Ravens
+Baltimore
+Ravens
+Patrick Queen
+LB
+LSU
+
+29
+
+Titans
+Tennessee
+Titans
+Isaiah Wilson
+T
+Georgia
+
+30
+
+Dolphins
+Miami
+Dolphins
+Noah Igbinoghene
+CB
+Auburn
+GB > MIA
+
+31
+
+Vikings
+Minnesota
+Vikings
+Jeff Gladney
+CB
+TCU
+SF > MIN
+
+32
+
+Chiefs
+Kansas City
+Chiefs
+Clyde Edwards-Helaire
+RB
+LSU
+1
+
+Jaguars
+Jacksonville
+Jaguars
+Trevor Lawrence
+QB
+Clemson
+
+2
+
+Jets
+New York
+Jets
+Zach Wilson
+QB
+BYU
+
+3
+
+49ers
+San Francisco
+49ers
+Trey Lance
+QB
+North Dakota State
+HOU > MIA > SF
+
+4
+
+Falcons
+Atlanta
+Falcons
+Kyle Pitts
+TE
+Florida
+
+5
+
+Bengals
+Cincinnati
+Bengals
+Ja'Marr Chase
+WR
+LSU
+
+6
+
+Dolphins
+Miami
+Dolphins
+Jaylen Waddle
+WR
+Alabama
+PHI > MIA
+
+7
+
+Lions
+Detroit
+Lions
+Penei Sewell
+OT
+Oregon
+
+8
+
+Panthers
+Carolina
+Panthers
+Jaycee Horn
+CB
+South Carolina
+
+9
+
+Broncos
+Denver
+Broncos
+Pat Surtain II
+CB
+Alabama
+
+10
+
+Eagles
+Philadelphia
+Eagles
+DeVonta Smith
+WR
+Alabama
+DAL > PHI
+
+11
+
+Bears
+Chicago
+Bears
+Justin Fields
+QB
+Ohio State
+NYG > CHI
+
+12
+
+Cowboys
+Dallas
+Cowboys
+Micah Parsons
+LB
+Penn State
+SF > MIA > PHI > DAL
+
+13
+
+Chargers
+Los Angeles
+Chargers
+Rashawn Slater
+OT
+Northwestern
+
+14
+
+Jets
+New York
+Jets
+Alijah Vera-Tucker
+G
+USC
+MIN > NYJ
+
+15
+
+Patriots
+New England
+Patriots
+Mac Jones
+QB
+Alabama
+
+16
+
+Cardinals
+Arizona
+Cardinals
+Zaven Collins
+LB
+Tulsa
+
+17
+
+Raiders
+Las Vegas
+Raiders
+Alex Leatherwood
+OT
+Alabama
+
+18
+
+Dolphins
+Miami
+Dolphins
+Jaelan Phillips
+EDGE
+Miami
+
+19
+
+Football Team
+Washington
+Football Team
+Jamin Davis
+LB
+Kentucky
+
+20
+
+Giants
+New York
+Giants
+Kadarius Toney
+WR
+Florida
+CHI > NYG
+
+21
+
+Colts
+Indianapolis
+Colts
+Kwity Paye
+EDGE
+Michigan
+
+22
+
+Titans
+Tennessee
+Titans
+Caleb Farley
+CB
+Virginia Tech
+
+23
+
+Vikings
+Minnesota
+Vikings
+Christian Darrisaw
+OT
+Virginia Tech
+SEA > NYJ > MIN
+
+24
+
+Steelers
+Pittsburgh
+Steelers
+Najee Harris
+RB
+Alabama
+
+25
+
+Jaguars
+Jacksonville
+Jaguars
+Travis Etienne
+RB
+Clemson
+LAR > JAX
+
+26
+
+Browns
+Cleveland
+Browns
+Greg Newsome II
+CB
+Northwestern
+
+27
+
+Ravens
+Baltimore
+Ravens
+Rashod Bateman
+WR
+Minnesota
+
+28
+
+Saints
+New Orleans
+Saints
+Payton Turner
+DE
+Houston
+
+29
+
+Packers
+Green Bay
+Packers
+Eric Stokes
+CB
+Georgia
+
+30
+
+Bills
+Buffalo
+Bills
+Greg Rousseau
+EDGE
+Miami
+
+31
+
+Ravens
+Baltimore
+Ravens
+Odafe Oweh
+EDGE
+Penn State
+KC > BAL
+
+32
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Joe Tryon-Shoyinka
+EDGE
+Washington
+
+1
+
+Jaguars
+Jacksonville
+Jaguars
+Travon Walker
+DE
+Georgia
+
+2
+
+Lions
+Detroit
+Lions
+Aidan Hutchinson
+DE
+Michigan
+
+3
+
+Texans
+Houston
+Texans
+Derek Stingley Jr.
+DB
+LSU
+
+4
+
+Jets
+New York
+Jets
+Sauce Gardner
+CB
+Cincinnati
+
+5
+
+Giants
+New York
+Giants
+Kayvon Thibodeaux
+EDGE
+Oregon
+
+6
+
+Panthers
+Carolina
+Panthers
+Ikem Ekwonu
+OT
+N.C. State
+
+7
+
+Giants
+New York
+Giants
+Evan Neal
+OT
+Alabama
+CHI>NYG
+
+8
+
+Falcons
+Atlanta
+Falcons
+Drake London
+WR
+USC
+
+9
+
+Seahawks
+Seattle
+Seahawks
+Charles Cross
+OT
+Mississippi State
+DEN>SEA
+
+10
+
+Jets
+New York
+Jets
+Garrett Wilson
+WR
+Ohio State
+SEA>NYJ
+
+11
+
+Saints
+New Orleans
+Saints
+Chris Olave
+WR
+Ohio State
+WAS>NO
+
+12
+
+Lions
+Detroit
+Lions
+Jameson Williams
+WR
+Alabama
+MIN>DET
+
+13
+
+Eagles
+Philadelphia
+Eagles
+Jordan Davis
+DT
+Georgia
+CLE>HOU>PHI
+
+14
+
+Ravens
+Baltimore
+Ravens
+Kyle Hamilton
+SAF
+Notre Dame
+
+15
+
+Texans
+Houston
+Texans
+Kenyon Green
+OL
+Texas A&M
+MIA>PHI>HOU
+
+16
+
+Commanders
+Washington
+Commanders
+Jahan Dotson
+WR
+Penn State
+IND>PHI>NO>WAS
+
+17
+
+Chargers
+Los Angeles
+Chargers
+Zion Johnson
+OL
+Boston College
+
+18
+
+Titans
+Tennessee
+Titans
+Treylon Burks
+WR
+Arkansas
+NO>PHI>TEN
+
+19
+
+Saints
+New Orleans
+Saints
+Trevor Penning
+OT
+Northern Iowa
+PHI>NO
+
+20
+
+Steelers
+Pittsburgh
+Steelers
+Kenny Pickett
+QB
+Pittsburgh
+
+21
+
+Chiefs
+Kansas City
+Chiefs
+Trent McDuffie
+CB
+Washington
+NE>KC
+
+22
+
+Packers
+Green Bay
+Packers
+Quay Walker
+LB
+Georgia
+LV>GB
+
+23
+
+Bills
+Buffalo
+Bills
+Kaiir Elam
+CB
+Florida
+ARI>BAL>BUF
+
+24
+
+Cowboys
+Dallas
+Cowboys
+Tyler Smith
+OT
+Tulsa
+
+25
+
+Ravens
+Baltimore
+Ravens
+Tyler Linderbaum
+C
+Iowa
+BUF>BAL
+
+26
+
+Jets
+New York
+Jets
+Jermaine Johnson II
+DE
+Florida State
+TEN>NYJ
+
+27
+
+Jaguars
+Jacksonville
+Jaguars
+Devin Lloyd
+LB
+Utah
+TB>JAX
+
+28
+
+Packers
+Green Bay
+Packers
+Devonte Wyatt
+DT
+Georgia
+
+29
+
+Patriots
+New England
+Patriots
+Cole Strange
+G
+Tennessee-Chattanooga
+SF>MIA>KC>NE
+
+30
+
+Chiefs
+Kansas City
+Chiefs
+George Karlaftis
+EDGE
+Purdue
+
+31
+
+Bengals
+Cincinnati
+Bengals
+Daxton Hill
+SAF
+Michigan
+
+32
+
+Vikings
+Minnesota
+Vikings
+Lewis Cine
+SAF
+Georgia
+LAR>DET>MIN
+
+
+1
+
+Panthers
+Carolina
+Panthers
+Bryce Young
+QB
+Alabama
+CHI>CAR
+
+2
+
+Texans
+Houston
+Texans
+C.J. Stroud
+QB
+Ohio State
+
+3
+
+Texans
+Houston
+Texans
+Will Anderson Jr.
+EDGE
+Alabama
+ARI>HOU
+
+4
+
+Colts
+Indianapolis
+Colts
+Anthony Richardson
+QB
+Florida
+
+5
+
+Seahawks
+Seattle
+Seahawks
+Devon Witherspoon
+CB
+Illinois
+DEN>SEA
+
+6
+
+Cardinals
+Arizona
+Cardinals
+Paris Johnson Jr.
+OT
+Ohio State
+LA>DET>ARI
+
+7
+
+Raiders
+Las Vegas
+Raiders
+Tyree Wilson
+EDGE
+Texas Tech
+
+8
+
+Falcons
+Atlanta
+Falcons
+Bijan Robinson
+RB
+Texas
+
+9
+
+Eagles
+Philadelphia
+Eagles
+Jalen Carter
+DT
+Georgia
+CAR>CHI>PHI
+
+10
+
+Bears
+Chicago
+Bears
+Darnell Wright
+OT
+Tennessee
+NO>PHI>CHI
+
+11
+
+Titans
+Tennessee
+Titans
+Peter Skoronski
+OT
+Northwestern
+
+12
+
+Lions
+Detroit
+Lions
+Jahmyr Gibbs
+RB
+Alabama
+CLE>HOU>ARI>DET
+
+13
+
+Packers
+Green Bay
+Packers
+Lukas Van Ness
+EDGE
+Iowa
+NYJ>GB
+
+14
+
+Steelers
+Pittsburgh
+Steelers
+Broderick Jones
+OT
+Georgia
+NE>PIT
+
+15
+
+Jets
+New York
+Jets
+Will McDonald IV
+EDGE
+Iowa State
+GB>NYJ
+
+16
+
+Commanders
+Washington
+Commanders
+Emmanuel Forbes
+CB
+Mississippi State
+
+17
+
+Patriots
+New England
+Patriots
+Christian Gonzalez
+CB
+Oregon
+PIT>NE
+
+18
+
+Lions
+Detroit
+Lions
+Jack Campbell
+LB
+Iowa
+
+19
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Calijah Kancey
+DT
+Pittsburgh
+
+20
+
+Seahawks
+Seattle
+Seahawks
+Jaxon Smith-Njigba
+WR
+Ohio State
+
+21
+
+Chargers
+Los Angeles
+Chargers
+Quentin Johnston
+WR
+TCU
+
+22
+
+Ravens
+Baltimore
+Ravens
+Zay Flowers
+WR
+Boston College
+
+23
+
+Vikings
+Minnesota
+Vikings
+Jordan Addison
+WR
+USC
+
+24
+
+Giants
+New York
+Giants
+Deonte Banks
+CB
+Maryland
+JAX>NYG
+
+25
+
+Bills
+Buffalo
+Bills
+Dalton Kincaid
+TE
+Utah
+NYG>JAX>BUF
+
+26
+
+Cowboys
+Dallas
+Cowboys
+Mazi Smith
+DT
+Michigan
+
+27
+
+Jaguars
+Jacksonville
+Jaguars
+Anton Harrison
+OT
+Oklahoma
+BUF>JAX
+
+28
+
+Bengals
+Cincinnati
+Bengals
+Myles Murphy
+EDGE
+Clemson
+
+29
+
+Saints
+New Orleans
+Saints
+Bryan Bresee
+DT
+Clemson
+SF>MIA>DEN>NO
+
+30
+
+Eagles
+Philadelphia
+Eagles
+Nolan Smith
+EDGE
+Georgia
+
+31
+
+Chiefs
+Kansas City
+Chiefs
+Felix Anudike-Uzomah
+EDGE
+Kansas State
+
+1
+
+Bears
+Chicago
+Bears
+Caleb Williams
+QB
+USC
+CAR>CHI
+
+2
+
+Commanders
+Washington
+Commanders
+Jayden Daniels
+QB
+LSU
+
+3
+
+Patriots
+New England
+Patriots
+Drake Maye
+QB
+North Carolina
+
+4
+
+Cardinals
+Arizona
+Cardinals
+Marvin Harrison Jr.
+WR
+Ohio State
+
+5
+
+Chargers
+Los Angeles
+Chargers
+Joe Alt
+OT
+Notre Dame
+
+6
+
+Giants
+New York
+Giants
+Malik Nabers
+WR
+LSU
+
+7
+
+Titans
+Tennessee
+Titans
+JC Latham
+OT
+Alabama
+
+8
+
+Falcons
+Atlanta
+Falcons
+Michael Penix Jr.
+QB
+Washington
+
+9
+
+Bears
+Chicago
+Bears
+Rome Odunze
+WR
+Washington
+
+10
+
+Vikings
+Minnesota
+Vikings
+J.J. McCarthy
+QB
+Michigan
+NYJ>MIN
+
+11
+
+Jets
+New York
+Jets
+Olumuyiwa Fashanu
+OT
+Penn State
+MIN>NYJ
+
+12
+
+Broncos
+Denver
+Broncos
+Bo Nix
+QB
+Oregon
+
+13
+
+Raiders
+Las Vegas
+Raiders
+Brock Bowers
+TE
+Georgia
+
+14
+
+Saints
+New Orleans
+Saints
+Taliese Fuaga
+OT
+Oregon State
+
+15
+
+Colts
+Indianapolis
+Colts
+Laiatu Latu
+EDGE
+UCLA
+
+16
+
+Seahawks
+Seattle
+Seahawks
+Byron Murphy II
+DT
+Texas
+
+17
+
+Vikings
+Minnesota
+Vikings
+Dallas Turner
+EDGE
+Alabama
+JAX>MIN
+
+18
+
+Bengals
+Cincinnati
+Bengals
+Amarius Mims
+OT
+Georgia
+
+19
+
+Rams
+Los Angeles
+Rams
+Jared Verse
+EDGE
+Florida State
+
+20
+
+Steelers
+Pittsburgh
+Steelers
+Troy Fautanu
+OT
+Washington
+
+21
+
+Dolphins
+Miami
+Dolphins
+Chop Robinson
+EDGE
+Penn State
+
+22
+
+Eagles
+Philadelphia
+Eagles
+Quinyon Mitchell
+CB
+Toledo
+
+23
+
+Jaguars
+Jacksonville
+Jaguars
+Brian Thomas Jr.
+WR
+LSU
+CLE>HOU>MIN>JAX
+
+24
+
+Lions
+Detroit
+Lions
+Terrion Arnold
+CB
+Alabama
+DAL>DET
+
+25
+
+Packers
+Green Bay
+Packers
+Jordan Morgan
+OL
+Arizona
+
+26
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Graham Barton
+C
+Duke
+
+27
+
+Cardinals
+Arizona
+Cardinals
+Darius Robinson
+DE
+Missouri
+HOU>ARI
+
+28
+
+Chiefs
+Kansas City
+Chiefs
+Xavier Worthy
+WR
+Texas
+BUF>KC
+
+29
+
+Cowboys
+Dallas
+Cowboys
+Tyler Guyton
+OT
+Oklahoma
+DET>DAL
+
+30
+
+Ravens
+Baltimore
+Ravens
+Nate Wiggins
+CB
+Clemson
+
+31
+
+49ers
+San Francisco
+49ers
+Ricky Pearsall
+WR
+Florida
+
+32
+
+Panthers
+Carolina
+Panthers
+Xavier Legette
+WR
+South Carolina
+KC>BUF>CAR
+
+1
+
+Titans
+Tennessee
+Titans
+Cam Ward
+QB
+Miami
+
+2
+
+Jaguars
+Jacksonville
+Jaguars
+Travis Hunter
+WR/CB
+Colorado
+CLE>JAX
+
+3
+
+Giants
+New York
+Giants
+Abdul Carter
+EDGE
+Penn State
+
+4
+
+Patriots
+New England
+Patriots
+Will Campbell
+OT
+LSU
+
+5
+
+Browns
+Cleveland
+Browns
+Mason Graham
+DT
+Michigan
+JAX>CLE
+
+6
+
+Raiders
+Las Vegas
+Raiders
+Ashton Jeanty
+RB
+Boise State
+
+7
+
+Jets
+New York
+Jets
+Armand Membou
+OT
+Missouri
+
+8
+
+Panthers
+Carolina
+Panthers
+Tetairoa McMillan
+WR
+Arizona
+
+9
+
+Saints
+New Orleans
+Saints
+Kelvin Banks Jr.
+OT
+Texas
+
+10
+
+Bears
+Chicago
+Bears
+Colston Loveland
+TE
+Michigan
+
+11
+
+49ers
+San Francisco
+49ers
+Mykel Williams
+EDGE
+Georgia
+
+12
+
+Cowboys
+Dallas
+Cowboys
+Tyler Booker
+G
+Alabama
+
+13
+
+Dolphins
+Miami
+Dolphins
+Kenneth Grant
+DT
+Michigan
+
+14
+
+Colts
+Indianapolis
+Colts
+Tyler Warren
+TE
+Penn State
+
+15
+
+Falcons
+Atlanta
+Falcons
+Jalon Walker
+EDGE
+Georgia
+
+16
+
+Cardinals
+Arizona
+Cardinals
+Walter Nolen
+DT
+Mississippi
+
+17
+
+Bengals
+Cincinnati
+Bengals
+Shemar Stewart
+EDGE
+Texas A&M
+
+18
+
+Seahawks
+Seattle
+Seahawks
+Grey Zabel
+G
+North Dakota State
+
+19
+
+Buccaneers
+Tampa Bay
+Buccaneers
+Emeka Egbuka
+WR
+Ohio State
+
+20
+
+Broncos
+Denver
+Broncos
+Jahdae Barron
+CB
+Texas
+
+21
+
+Steelers
+Pittsburgh
+Steelers
+Derrick Harmon
+DT
+Oregon
+
+22
+
+Chargers
+Los Angeles
+Chargers
+Omarion Hampton
+RB
+North Carolina
+
+23
+
+Packers
+Green Bay
+Packers
+Matthew Golden
+WR
+Texas
+
+24
+
+Vikings
+Minnesota
+Vikings
+Donovan Jackson
+G
+Ohio State
+
+25
+
+Giants
+New York
+Giants
+Jaxson Dart
+QB
+Mississippi
+HOU>NYG
+
+26
+
+Falcons
+Atlanta
+Falcons
+James Pearce Jr.
+EDGE
+Tennessee
+LAR>ATL
+
+27
+
+Ravens
+Baltimore
+Ravens
+Malaki Starks
+SAF
+Georgia
+
+28
+
+Lions
+Detroit
+Lions
+Tyleik Williams
+DT
+Ohio State
+
+29
+
+Commanders
+Washington
+Commanders
+Josh Conerly Jr.
+OT
+Oregon
+
+30
+
+Bills
+Buffalo
+Bills
+Maxwell Hairston
+CB
+Kentucky
+
+31
+
+Eagles
+Philadelphia
+Eagles
+Jihaad Campbell
+LB
+Alabama
+KC>PHI
+
+32
+
+Chiefs
+Kansas City
+Chiefs
+Josh Simmons
+OT
+Ohio State
+PHI>KC

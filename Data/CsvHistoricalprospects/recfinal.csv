@@ -1,0 +1,415 @@
+rank,name,college,class,pos,receptions,rec yards,Tds,year
+1,Harold Fannin Jr.,BGSU,JR,TE,117,1555,10,2024
+2,Nick Nash,SJSU,SR,WR,104,1382,16,2024
+3,Tetairoa McMillan,Arizona,JR,WR,84,1319,8,2024
+4,Jeremiah Smith,Ohio State,FR,WR,76,1315,15,2024
+5,Travis Hunter,Colorado,JR,ATH,96,1258,15,2024
+6,Coleman Owen,Ohio,SR,WR,78,1245,8,2024
+7,Tyler Warren,Penn State,SR,TE,104,1233,8,2024
+8,Kyle Williams,Wash St,SR,WR,70,1198,14,2024
+9,Jaylin Noel,Iowa State,SR,WR,80,1194,8,2024
+10,Jayden Higgins,Iowa State,SR,WR,87,1183,9,2024
+11,Eric Rivers,FIU,JR,WR,62,1172,12,2024
+12,Andrew Armstrong,Arkansas,SR,WR,78,1140,1,2024
+13,Jamaal Pritchett,USA,SR,WR,91,1127,9,2024
+13,Xavier Restrepo,Miami (Fl),SR,WR,69,1127,11,2024
+15,Tai Felton,Maryland,SR,WR,96,1124,9,2024
+16,Jordyn Tyson,Ariz St,SO,WR,75,1101,10,2024
+17,Mac Dalena,Fresno St,SR,WR,64,1065,8,2024
+18,Corey Rucker,Ark St,JR,WR,69,1053,7,2024
+19,Jerjuan Newton,Toledo,SR,WR,72,1048,11,2024
+20,Devonte Ross,Troy,JR,WR,76,1043,11,2024
+21,Ricky White III,UNLV,SR,WR,79,1041,11,2024
+22,Jack Bech,TCU,SR,WR,62,1034,9,2024
+23,Mario Williams,Tulane,JR,WR,60,1031,6,2024
+24,Tre Harris,Miss,SR,WR,60,1030,7,2024
+25,Josh Kelly,Texas Tech,SR,WR,89,1023,5,2024
+26,Jackson Meeks,Syracuse,SR,WR,78,1021,7,2024
+27,Ja'Corey Brooks,Louisville,SR,WR,61,1013,9,2024
+28,Emeka Egbuka,Ohio State,SR,WR,81,1011,10,2024
+29,Matthew Golden,Texas,JR,WR,58,987,9,2024
+60,Colston Loveland,Michigan,JR,TE,56,582,5,2024
+1,Rome Odunze,Washington,JR,WR,92,1640,13,2023
+2,Malik Nabers,LSU,JR,WR,89,1569,14,2023
+3,Ricky White,UNLV,JR,WR,88,1483,8,2023
+4,Malik Washington,Virginia,SR,WR,110,1426,9,2023
+5,Tetairoa McMillan,Arizona,SO,WR,90,1402,10,2023
+6,Troy Franklin,Oregon,JR,WR,81,1383,14,2023
+7,Caullin Lacy,USA,JR,WR,91,1316,7,2023
+8,Xavier Legette,S Carolina,SR,WR,71,1255,7,2023
+9,Luther Burden III,Missouri,SO,WR,86,1212,9,2023
+10,Marvin Harrison Jr.,Ohio State,JR,WR,67,1211,14,2023
+11,Elijah Sarratt,James Mad,SO,WR,82,1191,8,2023
+12,Tez Johnson,Oregon,JR,WR,86,1182,10,2023
+13,"Brian Thomas, Jr.",LSU,JR,WR,68,1177,17,2023
+14,LaJohntay Wester,FAU,JR,WR,108,1168,8,2023
+15,Ja'Lynn Polk,Washington,SO,WR,69,1159,9,2023
+16,Joshua Cephus,UTSA,SR,WR,89,1151,10,2023
+17,Javon Baker,UCF,SR,WR,52,1139,7,2023
+18,Tory Horton,CSU,SR,WR,96,1136,8,2023
+19,Kris Mitchell,FIU,JR,WR,64,1118,6,2023
+20,Xavier Restrepo,Miami (Fl),JR,WR,85,1092,6,2023
+21,Roc Taylor,Memphis,JR,WR,69,1083,4,2023
+22,Jalen Royals,Utah State,JR,WR,71,1080,15,2023
+23,CJ Daniels,Liberty,JR,WR,55,1067,10,2023
+24,Tahj Washington,USC,SR,WR,59,1062,8,2023
+25,Isaiah Williams,Illinois,JR,WR,82,1055,5,2023
+26,Sean Atkins,S Florida,JR,WR,92,1054,7,2023
+26,Reggie Brown,James Mad,SR,WR,53,1054,9,2023
+28,Kelly Akharaiyi,UTEP,JR,WR,48,1033,7,2023
+29,Sam Pinckney,Coast Car,SR,WR,72,1027,8,2023
+30,Steven McBride,Hawai'i,SR,WR,63,1024,9,2023
+31,Xavier Worthy,Texas,JR,WR,75,1014,5,2023
+32,Elic Ayomanor,Stanford,FR,WR,62,1013,6,2023
+33,Ja'Mori Maclin,N Texas,SO,WR,57,1004,11,2023
+34,Jabre Barber,Troy,JR,WR,75,999,5,2023
+35,Luke McCaffrey,Rice,JR,WR,71,992,13,2023
+36,Brennan Presley,Okla St,SR,WR,101,991,6,2023
+37,Tre Harris,Miss,SR,WR,54,985,8,2023
+38,Malachi Corley,Western Ky,JR,WR,79,984,11,2023
+39,Jayden Higgins,Iowa State,JR,WR,53,983,6,2023
+40,Ricky Pearsall,Florida,SR,WR,65,965,4,2023
+50,Brock Bowers,Georgia,JR,TE,56,714,6,2023
+1,Nathaniel Dell,Houston,JR,WR,109,1398,17,2022
+2,Charlie Jones,Purdue,SR,WR,110,1361,12,2022
+3,Rashee Rice,SMU,SR,WR,96,1355,10,2022
+4,Malachi Corley,Western Ky,SO,WR,101,1293,11,2022
+5,Jalin Hyatt,Tennessee,JR,WR,67,1267,15,2022
+6,Marvin Harrison Jr.,Ohio State,SO,WR,77,1263,14,2022
+7,Keylon Stokes,Tulsa,SR,WR,76,1224,8,2022
+8,Xavier Hutchinson,Iowa State,SR,WR,107,1171,6,2022
+9,Emeka Egbuka,Ohio State,SO,WR,74,1151,10,2022
+10,Rome Odunze,Washington,SO,WR,75,1145,7,2022
+11,Zakhari Franklin,UTSA,SR,WR,94,1136,15,2022
+12,Tory Horton,CSU,JR,WR,71,1131,8,2022
+13,Jamari Thrash,Georgia St,JR,WR,61,1122,7,2022
+14,Dorian Singer,Arizona,SO,WR,66,1105,6,2022
+15,Jalen McMillan,Washington,SO,WR,79,1098,9,2022
+16,A.T. Perry,Wk Forest,JR,WR,81,1096,11,2022
+17,Jalen Moreno-Cropper,Fresno St,SR,WR,83,1086,5,2022
+18,Isaiah Winstead,ECU,SR,WR,88,1085,6,2022
+19,Marvin Mims Jr.,Oklahoma,JR,WR,54,1083,6,2022
+20,Zay Flowers,BC,SR,WR,78,1077,12,2022
+21,Elijah Cooks,SJSU,SR,WR,69,1076,10,2022
+22,Quentin Johnston,TCU,JR,WR,60,1069,6,2022
+23,Jared Wayne,Pittsburgh,SR,WR,60,1057,5,2022
+24,Trey Palmer,Nebraska,JR,WR,71,1043,9,2022
+25,Tyrin Smith,UTEP,SO,WR,71,1039,7,2022
+26,Jacob Cowing,Arizona,JR,WR,85,1034,7,2022
+26,Tyler Hudson,Louisville,SR,WR,69,1034,2,2022
+28,Josh Downs,N Carolina,JR,WR,94,1029,11,2022
+29,Malik Nabers,LSU,SO,WR,72,1017,3,2022
+30,C.J. Johnson,ECU,JR,WR,67,1016,10,2022
+31,Kris Thornton,James Mad,SR,WR,59,1015,7,2022
+32,Sam Pinckney,Coast Car,SR,WR,71,996,3,2022
+33,Demario Douglas,Liberty,SO,WR,79,993,6,2022
+34,Joshua Cephus,UTSA,SR,WR,87,985,6,2022
+35,Malik Heath,Miss,SR,WR,60,971,5,2022
+36,Oronde Gadsden II,Syracuse,SO,TE,61,969,6,2022
+37,Jeremiah Hunter,California,JR,WR,60,965,5,2022
+38,Ali Jennings III,ODU,JR,WR,54,959,9,2022
+39,Elijah Spencer,Charlotte,SO,WR,57,943,9,2022
+40,Brock Bowers,Georgia,SO,TE,63,942,7,2022
+41,Jaylin Lane,MTSU,SO,WR,69,940,5,2022
+42,Tre Harris,La Tech,SO,WR,65,935,10,2022
+43,Shocky Jacques-Louis,Akron,SR,WR,74,931,2,2022
+44,Antwane Wells Jr.,S Carolina,JR,WR,68,928,6,2022
+45,Khaleb Hood,Ga South,SR,WR,87,925,3,2022
+46,Trea Shropshire,UAB,SR,WR,41,923,6,2022
+46,Brian Cobbs,Utah State,SR,WR,76,923,5,2022
+48,Devontez Walker,Kent State,SO,WR,58,921,11,2022
+49,Jose Barbon,Temple,SR,WR,72,918,2,2022
+50,Matt Landers,Arkansas,SR,WR,47,901,8,2022
+51,Tyler Scott,Cincinnati,JR,WR,54,899,9,2022
+52,Johnny Wilson,FSU,SO,WR,43,897,5,2022
+53,Troy Franklin,Oregon,SO,WR,61,891,9,2022
+53,Jason Brownlee,USM,SR,WR,55,891,8,2022
+55,Dalton Kincaid,Utah,SR,TE,70,890,8,2022
+56,Ronnie Bell,Michigan,SR,WR,62,889,4,2022
+57,Sam Wiglusz,Ohio,SR,WR,74,883,11,2022
+58,Bradley Rozner,Rice,SR,WR,44,876,10,2022
+59,Jordan Addison,USC,JR,WR,59,875,8,2022
+1,Jerreth Sterns,Western Ky,JR,WR,150,1902,17,2021
+2,Deven Thompkins,Utah State,SR,WR,102,1704,10,2021
+3,Jaxon Smith-Njigba,Ohio State,SO,WR,95,1606,9,2021
+4,Jordan Addison,Pittsburgh,SO,WR,100,1593,17,2021
+5,Jameson Williams,Alabama,JR,WR,79,1572,15,2021
+6,Jalen Tolbert,USA,JR,WR,82,1474,8,2021
+7,Jack Sorenson,Miami (Oh),SR,WR,76,1406,10,2021
+8,Mitchell Tinsley,Western Ky,JR,WR,87,1402,14,2021
+9,Jacob Cowing,UTEP,SO,WR,69,1367,7,2021
+10,Wan'Dale Robinson,Kentucky,JR,WR,104,1348,7,2021
+11,Josh Downs,N Carolina,SO,WR,101,1335,8,2021
+12,Nathaniel Dell,Houston,SO,WR,90,1329,12,2021
+13,Skyy Moore,W Mich,SO,WR,96,1293,10,2021
+13,A.T. Perry,Wk Forest,SO,WR,71,1293,15,2021
+15,David Bell,Purdue,JR,WR,93,1286,6,2021
+16,Dante Cephas,Kent State,SO,WR,82,1240,9,2021
+17,Dontayvion Wicks,Virginia,SO,WR,57,1203,9,2021
+18,Jahan Dotson,Penn State,SR,WR,91,1182,12,2021
+19,Charleston Rambo,Miami (Fl),JR,WR,79,1172,7,2021
+20,Calvin Austin III,Memphis,SR,WR,74,1149,8,2021
+21,John Metchie III,Alabama,JR,WR,96,1142,8,2021
+22,Jaivon Heiligh,Coast Car,SR,WR,66,1128,7,2021
+23,Trey McBride,CSU,SR,TE,90,1121,1,2021
+24,Khalil Shakir,Boise St,SR,WR,77,1117,7,2021
+25,Romeo Doubs,Nevada,SR,WR,80,1109,11,2021
+26,Treylon Burks,Arkansas,JR,WR,66,1104,11,2021
+27,Josh Johnson,Tulsa,SR,WR,82,1087,6,2021
+28,Drake London,USC,JR,WR,88,1084,7,2021
+29,Cedric Tillman,Tennessee,JR,WR,64,1081,12,2021
+30,Jaquarii Roberson,Wk Forest,JR,WR,71,1078,8,2021
+31,Tyrese Chambers,FIU,SO,WR,45,1074,9,2021
+32,Ali Jennings III,ODU,SO,WR,61,1063,5,2021
+33,Garrett Wilson,Ohio State,JR,WR,70,1058,12,2021
+34,Makai Polk,Miss St,SO,WR,105,1046,9,2021
+34,Tay Martin,Okla St,SR,WR,80,1046,10,2021
+36,Dontario Drummond,Miss,SR,WR,76,1028,8,2021
+37,Zakhari Franklin,UTSA,JR,WR,81,1027,12,2021
+38,Jayden Reed,Mich St,JR,WR,59,1026,10,2021
+39,Hassan Beydoun,EMU,JR,WR,97,1015,4,2021
+40,Xavier Hutchinson,Iowa State,SR,WR,83,987,5,2021
+41,Xavier Worthy,Texas,FR,WR,62,981,12,2021
+42,Calvin Jackson Jr.,Wash St,SR,WR,66,978,7,2021
+43,Keytaon Thompson,Virginia,SR,FBP,77,973,2,2021
+44,Tyquan Thornton,Baylor,SR,WR,62,942,10,2021
+45,Chris Olave,Ohio State,SR,WR,65,936,13,2021
+46,Nick Mardner,Hawai'i,JR,WR,46,913,5,2021
+47,Isaiah Likely,Coast Car,SR,TE,59,912,12,2021
+48,Corey Sutton,App St,SR,WR,61,904,7,2021
+49,Jalen Cropper,Fresno St,JR,WR,85,899,11,2021
+50,Samori Toure,Nebraska,SR,WR,46,898,5,2021
+51,Grant DuBose,Charlotte,SO,WR,62,892,6,2021
+55,Brock Bowers,Georgia,FR,TE,56,882,13,2021
+1,DeVonta Smith,Alabama,SR,WR,117,1856,23,2020
+2,Elijah Moore,Miss,JR,WR,86,1193,8,2020
+3,Jaelon Darden,N Texas,SR,WR,74,1190,19,2020
+4,Dax Milne,BYU,JR,WR,70,1188,8,2020
+5,"Jonathan Adams, Jr.",Ark St,SR,WR,79,1111,12,2020
+6,Dyami Brown,N Carolina,JR,WR,55,1099,8,2020
+7,Jalen Tolbert,USA,JR,WR,64,1085,8,2020
+8,Calvin Austin III,Memphis,JR,WR,63,1053,11,2020
+9,Marlon Williams,UCF,SR,WR,71,1039,10,2020
+10,Amari Rodgers,Clemson,SR,WR,77,1020,7,2020
+11,Romeo Doubs,Nevada,JR,WR,58,1002,9,2020
+12,Jaivon Heiligh,Coast Car,JR,WR,65,998,10,2020
+13,Kadarius Toney,Florida,SR,ATH,70,984,10,2020
+14,Jaylon Robinson,UCF,SO,WR,55,979,6,2020
+15,Jaquarii Roberson,Wk Forest,JR,WR,62,926,8,2020
+16,Tylan Wallace,Okla St,SR,WR,59,922,6,2020
+17,John Metchie III,Alabama,SO,WR,55,916,6,2020
+18,Zay Flowers,BC,SO,WR,56,892,9,2020
+19,Jahan Dotson,Penn State,JR,WR,52,884,8,2020
+20,Cornell Powell,Clemson,SR,WR,53,882,7,2020
+21,Dez Fitzpatrick,Louisville,SR,WR,43,833,3,2020
+22,Treylon Burks,Arkansas,SO,WR,51,820,7,2020
+23,Sam Pinckney,Georgia St,SO,WR,47,815,7,2020
+24,Mike Harley,Miami (Fl),SR,WR,57,799,7,2020
+25,D'Wayne Eskridge,W Mich,SR,WR,34,784,8,2020
+26,Xavier Hutchinson,Iowa State,JR,WR,64,771,4,2020
+27,Kyle Pitts,Florida,JR,TE,43,770,12,2020
+28,Gunner Romney,BYU,JR,WR,39,767,2,2020
+29,Seth Williams,Auburn,JR,WR,47,760,4,2020
+30,Kaylon Geiger,Troy,SR,WR,64,752,3,2020
+31,Erik Ezukanma,Texas Tech,SO,WR,46,748,6,2020
+32,Tahj Washington,Memphis,FR,WR,43,743,6,2020
+33,Emeka Emezie,NC State,SR,WR,47,738,5,2020
+34,Kayshon Boutte,LSU,FR,WR,45,735,5,2020
+35,Taj Harris,Syracuse,JR,WR,58,733,5,2020
+36,Terrace Marshall Jr.,LSU,JR,WR,48,731,10,2020
+37,Chris Olave,Ohio State,JR,WR,50,729,7,2020
+38,Bailey Gaither,SJSU,SR,WR,41,725,4,2020
+39,Garrett Wilson,Ohio State,SO,WR,43,723,6,2020
+40,Ty Fryfogle,Indiana,SR,WR,37,721,7,2020
+41,Khalil Shakir,Boise St,JR,WR,52,719,6,2020
+42,Jaden Walley,Miss St,FR,WR,52,718,2,2020
+43,Javon McKinley,Notre Dame,SR,WR,42,717,3,2020
+44,Zakhari Franklin,UTSA,SO,WR,49,694,7,2020
+45,Jacob Cowing,UTEP,SO,WR,41,691,3,2020
+46,Hunter Long,BC,JR,TE,57,685,5,2020
+47,Dazz Newsome,N Carolina,SR,WR,54,684,6,2020
+48,Rashee Rice,SMU,SO,WR,48,683,5,2020
+49,Jordan Addison,Pittsburgh,FR,WR,60,666,4,2020
+50,Justin Hall,Ball State,SR,WR,49,665,4,2020
+51,Kawaan Baker,USA,SR,WR,51,659,8,2020
+52,Keylon Stokes,Tulsa,SR,WR,46,644,3,2020
+52,Billy Kemp IV,Virginia,JR,HB,67,644,1,2020
+54,Bo Melton,Rutgers,SR,WR,47,638,6,2020
+55,Anthony Schwartz,Auburn,JR,WR,54,636,3,2020
+56,DJ Turner,Pittsburgh,SR,WR,44,634,3,2020
+57,Shi Smith,S Carolina,SR,WR,57,633,4,2020
+58,Tre Walker,SJSU,SR,WR,45,627,4,2020
+59,David Bell,Purdue,SO,WR,53,625,8,2020
+59,Tutu Atwell,Louisville,JR,WR,46,625,7,2020
+61,Mike Woods,Arkansas,JR,WR,32,619,5,2020
+62,Thomas Hennigan,App St,SR,WR,47,616,3,2020
+63,Jason Brownlee,USM,JR,WR,34,610,5,2020
+63,Marvin Mims,Oklahoma,FR,WR,37,610,9,2020
+65,Yo'Heinz Tyler,Ball State,JR,WR,42,607,8,2020
+66,Cole Turner,Nevada,JR,TE,49,605,9,2020
+67,Neil Pau'u,BYU,JR,WR,45,603,4,2020
+68,Isaiah Likely,Coast Car,JR,TE,30,601,5,2020
+69,Tyrice Richie,N Illinois,SR,WR,53,597,4,2020
+70,Tayvion Robinson,Va Tech,SO,WR,38,592,3,2020
+71,Jaylen Waddle,Alabama,JR,WR,28,591,4,2020
+71,Charlie Kolar,Iowa State,JR,TE,44,591,7,2020
+73,Trevon Grimes,Florida,SR,WR,38,589,9,2020
+74,Travis Etienne,Clemson,SR,RB,48,588,2,2020
+1,Ja'Marr Chase,LSU,SO,WR,84,1780,20,2019
+2,Omar Bayless,Ark St,SR,WR,93,1653,17,2019
+3,Justin Jefferson,LSU,JR,WR,111,1540,18,2019
+4,Antonio Gandy-Golden,Liberty,SR,WR,79,1396,10,2019
+5,Devin Duvernay,Texas,SR,WR,106,1386,9,2019
+6,CeeDee Lamb,Oklahoma,JR,WR,62,1327,14,2019
+7,Tyler Johnson,Minnesota,SR,WR,86,1318,13,2019
+8,Chatarius Atwell,Louisville,SO,WR,70,1276,12,2019
+8,Damonte Coxie,Memphis,JR,WR,76,1276,9,2019
+10,Michael Pittman Jr.,USC,SR,WR,101,1275,11,2019
+11,DeVonta Smith,Alabama,JR,WR,68,1256,14,2019
+12,Gabriel Davis,UCF,JR,WR,72,1241,12,2019
+13,James Proche,SMU,SR,WR,111,1225,15,2019
+14,Rashod Bateman,Minnesota,SO,WR,60,1219,11,2019
+15,Brandon Aiyuk,Ariz St,SR,WR,65,1192,8,2019
+16,Tamorrion Terry,FSU,SO,WR,60,1188,9,2019
+17,Isaiah Hodgins,Oregon St,JR,WR,86,1171,13,2019
+18,Tee Higgins,Clemson,JR,WR,59,1167,13,2019
+19,Jerry Jeudy,Alabama,JR,WR,77,1163,10,2019
+20,Tre Walker,SJSU,JR,WR,79,1161,2,2019
+21,Quez Watkins,USM,JR,WR,63,1145,6,2019
+22,JoJo Ward,Hawai'i,SR,WR,65,1134,11,2019
+23,Lucky Jackson,Western Ky,SR,WR,94,1133,4,2019
+24,Jared Smart,Hawai'i,JR,WR,87,1129,5,2019
+25,Warren Jackson,CSU,JR,WR,77,1119,8,2019
+26,Brandon Arconado,Wash St,SR,WR,78,1109,7,2019
+27,Cedric Byrd II,Hawai'i,SR,WR,98,1097,10,2019
+28,Austin Watkins Jr.,UAB,JR,WR,57,1092,6,2019
+29,Jadan Blue,Temple,SO,WR,95,1067,4,2019
+30,Hasise Dubois,Virginia,SR,WR,75,1062,6,2019
+31,Amon-Ra St. Brown,USC,SO,WR,77,1042,6,2019
+32,Keylon Stokes,Tulsa,JR,WR,62,1040,6,2019
+33,Chase Claypool,Notre Dame,SR,WR,66,1037,13,2019
+34,David Bell,Purdue,FR,WR,86,1035,7,2019
+35,Dyami Brown,N Carolina,SO,WR,51,1034,12,2019
+36,Trishton Jackson,Syracuse,JR,WR,66,1023,11,2019
+37,Denzel Mims,Baylor,SR,WR,66,1020,12,2019
+38,Dazz Newsome,N Carolina,JR,WR,72,1018,10,2019
+39,Harrison Bryant,FAU,SR,TE,65,1004,7,2019
+40,Whop Philyor,Indiana,JR,WR,70,1002,5,2019
+41,Sage Surratt,Wk Forest,SO,WR,66,1001,11,2019
+41,Kendall Hinton,Wk Forest,SR,WR,73,1001,4,2019
+43,Siaosi Mariner,Utah State,SR,WR,63,987,10,2019
+44,Easop Winston Jr.,Wash St,SR,WR,85,970,11,2019
+45,Jauan Jennings,Tennessee,SR,WR,59,969,8,2019
+46,John Hightower,Boise St,SR,WR,51,943,8,2019
+47,Elijah Cooks,Nevada,JR,WR,76,926,8,2019
+48,Cody White,Mich St,JR,WR,66,922,6,2019
+49,Jason-Matthew Sharsh,Hawai'i,SR,WR,87,913,5,2019
+50,Tyler Vaughns,USC,JR,WR,74,912,6,2019
+51,Victor Tucker,Charlotte,SO,WR,52,909,7,2019
+52,C.J. Johnson,ECU,FR,WR,54,908,4,2019
+53,Marquez Stevenson,Houston,JR,WR,52,907,9,2019
+54,Ja'Marcus Bradley,La-Lafytte,SR,WR,60,906,10,2019
+55,Branden Mack,Temple,JR,WR,59,904,7,2019
+55,KJ Hamler,Penn State,JR,WR,56,904,8,2019
+57,Tylan Wallace,Okla St,JR,WR,53,903,8,2019
+58,Tim Jones,USM,JR,WR,73,902,3,2019
+59,Quintez Cephus,Wisconsin,JR,WR,59,901,7,2019
+60,JD Spielman,Nebraska,JR,WR,49,898,5,2019
+61,Kalil Pimpleton,CMU,SO,WR,82,894,6,2019
+62,Terrell Jana,Virginia,JR,WR,74,886,3,2019
+63,Deshaunte Jones,Iowa State,SR,WR,76,877,2,2019
+64,Kaylon Geiger,Troy,JR,WR,77,873,5,2019
+65,Jhamon Ausbon,Texas A&M,JR,WR,66,872,5,2019
+65,Khalil Shakir,Boise St,SO,WR,63,872,6,2019
+67,Isaiah McKoy,Kent State,SO,WR,57,870,8,2019
+68,Justyn Ross,Clemson,SO,WR,66,865,8,2019
+69,"Jonathan Adams, Jr.",Ark St,JR,WR,62,851,5,2019
+70,Maurice Ffrench,Pittsburgh,SR,WR,96,850,4,2019
+70,Elijah Moore,Miss,SO,WR,67,850,6,2019
+72,Chris Olave,Ohio State,SO,WR,49,849,12,2019
+73,Johnny Johnson III,Oregon,JR,WR,57,836,7,2019
+74,Andrew Parchment,Kansas,JR,WR,65,831,7,2019
+75,Brycen Hopkins,Purdue,SR,TE,61,830,7,2019
+75,Seth Williams,Auburn,SO,WR,59,830,8,2019
+75,Tre Nixon,UCF,JR,WR,49,830,7,2019
+78,Hunter Bryant,Washington,JR,TE,52,825,3,2019
+79,Bryan Edwards,S Carolina,SR,WR,71,816,6,2019
+80,Bailey Gaither,SJSU,SR,WR,52,812,6,2019
+81,JaCorey Sullivan,CMU,JR,WR,57,808,3,2019
+82,Kirk Merritt,Ark St,SR,WR,70,806,12,2019
+83,Dante Wright,CSU,FR,WR,57,805,4,2019
+84,Jahcour Pearson,Western Ky,JR,WR,76,804,7,2019
+85,"Reggie Roberson, Jr.",SMU,JR,WR,43,803,6,2019
+86,Skyy Moore,W Mich,FR,WR,51,802,3,2019
+87,Tyquan Thornton,Baylor,SO,WR,45,782,5,2019
+88,Sam Crawford Jr.,Tulsa,SO,WR,59,777,5,2019
+89,Thomas Hennigan,App St,JR,WR,61,773,6,2019
+90,Deangelo Antoine,FAU,SR,WR,61,771,5,2019
+91,Brad Rozner,Rice,JR,WR,55,770,5,2019
+92,Laviska Shenault Jr.,Colorado,JR,WR,56,764,4,2019
+93,Dezmon Patmon,Wash St,SR,WR,58,762,8,2019
+94,Tyler Snead,ECU,FR,WR,66,759,5,2019
+95,Ronnie Bell,Michigan,SO,WR,48,758,1,2019
+96,Cornelius McCoy,Georgia St,SO,WR,70,757,5,2019
+97,Henry Ruggs III,Alabama,JR,WR,40,746,7,2019
+1,Andy Isabella,U Mass,SR,WR,102,1698,13,2018
+2,Tylan Wallace,Okla St,SO,WR,86,1491,12,2018
+3,Antoine Wesley,Texas Tech,JR,WR,88,1410,9,2018
+4,Preston Williams,CSU,JR,WR,96,1345,14,2018
+5,John Ursua,Hawai'i,JR,WR,89,1343,16,2018
+6,KeeSean Johnson,Fresno St,SR,WR,95,1340,8,2018
+7,A.J. Brown,Miss,JR,WR,85,1320,6,2018
+8,Hakeem Butler,Iowa State,JR,WR,60,1318,9,2018
+8,Marquise Brown,Oklahoma,JR,WR,75,1318,10,2018
+10,Jerry Jeudy,Alabama,SO,WR,68,1315,14,2018
+11,Rondale Moore,Purdue,FR,WR,114,1258,12,2018
+12,James Proche,SMU,JR,WR,93,1199,12,2018
+13,Kelvin Harmon,NC State,JR,WR,81,1186,7,2018
+14,Dillon Mitchell,Oregon,JR,WR,75,1184,10,2018
+15,Lil'Jordan Humphrey,Texas,JR,WR,86,1176,9,2018
+16,Damonte Coxie,Memphis,SO,WR,72,1174,7,2018
+17,Tyler Johnson,Minnesota,JR,WR,78,1169,12,2018
+18,CeeDee Lamb,Oklahoma,SO,WR,65,1158,11,2018
+19,Scott Miller,BGSU,SR,WR,71,1148,9,2018
+20,Adrian Hardy,La Tech,SO,WR,75,1145,6,2018
+21,Trevon Brown,ECU,SR,WR,74,1123,9,2018
+22,N'Keal Harry,Ariz St,JR,WR,73,1088,9,2018
+23,Travis Fulgham,ODU,SR,WR,63,1083,9,2018
+24,Greg Dortch,Wk Forest,SO,WR,89,1078,8,2018
+25,Parris Campbell,Ohio State,SR,WR,90,1063,12,2018
+26,Jalen Reagor,TCU,SO,WR,72,1061,9,2018
+27,JJ Arcega-Whiteside,Stanford,SR,WR,63,1059,14,2018
+28,Olamide Zaccheaus,Virginia,SR,HB,93,1058,9,2018
+29,Jakobi Meyers,NC State,JR,WR,92,1047,4,2018
+30,Jonathan Duhart,ODU,SR,WR,74,1045,9,2018
+31,Antonio Gandy-Golden,Liberty,JR,WR,71,1037,10,2018
+32,Marquez Stevenson,Houston,SO,WR,75,1019,9,2018
+33,"Rico Bussey, Jr.",N Texas,JR,WR,68,1017,12,2018
+34,Laviska Shenault Jr.,Colorado,SO,WR,86,1011,6,2018
+34,Anthony Johnson,Buffalo,SR,WR,57,1011,11,2018
+36,Kirk Merritt,Ark St,JR,WR,83,1005,7,2018
+37,Stanley Morgan Jr.,Nebraska,SR,WR,70,1004,7,2018
+38,Tyre Brady,Marshall,SR,WR,71,1002,9,2018
+39,Justyn Ross,Clemson,FR,WR,46,1000,9,2018
+40,Darnell Mooney,Tulane,JR,WR,48,993,8,2018
+41,Papi White,Ohio,SR,WR,62,987,9,2018
+42,David Sills V,WVU,SR,WR,65,986,15,2018
+43,Collin Johnson,Texas,JR,WR,68,985,7,2018
+44,Sean Modster,Boise St,SR,WR,68,978,8,2018
+45,Cedric Byrd,Hawai'i,JR,WR,79,970,9,2018
+46,Caleb Wilson,UCLA,JR,TE,60,965,4,2018
+47,Jalen Hurd,Baylor,SR,WR,69,946,4,2018
+48,Tee Higgins,Clemson,SO,WR,59,936,12,2018
+49,Gary Jennings Jr.,WVU,SR,WR,54,917,13,2018
+50,Kalija Lipscomb,Vanderbilt,JR,WR,87,916,9,2018
+51,Jamal Custis,Syracuse,SR,WR,51,906,6,2018
+52,K.J. Osborn,Buffalo,JR,WR,53,892,7,2018
+53,Quez Watkins,USM,SO,WR,72,889,9,2018
+54,Ty Lee,MTSU,JR,WR,71,883,7,2018
+55,Deebo Samuel,S Carolina,SR,WR,62,882,11,2018
+56,Riley Miller,Ball State,JR,WR,61,878,7,2018
+57,DaMarkus Lodge,Miss,SR,WR,65,877,4,2018
+58,Isaiah Hodgins,Oregon St,SO,WR,59,876,5,2018
+58,Damion Willis,Troy,SR,WR,56,876,10,2018
+60,McLane Mannix,Nevada,SO,WR,50,875,7,2018
+60,Justin Jefferson,LSU,SO,WR,54,875,6,2018

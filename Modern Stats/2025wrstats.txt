@@ -1,0 +1,80 @@
+2025
+1	Danny Scudero	SJSU	SO	WR	12	88	1297	14.74	10	7.3	108.1
+2	Skyler Bell	UConn	SR	WR	13	101	1278	12.65	13	7.8	98.3
+3	Makai Lemon	USC	JR	WR	12	79	1156	14.63	11	6.6	96.3
+4	Jeremiah Smith	Ohio State	SO	WR	13	87	1243	14.29	12	6.7	95.6
+5	Beau Sparks	Texas St	JR	WR	13	84	1200	14.29	10	6.5	92.3
+6	Eric McAlister	TCU	SR	WR	13	72	1190	16.53	10	5.5	91.5
+7	Wyatt Young	N Texas	SO	WR	14	70	1264	18.06	10	5.0	90.3
+7	KJ Duff	Rutgers	SO	WR	12	60	1084	18.07	7	5.0	90.3
+9	Duce Robinson	FSU	JR	WR	12	56	1081	19.30	6	4.7	90.1
+10	Easton Messer	FAU	JR	WR	12	104	1052	10.12	6	8.7	87.7
+11	Jackson Harris	Hawai'i	SO	WR	11	49	963	19.65	12	4.5	87.5
+12	Chris Brazzell II	Tennessee	JR	WR	12	62	1017	16.40	9	5.2	84.8
+13	Chris Dawn, Jr.	Texas St	JR	WR	12	65	1007	15.49	4	5.4	83.9
+14	Ted Hurst	Georgia St	SR	WR	12	71	1004	14.14	6	5.9	83.7
+15	Chris Bell	Louisville	SR	WR	11	72	917	12.74	6	6.5	83.4
+16	Camden Brown	Ga South	SR	WR	13	65	1079	16.60	14	5.0	83.0
+17	Lewis Bond	BC	SR	WR	12	88	993	11.28	1	7.3	82.8
+18	Nik McMillan	Buffalo	JR	WR	12	62	981	15.82	3	5.2	81.8
+19	Brenen Thompson	Miss St	SR	WR	13	57	1054	18.49	6	4.4	81.1
+20	Anthony Smith	ECU	SR	WR	13	64	1053	16.45	7	4.9	81.0
+21	Chase Hendricks	Ohio	JR	WR	13	71	1037	14.61	7	5.5	79.8
+22	Carnell Tate	Ohio State	JR	WR	11	51	875	17.16	9	4.6	79.5
+23	Corey Rucker	Ark St	SR	WR	13	75	1032	13.76	4	5.8	79.4
+24	Jacob De Jesus	California	SR	WR	13	108	1030	9.54	6	8.3	79.2
+25	Cooper Barkate	Duke	SR	WR	14	72	1106	15.36	7	5.1	79.0
+26	Junior Vandeross III	Toledo	SR	WR	13	82	1008	12.29	11	6.3	77.5
+27	Iverson Hooks	UAB	SO	WR	12	72	927	12.88	7	6.0	77.3
+28	Braden Pegan	Utah State	JR	WR	12	60	926	15.43	5	5.0	77.2
+29	Mario Craver	Texas A&M	SO	WR	12	59	917	15.54	4	4.9	76.4
+30	Ian Strong	Rutgers	JR	WR	10	52	762	14.65	5	5.2	76.2
+31	Malachi Toney	Miami (Fl)	FR	WR	16	109	1211	11.11	10	6.8	75.7
+32	Amare Thomas	Houston	JR	WR	13	67	966	14.42	12	5.2	74.3
+33	Isaiah Sategna III	Oklahoma	JR	WR	13	67	965	14.40	8	5.2	74.2
+34	Cortez Braham Jr.	Memphis	SR	WR	12	63	889	14.11	8	5.3	74.1
+35	Omarion Miller	Colorado	JR	WR	11	45	808	17.96	8	4.1	73.5
+36	Denzel Boston	Washington	JR	WR	12	62	881	14.21	11	5.2	73.4
+37	Keshaun Singleton	S Florida	JR	WR	12	50	877	17.54	8	4.2	73.1
+38	Josh Cameron	Baylor	SR	WR	12	69	872	12.64	9	5.8	72.7
+39	Eli Heidenreich	Navy	SR	SB	13	51	941	18.45	6	3.9	72.4
+40	Jayce Brown	Kansas St	JR	WR	10	41	712	17.37	5	4.1	71.2
+41	KC Concepcion	Texas A&M	JR	WR	13	61	919	15.07	9	4.7	70.7
+42	Kam Perry	Miami (Oh)	JR	WR	14	43	976	22.70	6	3.1	69.7
+43	Jordan Hudson	SMU	SR	WR	11	61	766	12.56	6	5.5	69.6
+44	Trent Walker	Oregon St	SR	WR	12	68	823	12.10	2	5.7	68.6
+45	Matthew Henry	Western Ky	SR	WR	13	55	888	16.15	6	4.2	68.3
+46	Victor Snow	Buffalo	JR	WR	12	62	815	13.15	8	5.2	67.9
+47	Gabriel Benyard	KSU	SR	WR	14	60	949	15.82	9	4.3	67.8
+48	Griffin Wilde	N'western	JR	WR	13	71	880	12.39	8	5.5	67.7
+48	Ja'Kobi Lane	USC	JR	WR	11	49	745	15.20	4	4.5	67.7
+50	Sean Wilson	Delaware	SO	WR	13	68	877	12.90	3	5.2	67.5
+51	Hank Beatty	Illinois	SR	WR	13	70	864	12.34	3	5.4	66.5
+51	Jaden Bradley	UNLV	SR	WR	14	58	931	16.05	4	4.1	66.5
+53	Parker Kingston	BYU	JR	WR	14	67	928	13.85	5	4.8	66.3
+54	Trell Harris	Virginia	SR	WR	13	59	847	14.36	5	4.5	65.2
+55	Cameron Dorner	N Texas	SR	WR	14	56	911	16.27	8	4.0	65.1
+56	Devin Voisin	USA	SR	WR	12	67	776	11.58	4	5.6	64.7
+57	Alex Perry	FIU	JR	WR	13	56	840	15.00	9	4.3	64.6
+58	Braylon Staley	Tennessee	FR	WR	13	68	837	12.31	6	5.2	64.4
+58	T.J. Moore	Clemson	SO	WR	13	52	837	16.10	4	4.0	64.4
+60	Keagan Johnson	New Mexico	SR	WR	12	61	772	12.66	3	5.1	64.3
+61	Ryan Wingo	Texas	SO	WR	13	54	834	15.44	7	4.2	64.2
+62	Demarcus Lacey	Marshall	SR	WR	12	65	769	11.83	5	5.4	64.1
+62	Eli Stowers	Vanderbilt	SR	TE	12	62	769	12.40	4	5.2	64.1
+62	O’Mega Blake	Arkansas	SR	WR	12	58	769	13.26	5	4.8	64.1
+65	Kyri Shoels	SJSU	JR	WR	12	59	768	13.02	2	4.9	64.0
+66	Anthony Evans III	Miss St	JR	WR	13	67	831	12.40	4	5.2	63.9
+67	Emmanuel Henderson Jr.	Kansas	SR	WR	12	45	766	17.02	5	3.8	63.8
+68	Kris Hutson	Arizona	SR	WR	12	60	764	12.73	4	5.0	63.7
+69	Pofele Ashlock	Hawai'i	JR	WR	13	76	827	10.88	8	5.8	63.6
+70	Kyre Duplessis	Delaware	SR	WR	13	60	824	13.73	5	4.6	63.4
+71	Michael Trigg	Baylor	SR	TE	11	50	694	13.88	6	4.5	63.1
+72	Jordan Napier	SDSU	SO	WR	10	48	629	13.10	2	4.8	62.9
+73	Mike Matthews	Tennessee	SO	WR	13	53	813	15.34	4	4.1	62.5
+74	CJ Williams	Stanford	SR	WR	12	59	749	12.69	6	4.9	62.4
+75	Harrison Wallace III	Miss	SR	WR	15	61	934	15.31	4	4.1	62.3
+76	Tre Richardson	Vanderbilt	JR	WR	13	46	806	17.52	7	3.5	62.0
+77	Javen Nicholas	Charlotte	JR	WR	12	60	740	12.33	5	5.0	61.7
+2024
+12	Jordyn Tyson	Ariz St	SO	WR	12	75	1101	14.68	10	6.3	91.8

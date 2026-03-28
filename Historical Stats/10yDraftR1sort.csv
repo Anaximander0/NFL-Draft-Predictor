@@ -1,0 +1,351 @@
+pick,team name,name,position,college,year
+1,Buccaneers,Jameis Winston,QB,Florida State,2015
+2,Titans,Marcus Mariota,QB,Oregon,2015
+3,Jaguars,Dante Fowler Jr.,OLB,Florida,2015
+4,Raiders,Amari Cooper,WR,Alabama,2015
+5,Redskins,Brandon Scherff,OG,Iowa,2015
+6,Jets,Leonard Williams,DE,USC,2015
+7,Bears,Kevin White,WR,West Virginia,2015
+8,Falcons,Vic Beasley,OLB,Clemson,2015
+9,Giants,Ereck Flowers,OT,Miami,2015
+10,Rams,Todd Gurley,RB,Georgia,2015
+11,Vikings,Trae Waynes,CB,Michigan State,2015
+12,Browns,Danny Shelton,NT,Washington,2015
+13,Saints,Andrus Peat,OT,Stanford,2015
+14,Dolphins,DeVante Parker,WR,Louisville,2015
+15,Chargers,Melvin Gordon,RB,Wisconsin,2015
+16,Texans,Kevin Johnson,CB,Wake Forest,2015
+17,Niners,Arik Armstead,DT,Oregon,2015
+18,Chiefs,Marcus Peters,CB,Washington,2015
+19,Browns,Cameron Erving,C,Florida State,2015
+20,Eagles,Nelson Agholor,WR,USC,2015
+21,Bengals,Cedric Ogbuehi,OT,Texas A&M,2015
+22,Steelers,Bud Dupree,OLB,Kentucky,2015
+23,Broncos,Shane Ray,DE,Missouri,2015
+24,Cardinals,D.J. Humphries,OT,Florida,2015
+25,Panthers,Shaq Thompson,OLB,Washington,2015
+26,Ravens,Breshad Perriman,WR,UCF,2015
+27,Cowboys,Byron Jones,CB,Connecticut,2015
+28,Lions,Laken Tomlinson,OG,Duke,2015
+29,Colts,Phillip Dorsett,WR,Miami,2015
+30,Packers,Damarious Randall,FS,Arizona State,2015
+31,Saints,Stephone Anthony,ILB,Clemson,2015
+32,Patriots,Malcom Brown,DT,Texas,2015
+1,Rams,Jared Goff,QB,California,2016
+2,Eagles,Carson Wentz,QB,North Dakota State,2016
+3,Chargers,Joey Bosa,DE,Ohio State,2016
+4,Cowboys,Ezekiel Elliott,RB,Ohio State,2016
+5,Jaguars,Jalen Ramsey,CB,Florida State,2016
+6,Ravens,Ronnie Stanley,OT,Notre Dame,2016
+7,49ers,DeForest Buckner,DE,Oregon,2016
+8,Titans,Jack Conklin,OT,Michigan State,2016
+9,Bears,Leonard Floyd,OLB,Georgia,2016
+10,Giants,Eli Apple,CB,Ohio State,2016
+11,Buccaneers,Vernon Hargreaves III,CB,Florida,2016
+12,Saints,Sheldon Rankins,DT,Louisville,2016
+13,Dolphins,Laremy Tunsil,OT,Mississippi,2016
+14,Raiders,Karl Joseph,S,West Virginia,2016
+15,Browns,Corey Coleman,WR,Baylor,2016
+16,Lions,Taylor Decker,OT,Ohio State,2016
+17,Falcons,Keanu Neal,SS,Florida,2016
+18,Colts,Ryan Kelly,C,Alabama,2016
+19,Bills,Shaq Lawson,DE,Clemson,2016
+20,Jets,Darron Lee,OLB,Ohio State,2016
+21,Texans,Will Fuller,WR,Notre Dame,2016
+22,Redskins,Josh Doctson,WR,TCU,2016
+23,Vikings,Laquon Treadwell,WR,Mississippi,2016
+24,Bengals,William Jackson,CB,Houston,2016
+25,Steelers,Artie Burns,CB,Miami,2016
+26,Broncos,Paxton Lynch,QB,Memphis,2016
+27,Packers,Kenny Clark,NT,UCLA,2016
+28,49ers,Joshua Garnett,OG,Stanford,2016
+29,Cardinals,Robert Nkemdiche,DT,Mississippi,2016
+30,Panthers,Vernon Butler,DT,Louisiana Tech,2016
+31,Seahawks,Germain Ifedi,OG,Texas A&M,2016
+1,Browns,Myles Garrett,DE,Texas A&M,2017
+2,Bears,Mitchell Trubisky,QB,North Carolina,2017
+3,49ers,Solomon Thomas,DE,Stanford,2017
+4,Jaguars,Leonard Fournette,RB,LSU,2017
+5,Titans,Corey Davis,WR,Western Michigan,2017
+6,Jets,Jamal Adams,S,LSU,2017
+7,Chargers,Mike Williams,WR,Clemson,2017
+8,Panthers,Christian McCaffrey,RB,Stanford,2017
+9,Bengals,John Ross,WR,Washington,2017
+10,Chiefs,Patrick Mahomes,QB,Texas Tech,2017
+11,Saints,Marshon Lattimore,CB,Ohio State,2017
+12,Texans,Deshaun Watson,QB,Clemson,2017
+13,Cardinals,Haason Reddick,DE,Temple,2017
+14,Eagles,Derek Barnett,DE,Tennessee,2017
+15,Colts,Malik Hooker,S,Ohio State,2017
+16,Ravens,Marlon Humphrey,CB,Alabama,2017
+17,Redskins,Jonathan Allen,DE,Alabama,2017
+18,Titans,Adoree' Jackson,CB,USC,2017
+19,Buccaneers,O.J. Howard,TE,Alabama,2017
+20,Broncos,Garett Bolles,OT,Utah,2017
+21,Lions,Jarrad Davis,LB,Florida,2017
+22,Dolphins,Charles Harris,DE,Missouri,2017
+23,Giants,Evan Engram,TE,Mississippi,2017
+24,Raiders,Gareon Conley,CB,Ohio State,2017
+25,Browns,Jabrill Peppers,LB,Michigan,2017
+26,Falcons,Takk McKinley,DE,UCLA,2017
+27,Bills,Tre'Davious White,CB,LSU,2017
+28,Cowboys,Taco Charlton,DE,Michigan,2017
+29,Browns,David Njoku,TE,Miami,2017
+30,Steelers,T.J. Watt,LB,Wisconsin,2017
+31,49ers,Reuben Foster,LB,Alabama,2017
+32,Saints,Ryan Ramczyk,OT,Wisconsin,2017
+1,Browns,Baker Mayfield,QB,Oklahoma,2018
+2,Giants,Saquon Barkley,RB,Penn State,2018
+3,Jets,Sam Darnold,QB,USC,2018
+4,Browns,Denzel Ward,CB,Ohio State,2018
+5,Broncos,Bradley Chubb,DE,N.C. State,2018
+6,Colts,Quenton Nelson,G,Notre Dame,2018
+7,Bills,Josh Allen,QB,Wyoming,2018
+8,Bears,Roquan Smith,LB,Georgia,2018
+9,49ers,Mike McGlinchey,OT,Notre Dame,2018
+10,Cardinals,Josh Rosen,QB,UCLA,2018
+11,Dolphins,Minkah Fitzpatrick,S,Alabama,2018
+12,Buccaneers,Vita Vea,DT,Washington,2018
+13,Redskins,Daron Payne,DT,Alabama,2018
+14,Saints,Marcus Davenport,DE,Texas-San Antonio,2018
+15,Raiders,Kolton Miller,OT,UCLA,2018
+16,Bills,Tremaine Edmunds,ILB,Virginia Tech,2018
+17,Chargers,Derwin James,S,Florida State,2018
+18,Packers,Jaire Alexander,CB,Louisville,2018
+19,Cowboys,Leighton Vander Esch,ILB,Boise State,2018
+20,Lions,Frank Ragnow,C,Arkansas,2018
+21,Bengals,Billy Price,C,Ohio State,2018
+22,Titans,Rashaan Evans,OLB,Alabama,2018
+23,Patriots,Isaiah Wynn,T,Georgia,2018
+24,Panthers,DJ Moore,WR,Maryland,2018
+25,Ravens,Hayden Hurst,TE,South Carolina,2018
+26,Falcons,Calvin Ridley,WR,Alabama,2018
+27,Seahawks,Rashaad Penny,RB,San Diego State,2018
+28,Steelers,Terrell Edmunds,S,Virginia Tech,2018
+29,Jaguars,Taven Bryan,DT,Florida,2018
+30,Vikings,Mike Hughes,CB,UCF,2018
+31,Patriots,Sony Michel,RB,Georgia,2018
+32,Ravens,Lamar Jackson,QB,Louisville,2018
+1,Cardinals,Kyler Murray,QB,Oklahoma,2019
+2,49ers,Nick Bosa,DE,Ohio State,2019
+3,Jets,Quinnen Williams,DT,Alabama,2019
+4,Raiders,Clelin Ferrell,DE,Clemson,2019
+5,Buccaneers,Devin White,LB,LSU,2019
+6,Giants,Daniel Jones,QB,Duke,2019
+7,Jaguars,Josh Hines-Allen,EDGE,Kentucky,2019
+8,Lions,T.J. Hockenson,TE,Iowa,2019
+9,Bills,Ed Oliver,DT,Houston,2019
+10,Steelers,Devin Bush,LB,Michigan,2019
+11,Bengals,Jonah Williams,OT,Alabama,2019
+12,Packers,Rashan Gary,DE,Michigan,2019
+13,Dolphins,Christian Wilkins,DT,Clemson,2019
+14,Falcons,Chris Lindstrom,G,Boston College,2019
+15,Redskins,Dwayne Haskins,QB,Ohio State,2019
+16,Panthers,Brian Burns,EDGE,Florida State,2019
+17,Giants,Dexter Lawrence,DT,Clemson,2019
+18,Vikings,Garrett Bradbury,C,N.C. State,2019
+19,Titans,Jeffery Simmons,DT,Mississippi State,2019
+20,Broncos,Noah Fant,TE,Iowa,2019
+21,Packers,Darnell Savage,S,Maryland,2019
+22,Eagles,Andre Dillard,T,Washington State,2019
+23,Texans,Tytus Howard,T,Alabama State,2019
+24,Raiders,Josh Jacobs,RB,Alabama,2019
+25,Ravens,Marquise Brown,WR,Oklahoma,2019
+26,Redskins,Montez Sweat,EDGE,Mississippi State,2019
+27,Raiders,Johnathan Abram,S,Mississippi State,2019
+28,Chargers,Jerry Tillery,DT,Notre Dame,2019
+29,Seahawks,L.J. Collier,DE,TCU,2019
+30,Giants,Deandre Baker,CB,Georgia,2019
+31,Falcons,Kaleb McGary,T,Washington,2019
+32,Patriots,N'Keal Harry,WR,Arizona State,2019
+1,Bengals,Joe Burrow,QB,LSU,2020
+2,Football Team,Chase Young,DE,Ohio State,2020
+3,Lions,Jeff Okudah,CB,Ohio State,2020
+4,Giants,Andrew Thomas,T,Georgia,2020
+5,Dolphins,Tua Tagovailoa,QB,Alabama,2020
+6,Chargers,Justin Herbert,QB,Oregon,2020
+7,Panthers,Derrick Brown,DT,Auburn,2020
+8,Cardinals,Isaiah Simmons,LB,Clemson,2020
+9,Jaguars,C.J. Henderson,CB,Florida,2020
+10,Browns,Jedrick Wills,T,Alabama,2020
+11,Jets,Mekhi Becton,T,Louisville,2020
+12,Raiders,Henry Ruggs III,WR,Alabama,2020
+13,Buccaneers,Tristan Wirfs,T,Iowa,2020
+14,49ers,Javon Kinlaw,DT,South Carolina,2020
+15,Broncos,Jerry Jeudy,WR,Alabama,2020
+16,Falcons,A.J. Terrell,CB,Clemson,2020
+17,Cowboys,CeeDee Lamb,WR,Oklahoma,2020
+18,Dolphins,Austin Jackson,T,USC,2020
+19,Raiders,Damon Arnette,CB,Ohio State,2020
+20,Jaguars,K'Lavon Chaisson,EDGE,LSU,2020
+21,Eagles,Jalen Reagor,WR,TCU,2020
+22,Vikings,Justin Jefferson,WR,LSU,2020
+23,Chargers,"Kenneth Murray, Jr.",LB,Oklahoma,2020
+24,Saints,Cesar Ruiz,C,Michigan,2020
+25,49ers,Brandon Aiyuk,WR,Arizona State,2020
+26,Packers,Jordan Love,QB,Utah State,2020
+27,Seahawks,Jordyn Brooks,LB,Texas Tech,2020
+28,Ravens,Patrick Queen,LB,LSU,2020
+29,Titans,Isaiah Wilson,T,Georgia,2020
+30,Dolphins,Noah Igbinoghene,CB,Auburn,2020
+31,Vikings,Jeff Gladney,CB,TCU,2020
+32,Chiefs,Clyde Edwards-Helaire,RB,LSU,2020
+1,Jaguars,Trevor Lawrence,QB,Clemson,2021
+2,Jets,Zach Wilson,QB,BYU,2021
+3,49ers,Trey Lance,QB,North Dakota State,2021
+4,Falcons,Kyle Pitts,TE,Florida,2021
+5,Bengals,Ja'Marr Chase,WR,LSU,2021
+6,Dolphins,Jaylen Waddle,WR,Alabama,2021
+7,Lions,Penei Sewell,OT,Oregon,2021
+8,Panthers,Jaycee Horn,CB,South Carolina,2021
+9,Broncos,Pat Surtain II,CB,Alabama,2021
+10,Eagles,DeVonta Smith,WR,Alabama,2021
+11,Bears,Justin Fields,QB,Ohio State,2021
+12,Cowboys,Micah Parsons,LB,Penn State,2021
+13,Chargers,Rashawn Slater,OT,Northwestern,2021
+14,Jets,Alijah Vera-Tucker,G,USC,2021
+15,Patriots,Mac Jones,QB,Alabama,2021
+16,Cardinals,Zaven Collins,LB,Tulsa,2021
+17,Raiders,Alex Leatherwood,OT,Alabama,2021
+18,Dolphins,Jaelan Phillips,EDGE,Miami,2021
+19,Football Team,Jamin Davis,LB,Kentucky,2021
+20,Giants,Kadarius Toney,WR,Florida,2021
+21,Colts,Kwity Paye,EDGE,Michigan,2021
+22,Titans,Caleb Farley,CB,Virginia Tech,2021
+23,Vikings,Christian Darrisaw,OT,Virginia Tech,2021
+24,Steelers,Najee Harris,RB,Alabama,2021
+25,Jaguars,Travis Etienne,RB,Clemson,2021
+26,Browns,Greg Newsome II,CB,Northwestern,2021
+27,Ravens,Rashod Bateman,WR,Minnesota,2021
+28,Saints,Payton Turner,DE,Houston,2021
+29,Packers,Eric Stokes,CB,Georgia,2021
+30,Bills,Greg Rousseau,EDGE,Miami,2021
+31,Ravens,Odafe Oweh,EDGE,Penn State,2021
+32,Buccaneers,Joe Tryon-Shoyinka,EDGE,Washington,2021
+1,Jaguars,Travon Walker,DE,Georgia,2022
+2,Lions,Aidan Hutchinson,DE,Michigan,2022
+3,Texans,Derek Stingley Jr.,DB,LSU,2022
+4,Jets,Sauce Gardner,CB,Cincinnati,2022
+5,Giants,Kayvon Thibodeaux,EDGE,Oregon,2022
+6,Panthers,Ikem Ekwonu,OT,N.C. State,2022
+7,Giants,Evan Neal,OT,Alabama,2022
+8,Falcons,Drake London,WR,USC,2022
+9,Seahawks,Charles Cross,OT,Mississippi State,2022
+10,Jets,Garrett Wilson,WR,Ohio State,2022
+11,Saints,Chris Olave,WR,Ohio State,2022
+12,Lions,Jameson Williams,WR,Alabama,2022
+13,Eagles,Jordan Davis,DT,Georgia,2022
+14,Ravens,Kyle Hamilton,SAF,Notre Dame,2022
+15,Texans,Kenyon Green,OL,Texas A&M,2022
+16,Commanders,Jahan Dotson,WR,Penn State,2022
+17,Chargers,Zion Johnson,OL,Boston College,2022
+18,Titans,Treylon Burks,WR,Arkansas,2022
+19,Saints,Trevor Penning,OT,Northern Iowa,2022
+20,Steelers,Kenny Pickett,QB,Pittsburgh,2022
+21,Chiefs,Trent McDuffie,CB,Washington,2022
+22,Packers,Quay Walker,LB,Georgia,2022
+23,Bills,Kaiir Elam,CB,Florida,2022
+24,Cowboys,Tyler Smith,OT,Tulsa,2022
+25,Ravens,Tyler Linderbaum,C,Iowa,2022
+26,Jets,Jermaine Johnson II,DE,Florida State,2022
+27,Jaguars,Devin Lloyd,LB,Utah,2022
+28,Packers,Devonte Wyatt,DT,Georgia,2022
+29,Patriots,Cole Strange,G,Tennessee-Chattanooga,2022
+30,Chiefs,George Karlaftis,EDGE,Purdue,2022
+31,Bengals,Daxton Hill,SAF,Michigan,2022
+32,Vikings,Lewis Cine,SAF,Georgia,2022
+1,Panthers,Bryce Young,QB,Alabama,2023
+2,Texans,C.J. Stroud,QB,Ohio State,2023
+3,Texans,Will Anderson Jr.,EDGE,Alabama,2023
+4,Colts,Anthony Richardson,QB,Florida,2023
+5,Seahawks,Devon Witherspoon,CB,Illinois,2023
+6,Cardinals,Paris Johnson Jr.,OT,Ohio State,2023
+7,Raiders,Tyree Wilson,EDGE,Texas Tech,2023
+8,Falcons,Bijan Robinson,RB,Texas,2023
+9,Eagles,Jalen Carter,DT,Georgia,2023
+10,Bears,Darnell Wright,OT,Tennessee,2023
+11,Titans,Peter Skoronski,OT,Northwestern,2023
+12,Lions,Jahmyr Gibbs,RB,Alabama,2023
+13,Packers,Lukas Van Ness,EDGE,Iowa,2023
+14,Steelers,Broderick Jones,OT,Georgia,2023
+15,Jets,Will McDonald IV,EDGE,Iowa State,2023
+16,Commanders,Emmanuel Forbes,CB,Mississippi State,2023
+17,Patriots,Christian Gonzalez,CB,Oregon,2023
+18,Lions,Jack Campbell,LB,Iowa,2023
+19,Buccaneers,Calijah Kancey,DT,Pittsburgh,2023
+20,Seahawks,Jaxon Smith-Njigba,WR,Ohio State,2023
+21,Chargers,Quentin Johnston,WR,TCU,2023
+22,Ravens,Zay Flowers,WR,Boston College,2023
+23,Vikings,Jordan Addison,WR,USC,2023
+24,Giants,Deonte Banks,CB,Maryland,2023
+25,Bills,Dalton Kincaid,TE,Utah,2023
+26,Cowboys,Mazi Smith,DT,Michigan,2023
+27,Jaguars,Anton Harrison,OT,Oklahoma,2023
+28,Bengals,Myles Murphy,EDGE,Clemson,2023
+29,Saints,Bryan Bresee,DT,Clemson,2023
+30,Eagles,Nolan Smith,EDGE,Georgia,2023
+31,Chiefs,Felix Anudike-Uzomah,EDGE,Kansas State,2023
+1,Bears,Caleb Williams,QB,USC,2024
+2,Commanders,Jayden Daniels,QB,LSU,2024
+3,Patriots,Drake Maye,QB,North Carolina,2024
+4,Cardinals,Marvin Harrison Jr.,WR,Ohio State,2024
+5,Chargers,Joe Alt,OT,Notre Dame,2024
+6,Giants,Malik Nabers,WR,LSU,2024
+7,Titans,JC Latham,OT,Alabama,2024
+8,Falcons,Michael Penix Jr.,QB,Washington,2024
+9,Bears,Rome Odunze,WR,Washington,2024
+10,Vikings,J.J. McCarthy,QB,Michigan,2024
+11,Jets,Olumuyiwa Fashanu,OT,Penn State,2024
+12,Broncos,Bo Nix,QB,Oregon,2024
+13,Raiders,Brock Bowers,TE,Georgia,2024
+14,Saints,Taliese Fuaga,OT,Oregon State,2024
+15,Colts,Laiatu Latu,EDGE,UCLA,2024
+16,Seahawks,Byron Murphy II,DT,Texas,2024
+17,Vikings,Dallas Turner,EDGE,Alabama,2024
+18,Bengals,Amarius Mims,OT,Georgia,2024
+19,Rams,Jared Verse,EDGE,Florida State,2024
+20,Steelers,Troy Fautanu,OT,Washington,2024
+21,Dolphins,Chop Robinson,EDGE,Penn State,2024
+22,Eagles,Quinyon Mitchell,CB,Toledo,2024
+23,Jaguars,Brian Thomas Jr.,WR,LSU,2024
+24,Lions,Terrion Arnold,CB,Alabama,2024
+25,Packers,Jordan Morgan,OL,Arizona,2024
+26,Buccaneers,Graham Barton,C,Duke,2024
+27,Cardinals,Darius Robinson,DE,Missouri,2024
+28,Chiefs,Xavier Worthy,WR,Texas,2024
+29,Cowboys,Tyler Guyton,OT,Oklahoma,2024
+30,Ravens,Nate Wiggins,CB,Clemson,2024
+31,49ers,Ricky Pearsall,WR,Florida,2024
+32,Panthers,Xavier Legette,WR,South Carolina,2024
+1,Titans,Cam Ward,QB,Miami,2025
+2,Jaguars,Travis Hunter,WR/CB,Colorado,2025
+3,Giants,Abdul Carter,EDGE,Penn State,2025
+4,Patriots,Will Campbell,OT,LSU,2025
+5,Browns,Mason Graham,DT,Michigan,2025
+6,Raiders,Ashton Jeanty,RB,Boise State,2025
+7,Jets,Armand Membou,OT,Missouri,2025
+8,Panthers,Tetairoa McMillan,WR,Arizona,2025
+9,Saints,Kelvin Banks Jr.,OT,Texas,2025
+10,Bears,Colston Loveland,TE,Michigan,2025
+11,49ers,Mykel Williams,EDGE,Georgia,2025
+12,Cowboys,Tyler Booker,G,Alabama,2025
+13,Dolphins,Kenneth Grant,DT,Michigan,2025
+14,Colts,Tyler Warren,TE,Penn State,2025
+15,Falcons,Jalon Walker,EDGE,Georgia,2025
+16,Cardinals,Walter Nolen,DT,Mississippi,2025
+17,Bengals,Shemar Stewart,EDGE,Texas A&M,2025
+18,Seahawks,Grey Zabel,G,North Dakota State,2025
+19,Buccaneers,Emeka Egbuka,WR,Ohio State,2025
+20,Broncos,Jahdae Barron,CB,Texas,2025
+21,Steelers,Derrick Harmon,DT,Oregon,2025
+22,Chargers,Omarion Hampton,RB,North Carolina,2025
+23,Packers,Matthew Golden,WR,Texas,2025
+24,Vikings,Donovan Jackson,G,Ohio State,2025
+25,Giants,Jaxson Dart,QB,Mississippi,2025
+26,Falcons,James Pearce Jr.,EDGE,Tennessee,2025
+27,Ravens,Malaki Starks,SAF,Georgia,2025
+28,Lions,Tyleik Williams,DT,Ohio State,2025
+29,Commanders,Josh Conerly Jr.,OT,Oregon,2025
+30,Bills,Maxwell Hairston,CB,Kentucky,2025
+31,Eagles,Jihaad Campbell,LB,Alabama,2025
+32,Chiefs,Josh Simmons,OT,Ohio State,2025

@@ -1,0 +1,434 @@
+2024
+1	Mike Green	Marshall	SO	DL	13	17.0	144	1.31
+2	Donovan Ezeiruaku	BC	SR	DE	12	16.5	91	1.38
+3	Antwaun Powell-Ryland	Va Tech	SR	DL	12	16.0	102	1.33
+4	Eric O'Neill	James Mad	JR	DL	13	13.0	87	1.00
+5	JT Tuimoloau	Ohio State	SR	DE	16	12.5	80	0.78
+5	Trey White	SDSU	SO	EDG	12	12.5	68	1.04
+7	Abdul Carter	Penn State	JR	DE	16	12.0	89	0.75
+8	Kyle Kennard	S Carolina	SR	EDG	12	11.5	97	0.96
+9	T.J. Parker	Clemson	SO	DE	14	11.0	68	0.79
+10	Princely Umanmielen	Miss	SR	DE	12	10.5	70	0.88
+10	Suntarine Perkins	Miss	SO	LB	13	10.5	63	0.81
+10	Matayo Uiagalelei	Oregon	SO	OLB	14	10.5	60	0.75
+10	Jimmori Robinson	UTSA	SR	OLB	12	10.5	56	0.88
+14	Mikail Kamara	Indiana	JR	DL	13	10.0	77	0.77
+14	Jayden Virgin-Morgan	Boise St	SO	EDG	14	10.0	61	0.71
+16	Clev Lubin	Coast Car	SO	BAN	10	9.5	87	0.95
+16	Ahmed Hassanein	Boise St	SR	DE	14	9.5	62	0.68
+16	Johnny Walker Jr.	Missouri	SR	DE	13	9.5	61	0.73
+16	Kobe Stewart	Buffalo	JR	EDG	13	9.5	60	0.73
+20	Jack Sawyer	Ohio State	SR	DE	16	9.0	68	0.56
+20	Colin Simmons	Texas	FR	EDG	16	9.0	64	0.56
+20	R Mason Thomas	Oklahoma	JR	DL	13	9.0	59	0.69
+20	Khairi Manns	James Mad	SR	DL	13	9.0	51	0.69
+20	Xavier Carlton	California	SR	OLB	13	9.0	49	0.69
+25	Bradley Weaver	Ohio	JR	DE	13	8.5	75	0.65
+25	Josaiah Stewart	Michigan	SR	EDG	11	8.5	67	0.77
+25	Bradyn Swinson	LSU	SR	DE	13	8.5	60	0.65
+25	Brendan Mott	Kansas St	SR	DE	13	8.5	55	0.65
+25	Dion Crawford	Buffalo	SO	LB	13	8.5	51	0.65
+25	Dani Dennis-Sutton	Penn State	JR	DE	16	8.5	48	0.53
+25	Jordan Burch	Oregon	SR	DE	10	8.5	33	0.85
+32	Gabe Jacas	Illinois	JR	OLB	13	8.0	56	0.62
+32	Devonte O'Malley	N Illinois	SR	DT	13	8.0	56	0.62
+32	Maurice Westmoreland	UTEP	SR	BAN	12	8.0	55	0.67
+32	Jalen McLeod	Auburn	SR	BCK	12	8.0	48	0.67
+32	Anthony Hill Jr.	Texas	SO	LB	16	8.0	44	0.50
+37	Rylie Mills	Notre Dame	SR	DL	13	7.5	59	0.58
+37	Cian Slone	Utah State	SR	DE	12	7.5	58	0.63
+37	Elijah Roberts	SMU	SR	DE	13	7.5	57	0.58
+37	Beau Atkinson	N Carolina	SO	DL	13	7.5	55	0.58
+37	BJ Green II	Colorado	SR	DE	13	7.5	54	0.58
+37	James Pearce Jr.	Tennessee	JR	DL	13	7.5	53	0.58
+37	Brian Ugwu	Miami (Oh)	SR	DL	14	7.5	52	0.54
+37	Fisher Camac	UNLV	SO	DL	14	7.5	51	0.54
+37	Jahfari Harvey	SMU	SR	DE	14	7.5	48	0.54
+37	Wesley Williams	Duke	SO	DE	13	7.5	46	0.58
+37	Jared Bartlett	Cincinnati	SR	LB	12	7.5	38	0.63
+37	Fadil Diggs	Syracuse	SR	DL	12	7.5	34	0.63
+49	Cody Simon	Ohio State	SR	LB	15	7.0	57	0.47
+49	Ty Robinson	Nebraska	SR	DL	13	7.0	56	0.54
+49	Jared Ivey	Miss	SR	DE	12	7.0	53	0.58
+49	Keldric Faulk	Auburn	SO	DL	12	7.0	49	0.58
+49	David Bailey	Stanford	JR	OLB	12	7.0	47	0.58
+49	Chandler Martin	Memphis	JR	LB	13	7.0	46	0.54
+49	Kyle Louis	Pittsburgh	SO	LB	13	7.0	40	0.54
+49	Tyreak Sapp	Florida	JR	EDG	13	7.0	38	0.54
+49	Kydran Jenkins	Purdue	SR	LB	12	7.0	35	0.58
+49	Joseph Sipp Jr.	BGSU	JR	ILB	13	7.0	31	0.54
+49	Kyran Duhon	UTEP	FR	DL	12	7.0	30	0.58
+60	TJ Jackson II	WVU	SR	DL	13	6.5	55	0.50
+60	Davin Vann	NC State	SR	DE	12	6.5	54	0.54
+60	Antonio Doyle Jr.	UNLV	SR	DE	14	6.5	50	0.46
+60	Jared Harrison-Hunte	SMU	SR	DL	14	6.5	49	0.46
+60	Dylan Stewart	S Carolina	FR	EDG	13	6.5	47	0.50
+60	Gabe Kirschke	CSU	SO	DL	13	6.5	46	0.50
+60	Landon Jackson	Arkansas	SR	DL	12	6.5	45	0.54
+60	Isaiah Smith	SMU	JR	DE	14	6.5	45	0.46
+60	Seyi Oladipo	Boise St	SR	S	14	6.5	44	0.46
+60	David Blay	La Tech	JR	DL	12	6.5	42	0.54
+60	Jahvaree Ritzie	N Carolina	SR	DL	12	6.5	41	0.54
+60	Jalon Walker	Georgia	JR	ILB	14	6.5	41	0.46
+60	Amare Campbell	N Carolina	SO	LB	13	6.5	40	0.50
+60	Kalil Alexander	Texas St	JR	DE	13	6.5	40	0.50
+60	Elo Modozie	Army	SO	OLB	14	6.5	40	0.46
+60	Ethan Hurkett	Iowa	SR	DL	13	6.5	38	0.50
+60	Walter Nolen	Miss	JR	DT	13	6.5	36	0.50
+2023
+1	Javon Solomon	Troy	JR	DE	14	16.0	102	1.14
+2	Jalen Green	James Mad	SR	DL	9	15.5	120	1.72
+3	Trey Moore	UTSA	SO	OLB	12	14.0	89	1.17
+4	Mohamed Kamara	CSU	SR	DL	12	13.0	81	1.08
+4	Laiatu Latu	UCLA	SR	DL	12	13.0	76	1.08
+6	Ahmed Hassanein	Boise St	JR	DE	14	12.5	85	0.89
+7	Jonah Elliss	Utah	JR	DE	10	12.0	100	1.20
+8	Ashton Gillotte	Louisville	JR	DL	14	11.0	71	0.79
+9	Bo Richter	Air Force	SR	DE	13	10.0	95	0.77
+9	Nic Scourton	Purdue	SO	OLB	11	10.0	92	0.91
+9	Ben Bell	Texas St	JR	DE	13	10.0	76	0.77
+9	Richard Jibunor	Troy	SR	BAN	14	10.0	73	0.71
+9	Nathaniel Watson	Miss St	SR	LB	12	10.0	72	0.83
+9	Dallas Turner	Alabama	JR	LB	14	10.0	68	0.71
+9	Jamree Kromah	James Mad	SR	DL	13	10.0	66	0.77
+9	Elijah Roberts	SMU	SR	DE	14	10.0	64	0.71
+9	James Pearce Jr.	Tennessee	SO	DL	13	10.0	59	0.77
+18	Andrew Chatfield Jr.	Oregon St	SR	OLB	13	9.5	103	0.73
+18	Antwaun Powell-Ryland	Va Tech	JR	DL	13	9.5	77	0.73
+18	Cashius Howell	BGSU	SO	OLB	13	9.5	61	0.73
+18	Caiden Woullard	Miami (Oh)	JR	DL	14	9.5	58	0.68
+18	Nelson Ceaser	Houston	JR	DL	11	9.5	54	0.86
+18	Joe Evans	Iowa	SR	DE	14	9.5	39	0.68
+24	Judge Culpepper	Toledo	SR	DT	14	9.0	68	0.64
+24	Jared Verse	FSU	JR	DL	13	9.0	61	0.69
+26	Kaimon Rucker	N Carolina	SR	JCK	13	8.5	81	0.65
+26	Tre'Mon Morris-Brash	UCF	SR	DE	13	8.5	71	0.65
+26	Brennan Jackson	Wash St	SR	EDG	12	8.5	64	0.71
+26	Adin Huntington	La-Monroe	JR	DL	12	8.5	59	0.71
+26	Chris Hardie	J'ville St	JR	DL	13	8.5	59	0.65
+26	Darius Robinson	Missouri	SR	DL	12	8.5	51	0.71
+26	Taylor Upshaw	Arizona	SR	EDG	13	8.5	51	0.65
+26	Ben Kopenski	Tulsa	SR	DL	12	8.5	46	0.71
+34	Austin Booker	Kansas	SO	DL	12	8.0	61	0.67
+34	Chris Braswell	Alabama	SR	LB	14	8.0	57	0.57
+34	Gabriel Murphy	UCLA	JR	DL	13	8.0	54	0.62
+34	Ty Wise	Miami (Oh)	JR	LB	14	8.0	53	0.57
+34	Sidney Houston Jr.	Ball State	SR	DE	12	8.0	52	0.67
+34	Edgerrin Cooper	Texas A&M	JR	LB	12	8.0	50	0.67
+34	Paul Fitzgerald	Utah State	FR	DE	13	8.0	48	0.62
+34	Brian Ugwu	Miami (Oh)	JR	DL	14	8.0	47	0.57
+34	Cameron Whitfield	La-Lafytte	SO	LB	13	8.0	45	0.62
+43	Kydran Jenkins	Purdue	SR	OLB	12	7.5	67	0.63
+43	Francisco Mauigoa	Miami (Fl)	JR	LB	13	7.5	66	0.58
+43	Nate Johnson	App St	FR	OLB	14	7.5	65	0.54
+43	Maurice Westmoreland	UTEP	JR	DE	12	7.5	64	0.63
+43	Jah Joyner	Minnesota	JR	DL	13	7.5	63	0.58
+43	Jer'Zhan Newton	Illinois	JR	DT	12	7.5	61	0.63
+43	Adisa Isaac	Penn State	SR	DE	13	7.5	58	0.58
+43	Malachi Lawrence	UCF	SO	DE	13	7.5	55	0.58
+43	Darius Hodges	Tulane	JR	DL	13	7.5	53	0.58
+43	Rueben Bain, Jr.	Miami (Fl)	FR	DL	13	7.5	50	0.58
+43	Jasheen Davis	Wk Forest	JR	DL	12	7.5	49	0.63
+43	Marcus Harris	Auburn	SR	DL	12	7.5	46	0.63
+43	Mikail Kamara	James Mad	SO	DL	12	7.5	46	0.63
+43	Deone Walker	Kentucky	SO	DL	13	7.5	38	0.58
+43	PJ Ramsey	Air Force	SR	DE	13	7.5	37	0.58
+58	Kalen DeLoach	FSU	SR	LB	13	7.0	62	0.54
+58	Micheal Mason	Coast Car	SR	DL	13	7.0	57	0.54
+58	J.J. Weaver	Kentucky	SR	OLB	13	7.0	48	0.54
+58	Princely Umanmielen	Florida	JR	EDG	12	7.0	45	0.58
+58	CJ Nunnally, IV	Akron	JR	DL	12	7.0	44	0.58
+58	Justin Eboigbe	Alabama	SR	DL	14	7.0	40	0.50
+58	Patrick Payton	FSU	SO	DL	14	7.0	34	0.50
+58	Bralen Trice	Washington	JR	EDG	15	7.0	34	0.47
+58	Jordan Lawson	La-Lafytte	SO	DL	13	7.0	29	0.54
+67	David Reese	California	SR	OLB	13	6.5	58	0.50
+67	Tre Smith	SJSU	SO	DL	13	6.5	58	0.50
+67	Landon Jackson	Arkansas	JR	DL	12	6.5	54	0.54
+2022
+1	Tuli Tuipulotu	USC	JR	DL	14	13.5	94	0.96
+2	Jose Ramirez	EMU	SR	DL	12	12.0	76	1.00
+3	David Perales	Fresno St	SR	DE	14	11.5	81	0.82
+3	Thomas Incoom	CMU	SR	DL	12	11.5	72	0.96
+5	Nick Herbig	Wisconsin	JR	OLB	11	11.0	86	1.00
+5	Isaiah Foskey	Notre Dame	JR	DL	12	11.0	80	0.92
+7	Jonah Tavai	SDSU	SR	DL	13	10.5	80	0.81
+7	Laiatu Latu	UCLA	JR	LB	13	10.5	80	0.81
+7	John Marshall	Navy	SR	STR	12	10.5	67	0.88
+10	Dylan Horton	TCU	SR	DL	15	10.0	79	0.67
+10	Ivan Pace Jr.	Cincinnati	SR	LB	13	10.0	76	0.77
+10	Karl Brooks	BGSU	SR	DL	13	10.0	69	0.77
+10	Dominic Quewon	USM	SR	DL	13	10.0	63	0.77
+10	Will Anderson Jr.	Alabama	JR	LB	13	10.0	54	0.77
+15	Yasir Abdullah	Louisville	SR	LB	13	9.5	74	0.73
+15	Jadrian Taylor	UTEP	SR	DE	12	9.5	71	0.79
+15	Owen Porter	Marshall	JR	DL	13	9.5	60	0.73
+15	Drew Sanders	Arkansas	JR	LB	12	9.5	45	0.79
+19	Jordan Ferguson	MTSU	SR	DE	13	9.0	77	0.69
+19	Jared Verse	FSU	SO	DE	12	9.0	72	0.75
+19	JaQues Evans	Western Ky	SO	LB	14	9.0	67	0.64
+19	Durrell Johnson	Liberty	SR	DE	13	9.0	64	0.69
+19	Viliami Fehoko	SJSU	JR	DL	12	9.0	60	0.75
+19	YaYa Diaby	Louisville	SR	DL	13	9.0	55	0.69
+19	Bralen Trice	Washington	SO	EDG	13	9.0	49	0.69
+19	Layton Jordan	Temple	JR	OLB	12	9.0	46	0.75
+27	Harold Perkins Jr.	LSU	FR	LB	14	8.5	65	0.61
+27	Jeremiah Martin	Washington	SR	EDG	13	8.5	58	0.65
+27	Daniel Grzesiak	Utah State	JR	DE	13	8.5	54	0.65
+27	Mohamed Kamara	CSU	SR	DL	12	8.5	53	0.71
+27	Donovan Ezeiruaku	BC	SO	DE	12	8.5	52	0.71
+27	Felix Anudike-Uzomah	Kansas St	JR	DE	14	8.5	50	0.61
+27	DeVonne Harris	Wyoming	SO	DE	13	8.5	43	0.65
+34	Trey Moore	UTSA	FR	OLB	14	8.0	58	0.57
+34	Adam Plant Jr.	UNLV	SR	DL	11	8.0	57	0.73
+34	T.J. Jackson	Troy	SO	DE	14	8.0	56	0.57
+34	Cal Wallerstedt	UTEP	JR	LB	12	8.0	43	0.67
+34	D'Anthony Jones	Houston	SR	DL	13	8.0	36	0.62
+34	Nick Hampton	App St	JR	OLB	9	8.0	30	0.89
+40	Isaiah McGuire	Missouri	SR	DL	12	7.5	66	0.63
+40	Deontae Craig	Iowa	SO	DL	13	7.5	60	0.58
+40	Darian Varner	Temple	SO	DL	10	7.5	59	0.75
+40	Saivon Taylor-Davis	Kent State	SR	DL	10	7.5	55	0.75
+40	Jordan Domineck	Arkansas	SR	DL	13	7.5	55	0.58
+40	Andre Jones	La-Lafytte	SR	LB	12	7.5	54	0.63
+40	Drake Thomas	NC State	JR	LB	13	7.5	54	0.58
+40	Lazarus Williams	NMSU	SR	DL	13	7.5	53	0.58
+40	Mike Morris	Michigan	SR	EDG	12	7.5	50	0.63
+40	Mazin Richards	N Texas	JR	OLB	14	7.5	50	0.54
+40	Richard Jibunor	Troy	JR	BAN	14	7.5	50	0.54
+40	Keion White	Ga Tech	SR	DL	12	7.5	49	0.63
+40	Dee Winters	TCU	SR	LB	15	7.5	40	0.50
+40	Isaac Ukwu	James Mad	SR	DL	11	7.5	35	0.68
+40	Cade Hall	SJSU	SR	DL	12	7.5	34	0.63
+55	SirVocea Dennis	Pittsburgh	SR	LB	12	7.0	57	0.58
+55	Tavius Robinson	Miss	SR	DE	13	7.0	57	0.54
+55	Calijah Kancey	Pittsburgh	JR	DL	11	7.0	48	0.64
+55	Tyree Wilson	Texas Tech	SR	OLB	10	7.0	47	0.70
+55	Chico Bennett Jr.	Virginia	SR	BAN	10	7.0	47	0.70
+55	Akheem Mesidor	Miami (Fl)	SO	DL	11	7.0	41	0.64
+55	Andre Carter	W Mich	JR	DL	12	7.0	41	0.58
+55	Byron Young	Tennessee	SR	DL	13	7.0	41	0.54
+55	Lonnie Phelps	Kansas	JR	DE	13	7.0	40	0.54
+55	Caleb Okechukwu	Syracuse	JR	DL	13	7.0	40	0.54
+55	Derick Hall	Auburn	SR	EDG	12	7.0	36	0.58
+55	Eric Watts	UConn	JR	DL	13	7.0	36	0.54
+55	Zi'Yon Hill-Green	La-Lafytte	SR	DL	13	7.0	30	0.54
+55	Braden Siders	Wyoming	FR	DE	13	7.0	28	0.54
+69	Abdul Carter	Penn State	FR	LB	13	6.5	59	0.50
+2021
+1	Will Anderson Jr.	Alabama	SO	LB	15	17.5	108	1.17
+2	Andre Carter II	Army	JR	OLB	13	15.5	88	1.19
+3	Aidan Hutchinson	Michigan	SR	DE	14	14.0	73	1.00
+4	Ali Fayad	W Mich	SR	DL	13	13.0	79	1.00
+5	Josaiah Stewart	Coast Car	FR	DE	13	12.5	76	0.96
+5	Sam Williams	Miss	SR	DL	13	12.5	66	0.96
+7	Will McDonald IV	Iowa State	JR	DE	13	11.5	77	0.89
+7	Jermaine Johnson II	FSU	SR	DE	12	11.5	71	0.96
+7	Cameron Thomas	SDSU	JR	DL	14	11.5	63	0.82
+10	Isaiah Foskey	Notre Dame	SO	DL	13	11.0	127	0.85
+10	David Ojabo	Michigan	JR	LB	14	11.0	88	0.79
+10	Javon Solomon	Troy	FR	BAN	12	11.0	67	0.92
+10	Nick Hampton	App St	JR	OLB	14	11.0	55	0.79
+10	Felix Anudike-Uzomah	Kansas St	SO	DE	13	11.0	52	0.85
+15	Chauncey Manac	La-Lafytte	SR	LB	14	10.5	82	0.75
+15	Scott Patchan	CSU	SR	DL	12	10.5	79	0.88
+15	Collin Oliver	Okla St	FR	DE	14	10.5	74	0.75
+15	Clarence Hicks	UTSA	SR	OLB	14	10.5	66	0.75
+19	Yasir Abdullah	Louisville	JR	LB	13	10.0	77	0.77
+19	Tristan Nichols	Nevada	SR	DT	11	10.0	65	0.91
+19	Jamal Hines	Toledo	JR	OLB	13	10.0	52	0.77
+22	Vince Sanford	Air Force	JR	OLB	13	9.5	91	0.73
+22	Mika Tafua	Utah	JR	DE	14	9.5	77	0.68
+22	Lonnie Phelps	Miami (Oh)	SO	DL	13	9.5	73	0.73
+22	Arnold Ebiketie	Penn State	SR	DE	12	9.5	62	0.79
+26	Nick Heninger	Utah State	SR	DE	14	9.0	79	0.64
+26	Troy Hairston II	CMU	SR	DL	13	9.0	75	0.69
+26	Eyioma Uwazurike	Iowa State	SR	DE	13	9.0	74	0.69
+26	Jordan Ferguson	MTSU	JR	DE	13	9.0	59	0.69
+26	Nick Herbig	Wisconsin	SO	OLB	13	9.0	57	0.69
+26	Brock Martin	Okla St	SR	DE	13	9.0	56	0.69
+26	Luiji Vilain	Wk Forest	SR	DL	14	9.0	56	0.64
+26	Phidarian Mathis	Alabama	SR	DL	15	9.0	52	0.60
+26	DeAngelo Malone	Western Ky	SR	DE	14	9.0	51	0.64
+26	Derick Hall	Auburn	JR	EDG	13	9.0	49	0.69
+26	Habakkuk Baldonado	Pittsburgh	JR	DL	14	9.0	46	0.64
+37	Tomon Fox	N Carolina	SR	LB	13	8.5	59	0.65
+37	Tyree Johnson	Texas A&M	SR	DL	12	8.5	57	0.71
+37	Jonah Tavai	SDSU	SR	DL	14	8.5	57	0.61
+37	Grayson Murphy	N Texas	FR	DE	13	8.5	53	0.65
+37	Dallas Turner	Alabama	FR	LB	15	8.5	52	0.57
+37	DeMarvin Leal	Texas A&M	JR	DL	12	8.5	46	0.71
+37	Brenton Cox Jr.	Florida	JR	OLB	13	8.5	46	0.65
+37	Cody Roscoe	Syracuse	SR	DL	12	8.5	45	0.71
+45	Leo Chenal	Wisconsin	JR	ILB	11	8.0	74	0.73
+45	Richard Jibunor	Troy	SO	BAN	11	8.0	67	0.73
+45	Devin Lloyd	Utah	JR	LB	14	8.0	60	0.57
+45	Isaiah Thomas	Oklahoma	SR	DL	12	8.0	56	0.67
+45	Rondell Bothroyd	Wk Forest	SO	DL	14	8.0	45	0.57
+45	Zachary Carter	Florida	SR	DL	12	8.0	44	0.67
+45	Kameron Butler	Miami (Oh)	JR	DL	13	8.0	43	0.62
+45	Kivon Bennett	Ark St	JR	DL	12	8.0	42	0.67
+53	Jordan Jackson	Air Force	SR	DT	13	7.5	79	0.58
+53	Karl Brooks	BGSU	JR	DL	12	7.5	55	0.63
+53	Terrel Bernard	Baylor	SR	LB	13	7.5	53	0.58
+53	Curtis Brooks	Cincinnati	SR	DL	14	7.5	46	0.54
+53	Mohamed Kamara	CSU	JR	LB	12	7.5	39	0.63
+53	Joe Ozougwu	Ark St	SR	DE	12	7.5	36	0.63
+59	Tyree Wilson	Texas Tech	JR	DL	13	7.0	58	0.54
+59	Calijah Kancey	Pittsburgh	SO	DL	14	7.0	58	0.50
+59	Cameron Goode	California	SR	OLB	11	7.0	56	0.64
+59	David Perales	Fresno St	SR	DE	13	7.0	56	0.54
+59	Kayvon Thibodeaux	Oregon	SO	DE	11	7.0	53	0.64
+2020
+1	Jordan Strachan	Georgia St	JR	OLB	10	10.5	59	1.05
+1	Will McDonald IV	Iowa State	SO	DE	12	10.5	57	0.88
+3	Patrick Johnson	Tulane	SR	DE	11	10.0	67	0.91
+3	Cade Hall	SJSU	JR	DL	7	10.0	58	1.43
+5	Patrick Jones II	Pittsburgh	SR	DL	11	9.0	85	0.82
+5	Ochaun Mathis	TCU	SO	DE	10	9.0	62	0.90
+5	Leighton McCarthy	FAU	SR	OLB	8	9.0	57	1.13
+8	Durrell Johnson	Liberty	JR	DE	11	8.5	65	0.77
+8	Azeez Ojulari	Georgia	SO	OLB	10	8.5	64	0.85
+8	Isaiah Thomas	Oklahoma	JR	DL	11	8.5	60	0.77
+8	Tarron Jackson	Coast Car	SR	DE	12	8.5	50	0.71
+8	Wyatt Hubert	Kansas St	JR	DE	10	8.5	41	0.85
+13	Chris Rumph II	Duke	JR	DE	11	8.0	54	0.73
+13	Nik Bonitto	Oklahoma	SO	OLB	10	8.0	44	0.80
+13	Christian Barmore	Alabama	SO	DL	12	8.0	42	0.67
+13	Jaelan Phillips	Miami (Fl)	JR	DL	10	8.0	38	0.80
+17	Victor Dimukeje	Duke	SR	DE	11	7.5	54	0.68
+17	Rashad Weaver	Pittsburgh	SR	DL	9	7.5	36	0.83
+19	Justin Rice	Ark St	SR	LB	11	7.0	70	0.64
+19	JaQuan Bailey	Iowa State	SR	DE	12	7.0	55	0.58
+19	Zion Tupuola-Fetui	Washington	SO	OLB	4	7.0	49	1.75
+19	Calvin Bundage	Okla St	SR	LB	11	7.0	48	0.64
+19	Myjai Sanders	Cincinnati	JR	DE	10	7.0	47	0.70
+19	Morris Joseph	Memphis	JR	DL	11	7.0	43	0.64
+19	Tomon Fox	N Carolina	SR	LB	12	7.0	42	0.58
+19	Will Anderson Jr.	Alabama	FR	LB	13	7.0	39	0.54
+19	Adetokunbo Ogundeji	Notre Dame	SR	DL	12	7.0	28	0.58
+28	Adam Anderson	Georgia	JR	OLB	10	6.5	51	0.65
+28	Justus Reed	Va Tech	SR	DL	11	6.5	48	0.59
+28	Darius Hodge	Marshall	JR	DL	10	6.5	47	0.65
+28	Amaré Barno	Va Tech	JR	DL	11	6.5	43	0.59
+28	Jeffrey Gunter	Coast Car	JR	DB	12	6.5	40	0.54
+28	Carson Wells	Colorado	JR	OLB	6	6.5	35	1.08
+28	Daniel Joseph	NC State	SR	DL	11	6.5	33	0.59
+28	C.J. Brewer	Coast Car	SR	DT	12	6.5	32	0.54
+36	Charles Snowden	Virginia	SR	OLB	8	6.0	51	0.75
+36	Chazz Surratt	N Carolina	SR	LB	11	6.0	51	0.55
+36	Viliami Fehoko	SJSU	SO	DE	8	6.0	47	0.75
+36	Demetrius Taylor	App St	SR	DL	12	6.0	45	0.50
+36	Kingsley Enagbare	S Carolina	JR	DL	8	6.0	40	0.75
+36	Praise Amaewhule	UTEP	SO	DE	8	6.0	40	0.75
+36	DeAngelo Malone	Western Ky	SR	DE	12	6.0	38	0.50
+36	Hardrick Willis	Georgia St	JR	DE	9	6.0	36	0.67
+36	Christopher Allen	Alabama	JR	LB	13	6.0	33	0.46
+36	Trajan Jeffcoat	Missouri	SO	DL	9	6.0	32	0.67
+36	Micah McFadden	Indiana	JR	LB	8	6.0	31	0.75
+36	Shane Irwin	Boise St	JR	DE	7	6.0	27	0.86
+36	Jaylen Joyner	FAU	SO	DE	9	6.0	27	0.67
+49	Chauncey Golston	Iowa	SR	DL	8	5.5	47	0.69
+2019
+1	Chase Young	Ohio State	JR	DE	12	16.5	117	1.38
+2	Gregory Rousseau	Miami (Fl)	FR	DL	13	15.5	94	1.19
+3	Hamilcar Rashed Jr.	Oregon St	JR	OLB	12	14.0	109	1.17
+3	Alex Highsmith	Charlotte	SR	DE	13	14.0	83	1.08
+5	Curtis Weaver	Boise St	JR	STD	14	13.5	85	0.96
+5	James Lynch	Baylor	JR	DT	14	13.5	82	0.96
+7	Bradlee Anae	Utah	SR	DE	14	13.0	91	0.93
+7	Quincy Roche	Temple	JR	DE	13	13.0	85	1.00
+9	Zack Baun	Wisconsin	SR	OLB	14	12.5	80	0.89
+10	Patrick Nelson	SMU	SR	S	13	12.0	85	0.92
+11	DeAngelo Malone	Western Ky	JR	DL	13	11.5	97	0.89
+11	Chris Orr	Wisconsin	SR	ILB	14	11.5	83	0.82
+11	A.J. Epenesa	Iowa	JR	DE	13	11.5	67	0.89
+14	Kendall Futrell	ECU	SR	DL	12	11.0	68	0.92
+14	Carlos Basham Jr.	Wk Forest	JR	DL	13	11.0	47	0.85
+16	Jaylen Twyman	Pittsburgh	SO	DL	13	10.5	76	0.81
+16	Jessie Lemonier	Liberty	SR	DL	13	10.5	63	0.81
+16	Kenny Willekes	Mich St	SR	DE	13	10.5	61	0.81
+19	Delontae Scott	SMU	SR	DE	13	10.0	74	0.77
+19	Tarron Jackson	Coast Car	JR	DE	12	10.0	72	0.83
+19	Jordan Smith	UAB	SO	OLB	14	10.0	65	0.71
+22	Yetur Gross-Matos	Penn State	JR	DE	12	9.5	76	0.79
+22	Cameron Goode	California	JR	OLB	12	9.5	62	0.79
+22	Jonathan Greenard	Florida	SR	LB	12	9.5	52	0.79
+22	Markees Watts	Charlotte	SO	LB	13	9.5	48	0.73
+26	Kristopher Moll	UAB	JR	LB	13	9.0	60	0.69
+26	Dom Peterson	Nevada	SO	DE	12	9.0	58	0.75
+26	Joe Gaziano	N'western	SR	DL	12	9.0	56	0.75
+26	Kayvon Thibodeaux	Oregon	FR	DE	14	9.0	56	0.64
+26	Oluwole Betiku Jr.	Illinois	JR	DL	10	9.0	53	0.90
+26	Malcolm Koonce	Buffalo	JR	DE	13	9.0	43	0.69
+32	Josh Uche	Michigan	SR	LB	13	8.5	65	0.65
+32	Patrick Jones II	Pittsburgh	JR	DL	13	8.5	64	0.65
+32	LaDarius Hamilton	N Texas	SR	DE	12	8.5	63	0.71
+32	Victor Dimukeje	Duke	JR	DE	12	8.5	59	0.71
+32	Calvin Taylor Jr.	Kentucky	SR	DE	13	8.5	53	0.65
+32	William Bradley-King	Ark St	JR	DE	13	8.5	48	0.65
+32	Darrell Taylor	Tennessee	SR	LB	13	8.5	47	0.65
+32	Taylor Riggins	Buffalo	JR	DE	13	8.5	46	0.65
+40	Casey Toohill	Stanford	SR	OLB	12	8.0	62	0.67
+40	Anfernee Jennings	Alabama	SR	LB	13	8.0	61	0.62
+40	Joe Tryon	Washington	SO	OLB	13	8.0	59	0.62
+40	Trevis Gipson	Tulsa	SR	DE	12	8.0	52	0.67
+40	Ledarius Mack	Buffalo	SR	DE	13	8.0	52	0.62
+40	Isaiah Simmons	Clemson	JR	LB	15	8.0	52	0.53
+40	Jacob Springer	Navy	JR	LB	13	8.0	51	0.62
+40	Khalil Davis	Nebraska	SR	DL	11	8.0	44	0.73
+48	George Karlaftis	Purdue	FR	DE	12	7.5	57	0.63
+2018
+1	Jaylon Ferguson	La Tech	SR	DE	13	17.5	111	1.35
+2	Josh Allen	Kentucky	SR	LB	13	17.0	107	1.31
+3	Sutton Smith	N Illinois	JR	DE	14	15.0	102	1.07
+4	Nate Harvey	ECU	SR	DE	12	14.5	100	1.21
+5	Oshane Ximines	ODU	SR	DE	12	12.0	79	1.00
+6	Montez Sweat	Miss St	SR	DE	13	11.5	96	0.89
+6	Clelin Ferrell	Clemson	JR	DE	15	11.5	59	0.77
+8	Jachai Polite	Florida	JR	DL	13	11.0	55	0.85
+9	A.J. Epenesa	Iowa	SO	DE	13	10.5	66	0.81
+9	Patrick Johnson	Tulane	SO	DE	13	10.5	63	0.81
+9	Tipa Galeai	Utah State	JR	LB	13	10.5	59	0.81
+12	Brian Burns	FSU	JR	DE	12	10.0	94	0.83
+12	Kendall Coleman	Syracuse	JR	DL	12	10.0	78	0.83
+12	Josh Corcoran	N Illinois	SR	DE	12	10.0	67	0.83
+12	Jessie Lemonier	Liberty	JR	DL	12	10.0	62	0.83
+12	Alton Robinson	Syracuse	JR	DL	12	10.0	54	0.83
+17	Curtis Weaver	Boise St	SO	STD	13	9.5	83	0.73
+17	Mike Danna	CMU	JR	DL	12	9.5	74	0.79
+17	Anthony Nelson	Iowa	JR	DE	13	9.5	63	0.73
+17	Chase Young	Ohio State	SO	DE	14	9.5	60	0.68
+17	Charles Omenihu	Texas	SR	DL	14	9.5	58	0.68
+17	Jamell Garcia-Williams	UAB	SR	DL	14	9.5	54	0.68
+17	Bryce Huff	Memphis	JR	LB	14	9.5	53	0.68
+17	Carter Coughlin	Minnesota	JR	LB	13	9.5	50	0.73
+17	Isaiah Buggs	Alabama	SR	DL	15	9.5	49	0.63
+26	E.J. Ejiya	N Texas	SR	LB	13	9.0	71	0.69
+26	Ronheen Bingham	Ark St	SR	DE	13	9.0	60	0.69
+26	Ty Tyler	Marshall	JR	DL	13	9.0	59	0.69
+26	Wyatt Ray	BC	SR	DE	12	9.0	58	0.75
+26	Jordan Brailford	Okla St	JR	DE	13	9.0	50	0.69
+26	Joe Jackson	Miami (Fl)	JR	DL	13	9.0	45	0.69
+32	Kaimana Padello	Hawai'i	JR	DL	14	8.5	87	0.61
+32	Dre'Mont Jones	Ohio State	JR	DT	14	8.5	61	0.61
+32	Kenny Willekes	Mich St	JR	DE	13	8.5	60	0.65
+32	James Nachtigal	Army	SR	LB	13	8.5	58	0.65
+32	Tuzar Skipper	Toledo	SR	DL	13	8.5	57	0.65
+32	Corbin Kaufusi	BYU	SR	DL	11	8.5	51	0.77
+32	Kyahva Tezino	SDSU	JR	LB	13	8.5	51	0.65
+32	Ben Banogu	TCU	SR	DE	13	8.5	39	0.65
+32	Christian Miller	Alabama	SR	LB	14	8.5	35	0.61
+41	Tre' Crawford	UAB	SR	LB	12	8.0	66	0.67
+41	JaQuan Bailey	Iowa State	JR	DE	13	8.0	60	0.62
+41	Malik Reed	Nevada	SR	LB	13	8.0	58	0.62
+41	Yetur Gross-Matos	Penn State	SO	DE	13	8.0	58	0.62
+41	Julian Okwara	Notre Dame	JR	DL	13	8.0	57	0.62
+41	Quinnen Williams	Alabama	SO	DL	15	8.0	57	0.53
+41	Bradlee Anae	Utah	JR	DE	14	8.0	56	0.57
+41	Darrell Taylor	Tennessee	JR	LB	12	8.0	54	0.67
+41	Jerry Tillery	Notre Dame	SR	DL	13	8.0	54	0.62
+41	Austin Bryant	Clemson	SR	DE	15	8.0	45	0.53
+51	Shareef Miller	Penn State	SR	DE	13	7.5	63	0.58
+51	Joe Gaziano	N'western	JR	DL	14	7.5	61	0.54
+51	Hunter Reese	Troy	SR	LB	13	7.5	58	0.58

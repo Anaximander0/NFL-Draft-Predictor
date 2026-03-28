@@ -1,0 +1,117 @@
+rank,name,college,class,pos,CmpPct,pass yards,PTds,ints,P rating,year
+1,Cam Ward,Miami (Fl),SR,QB,67.2,4313,39,7,172.25,2024
+2,Shedeur Sanders,Colorado,SR,QB,74.0,4134,37,10,168.21,2024
+3,Cade Klubnik,Clemson,JR,QB,63.4,3639,36,6,148.24,2024
+4,Will Howard,Ohio State,SR,QB,73.0,4010,35,10,175.25,2024
+5,Kyle McCord,Syracuse,SR,QB,66.0,4779,34,12,148.76,2024
+6,Chandler Morris,N Texas,JR,QB,62.9,3774,31,12,140.10,2024
+6,Quinn Ewers,Texas,JR,QB,65.8,3472,31,12,148.98,2024
+8,Dillon Gabriel,Oregon,SR,QB,72.9,3857,30,6,164.88,2024
+8,Jordan McCloud,Texas St,SR,QB,70.0,3227,30,13,158.21,2024
+10,Jaxson Dart,Miss,SR,QB,69.3,4279,29,6,180.68,2024
+10,Garrett Nussmeier,LSU,JR,QB,64.2,4052,29,12,142.68,2024
+1,Bo Nix,Oregon,SR,QB,77.4,4508,45,3,188.32,2023
+2,Jayden Daniels,LSU,SR,QB,72.2,3812,40,4,208.01,2023
+3,Michael Penix Jr.,Washington,SR,QB,65.4,4903,36,11,157.06,2023
+4,Jordan McCloud,James Mad,SR,QB,68.2,3657,35,10,165.94,2023
+5,Joey Aguilar,App St,JR,QB,63.7,3757,33,10,151.62,2023
+6,Seth Henigan,Memphis,JR,QB,66.8,3883,32,9,153.75,2023
+6,Kaidon Salter,Liberty,SO,QB,61.0,2876,32,6,176.60,2023
+8,Austin Reed,Western Ky,SR,QB,61.5,3340,31,11,138.27,2023
+9,Dillon Gabriel,Oklahoma,SR,QB,69.3,3660,30,6,171.98,2023
+9,Caleb Williams,USC,JR,QB,68.6,3633,30,5,170.15,2023
+11,Chandler Rogers,N Texas,JR,QB,62.2,3382,29,5,150.06,2023
+12,Preston Stone,SMU,SO,QB,59.9,3197,28,6,161.32,2023
+13,Shedeur Sanders,Colorado,JR,QB,69.3,3230,27,3,151.72,2023
+13,Gunnar Watson,Troy,SR,QB,61.0,3569,27,6,146.91,2023
+13,Haynes King,Ga Tech,SO,QB,61.6,2842,27,16,142.19,2023
+16,Brayden Schager,Hawai'i,JR,QB,63.2,3542,26,14,130.92,2023
+16,Byrum Brown,S Florida,FR,QB,64.6,3292,26,11,144.34,2023
+16,Diego Pavia,NMSU,JR,QB,60.4,2973,26,9,147.13,2023
+19,Cameron Ward,Wash St,JR,QB,66.6,3736,25,7,145.43,2023
+19,Taulia Tagovailoa,Maryland,SR,QB,66.4,3377,25,11,145.13,2023
+19,Noah Fifita,Arizona,FR,QB,72.4,2869,25,6,165.92,2023
+19,Devin Leary,Kentucky,SR,QB,56.3,2746,25,12,134.28,2023
+19,Drew Allar,Penn State,SO,QB,59.9,2631,25,2,136.89,2023
+24,Drake Maye,N Carolina,SO,QB,63.3,3608,24,9,149.00,2023
+1,Caleb Williams,USC,SO,QB,66.6,4537,42,5,168.54,2022
+2,C.J. Stroud,Ohio State,JR,QB,66.3,3688,41,6,177.66,2022
+3,Austin Reed,Western Ky,SR,QB,64.5,4744,40,11,148.83,2022
+3,Clayton Tune,Houston,SR,QB,67.3,4074,40,10,158.92,2022
+5,Drake Maye,N Carolina,FR,QB,66.2,4321,38,7,157.91,2022
+5,Sam Hartman,Wk Forest,JR,QB,63.1,3701,38,12,159.40,2022
+7,Will Rogers,Miss St,JR,QB,68.0,3974,35,8,139.08,2022
+8,Tanner Mordecai,SMU,SR,QB,65.0,3524,33,10,151.90,2022
+8,Austin Aune,N Texas,JR,QB,56.4,3547,33,15,148.14,2022
+10,Frank Harris,UTSA,SR,QB,69.6,4063,32,9,160.70,2022
+10,Bryce Young,Alabama,JR,QB,64.5,3328,32,5,163.20,2022
+10,Max Duggan,TCU,SR,QB,63.7,3698,32,8,159.24,2022
+13,Michael Penix Jr.,Washington,JR,QB,65.3,4641,31,8,151.29,2022
+13,Jaren Hall,BYU,JR,QB,66.0,3171,31,6,160.83,2022
+15,Bo Nix,Oregon,SR,QB,71.9,3593,29,7,165.65,2022
+1,Bailey Zappe,Western Ky,SR,QB,69.2,5967,62,11,168.92,2021
+2,Bryce Young,Alabama,SO,QB,66.9,4872,47,7,167.52,2021
+3,C.J. Stroud,Ohio State,FR,QB,71.9,4435,44,6,186.56,2021
+4,Kenny Pickett,Pittsburgh,SR,QB,67.2,4319,42,7,165.27,2021
+5,Tanner Mordecai,SMU,JR,QB,67.8,3628,39,12,158.02,2021
+5,Sam Hartman,Wk Forest,SO,QB,58.9,4228,39,14,148.59,2021
+7,Will Rogers,Miss St,SO,QB,73.9,4739,36,9,146.98,2021
+7,Carson Strong,Nevada,JR,QB,70.0,4175,36,8,156.69,2021
+7,Logan Bonner,Utah State,JR,QB,61.3,3628,36,12,154.45,2021
+10,Devin Leary,NC State,SO,QB,65.7,3433,35,5,157.05,2021
+11,Jake Haener,Fresno St,SR,QB,67.1,4096,33,9,155.92,2021
+12,Brennan Armstrong,Virginia,JR,QB,65.2,4449,31,10,156.40,2021
+12,Hendon Hooker,Tennessee,SR,QB,68.0,2945,31,3,181.41,2021
+14,Clayton Tune,Houston,JR,QB,68.3,3546,30,10,158.06,2021
+14,Desmond Ridder,Cincinnati,SR,QB,64.9,3334,30,8,158.68,2021
+16,Stetson Bennett,Georgia,SR,QB,64.5,2862,29,7,176.69,2021
+17,Aidan O'Connell,Purdue,SR,QB,71.8,3708,28,11,158.74,2021
+18,Grayson McCall,Coast Car,SO,QB,73.0,2873,27,3,207.65,2021
+18,Payton Thorne,Mich St,SO,QB,60.4,3232,27,10,147.97,2021
+18,Chase Brice,App St,SR,QB,62.1,3337,27,11,151.13,2021
+18,Max Johnson,LSU,SO,QB,60.3,2814,27,6,144.36,2021
+18,Frank Harris,UTSA,SR,QB,65.9,3161,27,6,151.78,2021
+18,Malik Willis,Liberty,JR,QB,61.1,2857,27,12,151.06,2021
+1,Kyle Trask,Florida,SR,QB,68.9,4283,43,8,180.02,2020
+2,Mac Jones,Alabama,JR,QB,77.4,4500,41,4,203.06,2020
+3,Zach Wilson,BYU,JR,QB,73.5,3692,33,3,196.43,2020
+4,Dillon Gabriel,UCF,SO,QB,60.0,3570,32,4,156.29,2020
+5,Brady White,Memphis,SR,QB,60.5,3380,31,10,147.68,2020
+6,Sam Howell,N Carolina,SO,QB,68.1,3586,30,7,179.09,2020
+7,Matt Corral,Miss,SO,QB,70.9,3337,29,14,177.61,2020
+8,Spencer Rattler,Oklahoma,FR,QB,67.5,3031,28,7,172.56,2020
+9,Carson Strong,Nevada,SO,QB,70.1,2858,27,4,160.62,2020
+10,Sam Ehlinger,Texas,SR,QB,60.2,2566,26,5,150.73,2020
+10,Grayson McCall,Coast Car,FR,QB,68.8,2488,26,3,184.32,2020
+12,Trevor Lawrence,Clemson,JR,QB,69.2,3153,24,5,169.18,2020
+13,Shane Buechele,SMU,SR,QB,65.4,3095,23,6,152.95,2020
+13,D'Eriq King,Miami (Fl),SR,QB,64.1,2686,23,5,152.74,2020
+15,Justin Fields,Ohio State,JR,QB,70.2,2100,22,6,175.56,2020
+1,Joe Burrow,LSU,SR,QB,76.3,5671,60,6,201.96,2019
+2,Anthony Gordon,Wash St,SR,QB,71.8,5579,48,16,158.38,2019
+3,Justin Fields,Ohio State,SO,QB,67.2,3273,41,3,181.43,2019
+4,Sam Howell,N Carolina,FR,QB,61.4,3641,38,7,160.25,2019
+5,Trevor Lawrence,Clemson,SO,QB,65.8,3665,36,8,166.75,2019
+6,Shane Buechele,SMU,JR,QB,62.7,3929,34,10,148.82,2019
+6,Ian Book,Notre Dame,SR,QB,60.2,3034,34,6,149.13,2019
+8,Tua Tagovailoa,Alabama,JR,QB,71.4,2840,33,3,206.93,2019
+8,Cole McDonald,Hawai'i,JR,QB,63.8,4135,33,14,147.60,2019
+8,Brady White,Memphis,JR,QB,64.0,4014,33,11,165.02,2019
+11,Sam Ehlinger,Texas,JR,QB,65.2,3663,32,10,151.82,2019
+11,Jalen Hurts,Oklahoma,SR,QB,69.7,3851,32,8,191.20,2019
+11,Justin Herbert,Oregon,SR,QB,66.8,3471,32,6,156.81,2019
+1,Dwayne Haskins,Ohio State,SO,QB,70.0,4831,50,8,174.08,2019
+2,Tua Tagovailoa,Alabama,SO,QB,69.0,3966,43,6,199.44,2019
+3,Kyler Murray,Oklahoma,JR,QB,69.0,4361,42,7,199.20,2019
+4,Gardner Minshew II,Wash St,SR,QB,70.7,4779,38,9,147.56,2019
+5,Will Grier,WVU,SR,QB,67.0,3864,37,8,175.49,2019
+6,Cole McDonald,Hawai'i,SO,QB,58.9,3875,36,10,146.55,2019
+6,D'Eriq King,Houston,JR,QB,63.5,2982,36,6,167.04,2019
+8,Taylor Cornelius,Okla St,SR,QB,59.4,3978,32,13,144.69,2019
+8,Jordan Love,Utah State,SO,QB,64.0,3567,32,6,158.32,2019
+10,Brett Rypien,Boise St,SR,QB,67.3,3705,30,7,155.99,2019
+10,Trevor Lawrence,Clemson,FR,QB,65.2,3280,30,4,157.56,2019
+10,Jake Fromm,Georgia,SO,QB,67.3,2749,30,6,171.22,2019
+13,K.J. Costello,Stanford,JR,QB,65.1,3540,29,11,154.97,2019
+13,Brent Stockstill,MTSU,SR,QB,70.3,3544,29,10,150.74,2019
+13,Justin Herbert,Oregon,JR,QB,59.4,3151,29,8,144.66,2019

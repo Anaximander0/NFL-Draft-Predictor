@@ -1,0 +1,458 @@
+rank,name,college,class,pos,Tackles,Year
+1,Shaun Dolac,Buffalo,SR,LB,168,2024
+2,Red Murdock,Buffalo,SO,LB,156,2024
+3,Carson Schwesinger,UCLA,JR,LB,136,2024
+4,Jackson Woodard,UNLV,SR,LB,135,2024
+5,Travion Barnes,FIU,JR,LB,129,2024
+5,Colin Ramos,Navy,SR,LB,129,2024
+7,Jacob Rodriguez,Texas Tech,JR,LB,127,2024
+7,Isaac Smith,Miss St,SO,S,127,2024
+9,Whit Weeks,LSU,SO,LB,125,2024
+9,Jayden McDonald,UConn,SR,LB,125,2024
+9,Stone Blanton,Miss St,JR,LB,125,2024
+12,Jay Higgins,Iowa,SR,LB,124,2024
+13,Nick Andersen,Wk Forest,JR,DB,122,2024
+13,Matt Salopek,Miami (Oh),SR,LB,122,2024
+15,Bryan McCoy,Akron,JR,LB,120,2024
+15,Marques Watson-Trent,Ga South,SR,LB,120,2024
+15,Jaden Yates,Marshall,SO,LB,120,2024
+18,Aiden Fisher,Indiana,JR,LB,118,2024
+19,Jordan Vincent,Utah State,SR,S,117,2024
+19,Jihaad Campbell,Alabama,JR,LB,117,2024
+19,Kobe Wilson,SMU,SR,LB,117,2024
+22,Jordan Pollard,SJSU,JR,LB,115,2024
+22,K.C. Ossai,La-Lafytte,SR,LB,115,2024
+22,Donovan McMillon,Pittsburgh,SR,DB,115,2024
+25,Keaton Thomas,Baylor,SO,LB,114,2024
+25,Teddye Buchanan,California,SR,ILB,114,2024
+27,Matt Jones,Baylor,SR,LB,113,2024
+27,Anthony Hill Jr.,Texas,SO,LB,113,2024
+29,Tyquan King,Temple,JR,LB,112,2024
+29,Cody Simon,Ohio State,SR,LB,112,2024
+31,Chandler Martin,Memphis,JR,LB,111,2024
+32,Tuasivi Nomura,Fresno St,SR,LB,110,2024
+32,Fred Perry,J'ville St,JR,SAF,110,2024
+34,Donald Willis,W Mich,SR,LB,109,2024
+34,Antonio Carter II,J'ville St,SR,SAF,109,2024
+34,Danny Stutsman,Oklahoma,SR,LB,109,2024
+37,Maxen Hook,Toledo,SR,S,107,2024
+38,Jaylen Smith,N Texas,SR,LB,106,2024
+39,Dariel Djabome,Rutgers,JR,LB,105,2024
+40,Dillon Thieneman,Purdue,SO,DB,104,2024
+40,"D.J. Woodbury, Sr.",Temple,SR,LB,104,2024
+40,Carson Bruener,Washington,SR,LB,104,2024
+40,Omar Rogers,ECU,SR,DB,104,2024
+44,Anthony Wilson Jr.,WVU,SR,S,101,2024
+44,Kyle Louis,Pittsburgh,SO,LB,101,2024
+44,Blayne Myrick,USA,SO,LB,101,2024
+47,Isaiah Nwokobia,SMU,JR,S,100,2024
+47,Kyle Jacob,Navy,SR,LB,100,2024
+47,Sonny Styles,Ohio State,JR,SAF,100,2024
+47,Buom Jock,CSU,SO,LB,100,2024
+47,Ozzie Nicholas,Duke,SR,LB,100,2024
+52,Wydett Williams Jr.,La-Monroe,JR,DB,99,2024
+52,Christian Ellis,New Mexico,JR,S,99,2024
+52,"Xavian Sorey, Jr.",Arkansas,JR,LB,99,2024
+55,Jonas Sanker,Virginia,SR,S,98,2024
+55,Devonte' Mathews,Western Ky,SR,DB,98,2024
+55,Marvin Ham,Ark St,SR,LB,98,2024
+1,Jay Higgins,Iowa,SR,LB,171,2023
+2,Jason Henderson,ODU,JR,LB,170,2023
+3,Matt Salopek,Miami (Oh),JR,LB,143,2023
+3,Chase Kline,EMU,SR,LB,143,2023
+5,MJ Tafisi Jr.,Utah State,SR,ILB,142,2023
+6,Tyrice Knight,UTEP,SR,LB,140,2023
+6,Nickolas Martin,Okla St,SO,LB,140,2023
+8,Payton Wilson,NC State,SR,LB,138,2023
+9,Joe Sparacio,EMU,SR,LB,137,2023
+9,Nathaniel Watson,Miss St,SR,LB,137,2023
+11,Trevor Williams,Sam Hou St,SR,LB,135,2023
+11,Wayne Matthews III,ODU,SO,LB,135,2023
+13,Kendarin Ray,Tulsa,SR,S,131,2023
+14,Jett Johnson,Miss St,SR,LB,130,2023
+15,Bryce Houston,Ohio,SR,LB,127,2023
+16,Tyren Dupree,Liberty,SR,LB,124,2023
+17,Ty Wise,Miami (Oh),JR,LB,122,2023
+17,Marques Watson-Trent,Ga South,JR,LB,122,2023
+19,Donovan Manuel,FIU,SR,LB,121,2023
+19,Cedric Gray,N Carolina,SR,LB,121,2023
+21,Hunter Wohler,Wisconsin,JR,S,120,2023
+21,Bryce Gallagher,N'western,SR,LB,120,2023
+23,Jackson Woodard,UNLV,JR,LB,116,2023
+23,Dallas Gant,Toledo,SR,LB,116,2023
+23,Jacob Manu,Arizona,SO,LB,116,2023
+26,Jason Johnson,UCF,SR,LB,114,2023
+26,Andrew Parker Jr.,App St,SR,ILB,114,2023
+26,Jack Howell,CSU,JR,DB,114,2023
+29,Debo Williams,S Carolina,JR,LB,113,2023
+29,Jackson Mitchell,UConn,SR,LB,113,2023
+31,Keyshaun Elliott,NMSU,SO,LB,111,2023
+32,Marlowe Wax,Syracuse,JR,LB,110,2023
+32,Colin Ramos,Navy,JR,LB,110,2023
+32,Xander Mueller,N'western,SR,LB,110,2023
+32,Nick Jackson,Iowa,SR,LB,110,2023
+36,Aaron Casey,Indiana,SR,LB,109,2023
+36,Dominique Hampton,Washington,SR,HSK,109,2023
+36,Easton Gibbs,Wyoming,JR,LB,109,2023
+39,Aiden Fisher,James Mad,SO,LB,108,2023
+40,Jonas Sanker,Virginia,JR,S,107,2023
+40,Caleb Downs,Alabama,FR,DB,107,2023
+40,Beau Freyler,Iowa State,JR,DB,107,2023
+40,Ben Roberts,Texas Tech,FR,LB,107,2023
+40,Easton Mascarenas-Arnold,Oregon St,JR,ILB,107,2023
+40,Chase Wilson,CSU,JR,LB,107,2023
+40,Terry Jones,ODU,JR,S,107,2023
+47,Dillon Thieneman,Purdue,FR,DB,106,2023
+47,Bryun Parham,SJSU,JR,LB,106,2023
+47,Tre Freeman,Duke,SO,LB,106,2023
+50,Kendal Daniels,Okla St,SO,S,105,2023
+50,Donovan McMillon,Pittsburgh,JR,DB,105,2023
+50,Nick Ross,App St,SR,SAF,105,2023
+53,Brian Holloway,Texas St,SR,LB,104,2023
+53,Reggie Peterson,FIU,JR,LB,104,2023
+53,Danny Stutsman,Oklahoma,JR,LB,104,2023
+56,Power Echols,N Carolina,JR,LB,103,2023
+56,Ike Larsen,Utah State,SO,S,103,2023
+58,Jaylan Ford,Texas,SR,LB,101,2023
+59,Trey Rucker,Okla St,SR,S,100,2023
+1,Jason Henderson,ODU,SO,LB,186,2022
+2,Shaun Dolac,Buffalo,JR,LB,147,2022
+3,Cedric Gray,N Carolina,JR,LB,146,2022
+4,Jackson Mitchell,UConn,JR,LB,140,2022
+5,KD Davis,N Texas,SR,LB,139,2022
+6,Ivan Pace Jr.,Cincinnati,SR,LB,136,2022
+7,Carlton Martial,Troy,SR,LB,135,2022
+7,Ryan McWood,Miami (Oh),SR,LB,135,2022
+9,Austin Ajiake,UNLV,SR,ILB,133,2022
+10,Dorian Williams,Tulane,SR,LB,131,2022
+11,Bubba Arslanian,Akron,SR,LB,129,2022
+12,Jack Campbell,Iowa,SR,LB,128,2022
+13,Jason Johnson,UCF,SR,LB,126,2022
+14,Danny Stutsman,Oklahoma,SO,LB,124,2022
+14,Matthew Salopek,Miami (Oh),SO,LB,124,2022
+16,Easton Gibbs,Wyoming,SO,LB,121,2022
+17,Tommy Eichenberg,Ohio State,SR,LB,120,2022
+17,James Patterson,Buffalo,SR,LB,120,2022
+17,Cal Haladay,Mich St,SO,LB,120,2022
+20,Jaylan Ford,Texas,JR,LB,119,2022
+21,Ayinde Eley,Ga Tech,SR,LB,118,2022
+22,"Ryan Smenda, Jr.",Wk Forest,SR,LB,117,2022
+23,Dallas Gant,Toledo,JR,LB,116,2022
+23,Jett Johnson,Miss St,SR,LB,116,2022
+25,Nathaniel Watson,Miss St,SR,LB,114,2022
+25,Marques Watson-Trent,Ga South,SO,LB,114,2022
+27,Dwayne Boyles,S Florida,SR,LB,113,2022
+27,Nick Anderson,Tulane,SR,LB,113,2022
+29,Charlie Thomas,Ga Tech,SR,LB,112,2022
+29,Krishon Merriweather,Texas Tech,SR,LB,112,2022
+31,Xavier Cullens,Memphis,SR,LB,111,2022
+32,Kyle Soelle,Ariz St,SR,LB,110,2022
+32,Clayton Coll,Ball State,JR,ILB,110,2022
+34,Noah Wilder,UAB,SR,LB,109,2022
+34,David Ugwoegbu,Oklahoma,SR,LB,109,2022
+34,Dyontae Johnson,Toledo,SR,LB,109,2022
+37,Chris Ojoh,NMSU,SR,LB,108,2022
+37,DeMarcco Hellams,Alabama,SR,DB,108,2022
+37,Jack Howell,CSU,SO,DB,108,2022
+37,Jourdan Quibodeaux,La-Lafytte,SR,LB,108,2022
+41,Anfernee Orji,Vanderbilt,SR,LB,107,2022
+41,DJ Schramm,Boise St,SR,WLB,107,2022
+43,Kenny Logan Jr.,Kansas,SR,S,106,2022
+43,JaQues Evans,Western Ky,SO,LB,106,2022
+43,Daiyan Henley,Wash St,SR,LB,106,2022
+43,Larry Nixon III,N Texas,JR,LB,106,2022
+47,Cody Moon,New Mexico,SO,LB,105,2022
+48,Power Echols,N Carolina,SO,LB,104,2022
+48,Tra Fluellen,MTSU,JR,S,104,2022
+48,Jackson Sirmon,California,SR,ILB,104,2022
+48,Nick Jackson,Virginia,SR,LB,104,2022
+52,Nico Bolden,Kent State,SR,S,103,2022
+52,Gaethan Bernadel,FIU,SO,LB,103,2022
+52,Drew Sanders,Arkansas,JR,LB,103,2022
+55,Anthony Wilson,Ga South,JR,DB,102,2022
+55,Kyle Harmon,SJSU,SR,LB,102,2022
+55,Craig Slocum Jr.,Troy,SR,S,102,2022
+1,Jack Campbell,Iowa,JR,LB,143,2021
+2,Chad Muma,Wyoming,SR,LB,142,2021
+3,Chris Bergin,N'western,SR,LB,141,2021
+4,Damone Clark,LSU,SR,LB,137,2021
+5,Kyle Harmon,SJSU,SR,LB,135,2021
+6,Malcolm Rodriguez,Okla St,SR,LB,131,2021
+7,Avery Roberts,Oregon St,JR,ILB,128,2021
+7,Jeremy Banks,Tennessee,JR,LB,128,2021
+9,Carlton Martial,Troy,JR,LB,127,2021
+10,Ivan Pace Jr.,Miami (Oh),SO,LB,125,2021
+10,Bumper Pool,Arkansas,SR,LB,125,2021
+12,Justin Rice,Utah State,SR,ILB,124,2021
+12,Darren Anders,BGSU,JR,LB,124,2021
+14,JJ Russell,Memphis,SR,LB,123,2021
+15,KD Davis,N Texas,JR,LB,121,2021
+16,D'Marco Jackson,App St,SR,ILB,120,2021
+16,Jackson Mitchell,UConn,SO,LB,120,2021
+18,Jacoby Windmon,UNLV,JR,ILB,119,2021
+19,Nick Jackson,Virginia,JR,ILB,117,2021
+20,Dean Clark,Kent State,JR,S,116,2021
+21,Leo Chenal,Wisconsin,JR,ILB,115,2021
+22,Noah Sewell,Oregon,FR,ILB,114,2021
+22,James Patterson,Buffalo,SR,LB,114,2021
+24,Jaylan Alexander,Purdue,SR,LB,113,2021
+24,Joel Dublanko,Cincinnati,SR,LB,113,2021
+24,Jaylin Thomas,Ball State,SR,ILB,113,2021
+27,Matthew Salopek,Miami (Oh),FR,DB,112,2021
+27,Henry To'oTo'o,Alabama,JR,LB,112,2021
+29,Kenny Logan Jr.,Kansas,JR,S,111,2021
+30,Reed Blankenship,MTSU,SR,S,110,2021
+30,Josh Chandler-Semedo,WVU,SR,LB,110,2021
+30,Devin Lloyd,Utah,JR,LB,110,2021
+30,Mikel Jones,Syracuse,SO,LB,110,2021
+30,Abraham Beauplan,Marshall,JR,LB,110,2021
+30,Silas Kelly,Coast Car,SR,LB,110,2021
+36,Bryce Cosby,Ball State,SR,S,109,2021
+36,Darius Muasau,Hawai'i,JR,LB,109,2021
+36,Luke Reimer,Nebraska,SO,ILB,109,2021
+36,Jahad Woods,Wash St,SR,LB,109,2021
+36,Chance Campbell,Miss,SR,LB,109,2021
+41,Breon Hayward,UTEP,JR,LB,108,2021
+41,Tatum Bethune,UCF,JR,LB,108,2021
+41,CJ Brown,N Illinois,FR,S,108,2021
+41,Clayton Coll,Ball State,JR,ILB,108,2021
+45,Colin Schooler,Texas Tech,SR,LB,106,2021
+45,Josh Ross,Michigan,SR,LB,106,2021
+47,Seth Benson,Iowa,JR,LB,105,2021
+48,Quindell Johnson,Memphis,JR,DB,104,2021
+48,Bryce Houston,Ohio,JR,LB,104,2021
+50,Terrel Bernard,Baylor,SR,LB,103,2021
+50,Daiyan Henley,Nevada,SR,LB,103,2021
+52,Tyrice Knight,UTEP,JR,LB,102,2021
+52,Ben Bywater,BYU,FR,LB,102,2021
+52,Storey Jackson,Liberty,SR,LB,102,2021
+52,Quez Jackson,Ga Tech,JR,LB,102,2021
+56,JD Bertrand,Notre Dame,SO,LB,101,2021
+56,Will Anderson Jr.,Alabama,SO,LB,101,2021
+56,Hayden Henry,Arkansas,SR,LB,101,2021
+56,Grant Morgan,Arkansas,SR,LB,101,2021
+60,Antwon Kincade,Western Ky,SR,DB,100,2021
+60,Ellis Brooks,Penn State,SR,LB,100,2021
+60,Cedric Gray,N Carolina,SO,LB,100,2021
+60,Darrian Beavers,Cincinnati,SR,LB,100,2021
+60,Cam'Ron Carter,CSU,SR,LB,100,2021
+65,Khoury Bethley,Hawai'i,SR,DB,99,2021
+65,Drake Thomas,NC State,SO,LB,99,2021
+65,Nick Henrich,Nebraska,FR,LB,99,2021
+68,Ronnie Hickman,Ohio State,SO,SAF,98,2021
+68,Shaka Heyward,Duke,JR,LB,98,2021
+70,Jaylan Foster,S Carolina,SR,DB,97,2021
+70,Jordan Helm,FAU,SR,S,97,2021
+1,Zakoby McClain,Auburn,JR,LB,113,2020
+1,Carlton Martial,Troy,JR,LB,113,2020
+3,Grant Morgan,Arkansas,SR,LB,111,2020
+4,Payton Wilson,NC State,SO,LB,108,2020
+5,Isaiah McDuffie,BC,JR,LB,107,2020
+6,Nick Jackson,Virginia,SO,ILB,105,2020
+7,Darius Muasau,Hawai'i,SO,LB,104,2020
+8,Jamin Davis,Kentucky,JR,ILB,102,2020
+9,Olakunle Fatukasi,Rutgers,SR,LB,101,2020
+9,Bumper Pool,Arkansas,JR,LB,101,2020
+11,Jalen Catalon,Arkansas,FR,DB,99,2020
+11,Max Richardson,BC,SR,LB,99,2020
+11,Tyler Grubbs,La Tech,FR,LB,99,2020
+14,Dorian Williams,Tulane,SO,LB,98,2020
+15,Riley Cole,USA,SR,LB,96,2020
+15,Mike Rose,Iowa State,JR,LB,96,2020
+15,Erroll Thompson,Miss St,SR,LB,96,2020
+18,Rashad Wisdom,UTSA,SO,S,95,2020
+18,Nick Bolton,Missouri,JR,LB,95,2020
+20,Nick Mobley,USA,JR,LB,94,2020
+20,Isaiah Moore,NC State,JR,LB,94,2020
+22,Owen Pappoe,Auburn,SO,LB,93,2020
+23,Devon Key,Western Ky,SR,DB,92,2020
+24,Chazz Surratt,N Carolina,SR,LB,91,2020
+24,Hayes Maples,USM,SO,LB,91,2020
+24,Trey Cobb,App St,JR,ILB,91,2020
+27,Garret Wallow,TCU,SR,LB,90,2020
+27,Brandon Martin,Ball State,JR,ILB,90,2020
+27,Tavante Beckett,Marshall,SR,LB,90,2020
+30,D'Marco Jackson,App St,JR,ILB,89,2020
+31,Nick Anderson,Tulane,JR,LB,88,2020
+31,Tony Fields II,WVU,SR,LB,88,2020
+33,Ventrell Miller,Florida,JR,LB,86,2020
+33,Paddy Fisher,N'western,SR,LB,86,2020
+33,Buddy Johnson,Texas A&M,SR,LB,86,2020
+33,Ernest Jones,S Carolina,JR,LB,86,2020
+37,Trey Baldwin,La Tech,SR,LB,85,2020
+37,Antwon Kincade,Western Ky,SR,DB,85,2020
+39,Keith Gallmon,USA,JR,S,84,2020
+39,Blake Gallagher,N'western,SR,LB,84,2020
+39,David Curry,Ga Tech,SR,LB,84,2020
+42,Isaiah Kaufusi,BYU,SR,LB,83,2020
+42,Lorenzo McCaskill,La-Lafytte,JR,LB,83,2020
+44,Malcolm Rodriguez,Okla St,SR,LB,82,2020
+44,Devin Nicholson,Missouri,SO,LB,82,2020
+44,Traveion Webster,La-Monroe,SR,LB,82,2020
+47,Quindell Johnson,Memphis,SO,DB,81,2020
+47,Chamarri Conner,Va Tech,JR,DB,81,2020
+47,Amen Ogbongbemiga,Okla St,SR,LB,81,2020
+47,Malik Shorts,USM,SO,DB,81,2020
+51,Shaka Heyward,Duke,SO,LB,80,2020
+51,Quez Jackson,Ga Tech,JR,LB,80,2020
+51,Dylan Moses,Alabama,SR,LB,80,2020
+51,Silas Kelly,Coast Car,SR,LB,80,2020
+55,Christian Harris,Alabama,SO,LB,79,2020
+55,C.J. Avery,Louisville,SR,ILB,79,2020
+55,Zane Zandier,Virginia,SR,ILB,79,2020
+58,Jeremiah Gemmel,N Carolina,JR,LB,78,2020
+58,Kyle Harmon,SJSU,JR,LB,78,2020
+58,Chris Bergin,N'western,SR,LB,78,2020
+58,Jaylin Thomas,Ball State,SR,ILB,78,2020
+58,Jon Rhattigan,Army,SR,LB,78,2020
+58,Arik Smith,Army,JR,LB,78,2020
+64,Delano Robinson,SMU,SR,LB,77,2020
+64,Austin Hawley,La-Monroe,SR,S,77,2020
+64,Kaiden Smith,App St,SR,DB,77,2020
+64,Jarell White,Cincinnati,SR,LB,77,2020
+64,Jake Hummel,Iowa State,SR,LB,77,2020
+64,Yusuf Corker,Kentucky,JR,DB,77,2020
+1,Evan Weaver,California,SR,ILB,182,2019
+2,Dele Harding,Illinois,SR,LB,153,2019
+3,Treshaun Hayward,W Mich,JR,LB,142,2019
+4,Jahad Woods,Wash St,JR,LB,141,2019
+5,John Lako,Akron,SR,LB,138,2019
+6,Javahn Fergurson,NMSU,SR,LB,133,2019
+7,Alijah Halliburton,Wyoming,SR,SS,130,2019
+8,Kobie Beltram,EMU,SR,LB,128,2019
+9,Carlton Martial,Troy,SO,LB,126,2019
+10,Garret Wallow,TCU,JR,LB,125,2019
+10,Bubba Arslanian,Akron,SO,LB,125,2019
+12,Tavante Beckett,Marshall,JR,LB,121,2019
+13,Darreon Jackson,Ark St,SR,DB,120,2019
+13,Rayshard Ashby,Va Tech,JR,LB,120,2019
+15,Kuony Deng,California,JR,ILB,119,2019
+16,Bryan London II,Texas St,SR,ILB,118,2019
+17,Jacob White,Ball State,SR,ILB,117,2019
+17,Jamal Hicks,CSU,SR,S,117,2019
+19,Chazz Surratt,N Carolina,JR,LB,115,2019
+20,Nate Landman,Colorado,JR,ILB,114,2019
+20,Ben Holt,Purdue,SR,LB,114,2019
+20,Cortez Sisco Jr.,La-Monroe,SR,LB,114,2019
+20,Omari Cobb,Marshall,SR,LB,114,2019
+24,Jacob Phillips,LSU,JR,LB,113,2019
+25,Nate Evans,UCF,SR,LB,112,2019
+25,Justin Rice,Fresno St,JR,LB,112,2019
+25,Cole Christiansen,Army,SR,LB,112,2019
+25,Terrel Bernard,Baylor,SO,LB,112,2019
+29,Lawrence Garner,ODU,JR,LB,111,2019
+30,Trajan Stephens-McQueen,Georgia St,JR,ILB,110,2019
+30,Lakiem Williams,Syracuse,SR,LB,110,2019
+32,Rashad Smith,FAU,SR,LB,109,2019
+32,Jordan Fehr,App St,SR,ILB,109,2019
+32,Micah Parsons,Penn State,SO,LB,109,2019
+32,Kyle Bailey,Western Ky,JR,LB,109,2019
+36,Max Richardson,BC,JR,LB,108,2019
+36,Jordyn Brooks,Texas Tech,SR,LB,108,2019
+36,Vince Calhoun,EMU,SR,DB,108,2019
+36,Zane Zandier,Virginia,JR,ILB,108,2019
+40,Nick Bolton,Missouri,SO,LB,107,2019
+40,Shaquille Quarterman,Miami (Fl),SR,LB,107,2019
+42,Darrick Forrest,Cincinnati,JR,S,106,2019
+42,Cooper Edmiston,Tulsa,SR,LB,106,2019
+42,Jacques Boudreaux,La-Lafytte,SR,LB,106,2019
+45,Logan Wilson,Wyoming,SR,LB,105,2019
+45,Koby Quansah,Duke,SR,LB,105,2019
+47,Kristopher Moll,UAB,JR,LB,104,2019
+47,John Houston Jr.,USC,SR,ILB,104,2019
+47,Mandela Lawrence-Burke,Kent State,JR,LB,104,2019
+47,Troy Lefeged Jr.,Utah State,JR,S,104,2019
+47,Akeem Davis-Gaither,App St,SR,OLB,104,2019
+47,Tyshon Fogg,Rutgers,JR,LB,104,2019
+53,Malcolm Rodriguez,Okla St,JR,S,103,2019
+53,Marquavis Gibbs,Charlotte,SR,DB,103,2019
+53,Kholbe Coleman,BGSU,JR,LB,103,2019
+56,Kenneth Murray,Oklahoma,JR,LB,102,2019
+56,Isaiah Simmons,Clemson,JR,LB,102,2019
+56,Blaze Alldredge,Rice,JR,LB,102,2019
+56,Ethan Aguayo,SJSU,SR,LB,102,2019
+56,Javon Hagan,Ohio,SR,S,102,2019
+61,Hamsah Nasirildeen,FSU,JR,DB,101,2019
+61,Akileis Leroy,FAU,JR,LB,101,2019
+61,De’Jon Harris,Arkansas,SR,LB,101,2019
+61,Khaleke Hudson,Michigan,SR,LB,101,2019
+65,Amen Ogbongbemiga,Okla St,JR,LB,100,2019
+65,Bryan Wright,Cincinnati,SR,LB,100,2019
+65,Diego Fagot,Navy,SO,LB,100,2019
+1,Ben Burr-Kirven,Washington,SR,LB,176,2018
+2,Evan Weaver,California,JR,ILB,158,2018
+3,Malik Fountain,CMU,SR,LB,155,2018
+3,Kenneth Murray,Oklahoma,SO,LB,155,2018
+5,Jordan Kunaszyk,California,SR,ILB,148,2018
+6,Joe Dineen Jr.,Kansas,SR,LB,147,2018
+6,Bryton Barr,U Mass,SR,LB,147,2018
+8,Khalil Hodge,Buffalo,SR,LB,143,2018
+9,Curtis Bolton,Oklahoma,SR,LB,139,2018
+10,David Woodward,Utah State,SO,LB,134,2018
+11,Sage Lewis,FIU,JR,LB,132,2018
+11,Jeff Allison,Fresno St,JR,LB,132,2018
+11,Javahn Fergurson,NMSU,JR,LB,132,2018
+14,Brandon Harris,BGSU,SR,LB,131,2018
+14,Josh Watson,CSU,SR,LB,131,2018
+16,Antonio Jones-Davis,N Illinois,JR,LB,130,2018
+17,Austin Robinson,Houston,SR,LB,128,2018
+18,Blake Gallagher,N'western,SO,LB,127,2018
+18,Kyahva Tezino,SDSU,JR,LB,127,2018
+18,Kyle Rachwal,EMU,SR,LB,127,2018
+21,John Lako,Akron,JR,LB,126,2018
+21,A.J. Hotchkins,UTEP,SR,LB,126,2018
+23,Adarius Pickett,UCLA,SR,DB,123,2018
+23,Te'von Coney,Notre Dame,SR,LB,123,2018
+23,Devin White,LSU,JR,LB,123,2018
+26,Ron LaForce,NMSU,SR,DB,122,2018
+27,E.J. Ejiya,N Texas,SR,LB,121,2018
+28,Leon McQuaker,NMSU,SR,LB,120,2018
+29,Colin Schooler,Arizona,SO,LB,119,2018
+29,Jordan Griffin,Vanderbilt,SR,LB,119,2018
+31,Sione Takitaki,BYU,SR,LB,118,2018
+31,De’Jon Harris,Arkansas,JR,LB,118,2018
+33,Paddy Fisher,N'western,SO,LB,117,2018
+34,Cody Barton,Utah,SR,LB,116,2018
+34,Ben Holt,Western Ky,JR,LB,116,2018
+34,Deshaun Davis,Auburn,SR,LB,116,2018
+37,Markus Bailey,Purdue,JR,LB,115,2018
+37,Troy Dye,Oregon,JR,ILB,115,2018
+39,Tre Watson,Maryland,SR,LB,114,2018
+39,Chase Hansen,Utah,SR,LB,114,2018
+41,T.J. Edwards,Wisconsin,SR,ILB,113,2018
+41,Roman Brown,Houston,SR,LB,113,2018
+41,Cooper Edmiston,Tulsa,JR,LB,113,2018
+44,Cale Garrett,Missouri,JR,LB,112,2018
+44,Mohamed Barry,Nebraska,JR,ILB,112,2018
+44,Mohamed Sanogo,Miss,SO,LB,112,2018
+47,David Long Jr.,WVU,JR,LB,111,2018
+47,Khalid McGee,S Florida,SR,LB,111,2018
+47,Josiah Tauaefa,UTSA,JR,LB,111,2018
+50,Richie Grant,UCF,SO,DB,109,2018
+50,Tyler Coyle,UConn,SO,DB,109,2018
+50,Dalton Baker,UNLV,SR,DB,109,2018
+50,Bryan London II,Texas St,JR,ILB,109,2018
+50,Trevor Morris,Rutgers,SR,LB,109,2018
+55,Nikolas Daniels,Texas St,JR,ILB,108,2018
+56,Reed Blankenship,MTSU,SO,S,107,2018
+56,Ryan Guthrie,Syracuse,SR,LB,107,2018
+56,Taylor Heflin,Navy,SR,LB,107,2018
+59,Jerry McBride III,BGSU,JR,DB,106,2018
+59,Kyle Pugh,N Illinois,JR,LB,106,2018
+59,T.J. Brunson,S Carolina,JR,LB,106,2018
+59,Ethan Aguayo,SJSU,JR,LB,106,2018
+63,Nate Landman,Colorado,SO,ILB,105,2018
+63,Justin Strnad,Wk Forest,JR,LB,105,2018
+63,Cole Holcomb,N Carolina,SR,LB,105,2018
+63,Rayshard Ashby,Va Tech,SO,LB,105,2018
+63,Akeem Davis-Gaither,App St,JR,LB,105,2018
+63,Chase Hancock,Marshall,SR,LB,105,2018
+69,Blake Cashman,Minnesota,SR,LB,104,2018
+69,Germaine Pratt,NC State,SR,LB,104,2018
+69,Jeremy Fejedelem,Air Force,JR,DB,104,2018
+72,Parker Baldwin,SDSU,SR,S,103,2018
+72,Logan Wilson,Wyoming,JR,LB,103,2018
+74,Jalen Moore,Oregon St,JR,S,102,2018
+74,Joe Bachie,Mich St,JR,LB,102,2018
+76,Brad Koenig,Miami (Oh),SR,LB,101,2018
+76,Tre Thomas,CSU,SR,LB,101,2018

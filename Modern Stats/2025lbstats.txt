@@ -1,0 +1,92 @@
+2025
+1	Owen Long	CSU	SO	LB	12	58	93	151	12.58
+2	Caden Fordham	NC State	SR	LB	13	61	82	143	11.00
+3	Red Murdock	Buffalo	SR	LB	12	53	89	142	11.83
+4	Quinn Urwiler	N Illinois	SR	LB	12	71	70	141	11.75
+5	Baron Hopson	KSU	SR	LB	14	66	72	138	9.86
+6	Bryce Boettcher	Oregon	SR	ILB	15	56	80	136	9.07
+7	Chris Jones	USM	SO	LB	13	51	84	135	10.38
+8	Micah Davey	UTEP	SR	LB	12	64	67	131	10.92
+9	Kaleb Elarms-Orr	TCU	SR	LB	13	60	70	130	10.00
+10	Jaxton Eck	New Mexico	JR	LB	13	65	64	129	9.92
+10	Ray Coney	Tulsa	JR	LB	12	40	89	129	10.75
+12	Jacob Rodriguez	Texas Tech	SR	LB	14	63	65	128	9.14
+13	Bryun Parham	UConn	SR	LB	13	63	63	126	9.69
+14	Jaden Dugger	La-Lafytte	SR	LB	13	64	61	125	9.62
+15	Jordan Stringer	Troy	SR	LB	14	45	78	123	8.79
+16	Gideon ESPN Lampron	BGSU	JR	LB	12	65	54	119	9.92
+17	Eli Blakey	Miami (Oh)	SR	DB	14	62	56	118	8.43
+17	John Miller	Utah State	SR	ILB	13	39	79	118	9.08
+19	Jordan Kwiatkowski	CMU	SR	LB	13	52	65	117	9.00
+20	Oumar Diomande	UConn	SO	LB	13	65	51	116	8.92
+21	Robert Fitzgerald	N'western	JR	DB	13	70	45	115	8.85
+22	Brevin Hamblin	Utah State	JR	S	13	57	57	114	8.77
+22	Devin Lafayette	Troy	SR	SPR	14	53	61	114	8.14
+24	Andon Thomas	Army	SR	ILB	13	66	47	113	8.69
+24	Ethan Wesloski	N Texas	JR	LB	14	59	54	113	8.07
+24	Sam Brumfield	Memphis	SR	LB	13	47	66	113	8.69
+27	Marsel McDuffie	UNLV	SR	ILB	14	55	57	112	8.00
+28	Gavin Moul	Delaware	JR	LB	13	50	61	111	8.54
+29	Owen Chambliss	SDSU	SO	LB	13	62	48	110	8.46
+29	Tahj Ra-El	Purdue	SR	DB	12	59	51	110	9.17
+29	Mani Powell	Purdue	SR	LB	12	53	57	110	9.17
+32	Jackson Kuwatch	Miami (Oh)	SR	LB	14	47	62	109	7.79
+33	Jordan Pollard	SJSU	SR	LB	12	58	50	108	9.00
+33	Blake Fletcher	Air Force	JR	LB	12	39	69	108	9.00
+35	Ty Benefield	Boise St	JR	S	14	70	37	107	7.64
+35	Johnny Chaney Jr.	FIU	SR	LB	13	68	39	107	8.23
+35	Treylin Payne	Texas St	SR	LB	13	49	58	107	8.23
+35	JonJon Vaughns	UCLA	SR	LB	12	46	61	107	8.92
+39	Jadon Pearson	Fresno St	SR	LB	13	51	55	106	8.15
+39	Sammy Brown	Clemson	SO	LB	13	51	55	106	8.15
+39	Andrew Awe	Rice	SR	LB	13	50	56	106	8.15
+39	Jaylen Wester	Western Ky	SR	LB	13	50	56	106	8.15
+39	Matt Rose	Stanford	JR	ILB	12	49	57	106	8.83
+39	Nick Andersen	Wk Forest	SR	DB	13	47	59	106	8.15
+39	Trent Hendrick	James Mad	SR	LB	14	39	67	106	7.57
+46	Keaton Thomas	Baylor	JR	LB	12	59	46	105	8.75
+46	Jhalyn Shuler	S Florida	SR	LB	13	49	56	105	8.08
+46	Jake Golday	Cincinnati	SR	LB	12	39	66	105	8.75
+46	Michael Montgomery	USM	JR	LB	12	30	75	105	8.75
+50	Ahmaad Moses	SMU	SR	S	13	54	50	104	8.00
+51	Amare Campbell	Penn State	JR	LB	13	64	39	103	7.92
+51	Mac Harris	S Florida	SR	OLB	13	54	49	103	7.92
+51	Maverick Baranowski	Minnesota	JR	LB	13	52	51	103	7.92
+51	Tyler Martin	U Mass	JR	LB	12	36	67	103	8.58
+55	Daniel Wingate	Maryland	JR	LB	12	62	40	102	8.50
+55	Rolijah Hardy	Indiana	SO	LB	16	48	54	102	6.38
+55	Bryce Llewellyn	EMU	SR	DB	12	41	61	102	8.50
+58	Jordan Crook	Ariz St	SR	LB	13	52	49	101	7.77
+58	Colton Phares	App St	SO	LB	13	43	58	101	7.77
+58	Rasheem Biles	Pittsburgh	JR	LB	10	39	62	101	10.10
+61	Mac Uihlein	N'western	SR	LB	13	59	41	100	7.69
+61	Parker Hughes	MTSU	SR	ILB	12	50	50	100	8.33
+61	Trey Fields	N Texas	SR	LB	13	47	53	100	7.69
+61	Cade Uluave	California	JR	ILB	12	42	58	100	8.33
+65	Keyshaun Elliott	Ariz St	SR	LB	12	54	44	98	8.17
+65	TJ Dottery	Miss	JR	LB	15	48	50	98	6.53
+67	Dalton Johnson	Arizona	SR	DB	12	48	49	97	8.08
+67	Aiden Fisher	Indiana	SR	LB	15	46	51	97	6.47
+67	MarcAnthony Parker	Navy	SO	LB	13	45	52	97	7.46
+70	Jamel Johnson	TCU	JR	S	13	60	36	96	7.38
+70	Dillon Thieneman	Oregon	JR	DB	15	44	52	96	6.40
+70	Josiah Robinson	Georgia St	JR	ILB	12	42	54	96	8.00
+70	Charles Correa	Purdue	SO	LB	12	39	57	96	8.00
+70	Leon Hart Jr.	FAU	JR	LB	11	33	63	96	8.73
+75	Terrence Williams	La-Lafytte	SR	LB	13	51	44	95	7.31
+75	TJ Quinn	Louisville	SR	LB	13	45	50	95	7.31
+77	KP Price	BC	JR	DB	12	65	29	94	7.83
+77	Shad Banks, Jr.	UTSA	SR	ILB	13	56	38	94	7.23
+77	K'Von Sherman	Toledo	JR	LB	13	54	40	94	7.23
+77	Mason Woods	Kent State	SR	LB	12	35	59	94	7.83
+81	Alex McLaughlin	Washington	JR	S	13	61	32	93	7.15
+81	Naeten Mitchell	NMSU	SO	S	12	58	35	93	7.75
+81	Taye Brown	Arizona	JR	LB	13	38	55	93	7.15
+84	Lewis Carter	UCF	JR	LB	11	52	40	92	8.36
+84	Jacob Fields	La Tech	JR	DB	12	50	42	92	7.67
+84	Corey Myrick	USM	SO	SAF	13	47	45	92	7.08
+84	Davhon Keys	LSU	SO	LB	13	37	55	92	7.08
+84	Jayden Wilson	UTEP	JR	LB	12	35	57	92	7.67
+89	KT Seay	Delaware	JR	S	13	62	29	91	7.00
+89	Caleb Weaver	Duke	SR	S	14	43	48	91	6.50
+90	Sonny Styles	Ohio St	JR	LB	14	46	36	82	5.86

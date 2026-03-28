@@ -1,0 +1,413 @@
+2024
+1	Ashton Jeanty	Boise St	JR	RB	14	374	2601	6.95	29	26.71	185.79
+2	Omarion Hampton	N Carolina	JR	RB	12	281	1660	5.91	15	23.42	138.33
+3	Tahj Brooks	Texas Tech	SR	RB	11	286	1505	5.26	17	26.00	136.82
+4	Cam Skattebo	Ariz St	SR	RB	13	293	1711	5.84	21	22.54	131.62
+5	RJ Harvey	UCF	SR	RB	12	232	1577	6.80	22	19.33	131.42
+6	Kaleb Johnson	Iowa	JR	RB	12	240	1537	6.40	21	20.00	128.08
+7	Bryson Daily	Army	SR	QB	13	310	1659	5.35	32	23.85	127.62
+8	Tre Stewart	J'ville St	SR	RB	14	278	1638	5.89	25	19.86	117.00
+9	Kyle Monangai	Rutgers	SR	RB	11	256	1279	5.00	13	23.27	116.27
+10	Dylan Sampson	Tennessee	JR	RB	13	258	1491	5.78	22	19.85	114.69
+11	Quinton Cooley	Liberty	SR	RB	11	205	1254	6.12	13	18.64	114.00
+12	Ahmad Hardy	La-Monroe	FR	RB	12	237	1351	5.70	13	19.75	112.58
+13	DJ Giddens	Kansas St	JR	RB	12	205	1343	6.55	7	17.08	111.92
+14	Marquez Cooper	SDSU	SR	RB	12	292	1274	4.36	12	24.33	106.17
+15	Devin Neal	Kansas	SR	RB	12	219	1266	5.78	16	18.25	105.50
+16	Bhayshul Tuten	Va Tech	SR	RB	11	183	1159	6.33	15	16.64	105.36
+17	Mario Anderson Jr.	Memphis	SR	RB	13	236	1362	5.77	18	18.15	104.77
+18	Blake Horvath	Navy	JR	QB	12	175	1246	7.12	17	14.58	103.83
+19	Jarquez Hunter	Auburn	SR	RB	12	187	1201	6.42	8	15.58	100.08
+20	Makhi Hughes	Tulane	SO	RB	14	265	1401	5.29	15	18.93	100.07
+21	Devon Dampier	New Mexico	SO	QB	12	155	1166	7.52	19	12.92	97.17
+22	Corey Kiner	Cincinnati	SR	RB	12	204	1153	5.65	4	17.00	96.08
+23	Tyler Huff	J'ville St	SR	QB	14	227	1344	5.92	15	16.21	96.00
+24	Brashard Smith	SMU	SR	RB	14	235	1332	5.67	14	16.79	95.14
+25	Woody Marks	USC	SR	RB	12	198	1133	5.72	9	16.50	94.42
+26	Anthony Tyus III	Ohio	SR	RB	13	237	1215	5.13	9	18.23	93.46
+2023
+1	Cody Schrader	Missouri	SR	RB	13	276	1627	5.89	14	21.23	125.15
+2	Ollie Gordon II	Okla St	SO	RB	14	285	1732	6.08	21	20.36	123.71
+3	Kimani Vidal	Troy	JR	RB	14	297	1661	5.59	14	21.21	118.64
+4	Tahj Brooks	Texas Tech	SR	RB	13	290	1538	5.30	10	22.31	118.31
+5	Omarion Hampton	N Carolina	SO	RB	13	253	1504	5.94	15	19.46	115.69
+6	Marcus Carroll	Georgia St	SR	RB	12	274	1350	4.93	13	22.83	112.50
+7	Ashton Jeanty	Boise St	SO	RB	12	220	1347	6.12	14	18.33	112.25
+8	Audric Estimé	Notre Dame	JR	RB	12	210	1341	6.39	18	17.50	111.75
+9	Jaydn Ott	California	SO	RB	12	246	1315	5.35	12	20.50	109.58
+10	RJ Harvey	UCF	SR	RB	13	226	1416	6.27	16	17.38	108.92
+11	Peny Boone	Toledo	JR	RB	13	194	1400	7.22	15	14.92	107.69
+12	Jonathon Brooks	Texas	SO	RB	11	187	1139	6.09	10	17.00	103.55
+13	Ismail Mahdi	Texas St	SO	RB	13	223	1331	5.97	10	17.15	102.38
+14	Emani Bailey	TCU	JR	RB	12	223	1209	5.42	8	18.58	100.75
+15	Quinton Cooley	Liberty	JR	RB	14	221	1401	6.34	16	15.79	100.07
+16	Antario Brown	N Illinois	JR	RB	13	212	1296	6.11	10	16.31	99.69
+17	Kairee Robinson	SJSU	SR	RB	12	170	1194	7.02	18	14.17	99.50
+18	Jacory Croskey-Merritt	New Mexico	SR	RB	12	189	1190	6.30	17	15.75	99.17
+19	Damien Martinez	Oregon St	SO	RB	12	194	1185	6.11	9	16.17	98.75
+20	Devin Neal	Kansas	JR	RB	13	203	1280	6.31	16	15.62	98.46
+21	Makhi Hughes	Tulane	FR	RB	14	258	1378	5.34	7	18.43	98.43
+2022
+1	DeWayne McBride	UAB	JR	RB	11	233	1713	7.35	19	21.18	155.73
+2	Mohamed Ibrahim	Minnesota	SR	RB	12	320	1665	5.20	20	26.67	138.75
+3	Chase Brown	Illinois	JR	RB	12	328	1643	5.01	10	27.33	136.92
+4	Zach Charbonnet	UCLA	SR	RB	10	195	1359	6.97	14	19.50	135.90
+5	Brad Roberts	Air Force	SR	RB	13	345	1728	5.01	17	26.54	132.92
+6	Bijan Robinson	Texas	JR	RB	12	258	1580	6.12	18	21.50	131.67
+7	Israel Abanikanda	Pittsburgh	JR	RB	11	239	1431	5.99	20	21.73	130.09
+8	Carson Steele	Ball State	SO	RB	12	289	1556	5.38	14	24.08	129.67
+9	Blake Corum	Michigan	JR	RB	12	247	1463	5.92	18	20.58	121.92
+10	Keaton Mitchell	ECU	SO	RB	12	201	1452	7.22	14	16.75	121.00
+11	Quinshon Judkins	Miss	FR	RB	13	274	1565	5.71	16	21.08	120.38
+12	Khalan Laborn	Marshall	SR	RB	13	302	1513	5.01	16	23.23	116.38
+13	Eric Gray	Oklahoma	SR	RB	12	213	1366	6.41	11	17.75	113.83
+14	Tyjae Spears	Tulane	JR	RB	14	229	1581	6.90	19	16.36	112.93
+15	Deuce Vaughn	Kansas St	JR	RB	14	293	1558	5.32	9	20.93	111.29
+16	Raheim Sanders	Arkansas	SO	RB	13	222	1443	6.50	10	17.08	111.00
+17	Marquez Cooper	Kent State	JR	RB	12	285	1331	4.67	13	23.75	110.92
+18	Devon Achane	Texas A&M	JR	RB	10	196	1102	5.62	8	19.60	110.20
+19	Frank Gore, Jr.	USM	SO	RB	13	228	1382	6.06	9	17.54	106.31
+20	Braelon Allen	Wisconsin	SO	RB	12	230	1242	5.40	11	19.17	103.50
+21	Kendre Miller	TCU	JR	RB	14	224	1399	6.25	17	16.00	99.93
+22	Xazavian Valladay	Ariz St	SR	RB	12	215	1192	5.54	16	17.92	99.33
+23	Brian Battie	S Florida	SO	RB	12	176	1186	6.74	8	14.67	98.83
+24	Jordan Mims	Fresno St	SR	RB	14	261	1370	5.25	18	18.64	97.86
+25	Samson Evans	EMU	SR	RB	12	249	1166	4.68	15	20.75	97.17
+26	Aidan Robbins	UNLV	JR	RB	11	209	1011	4.84	9	19.00	91.91
+27	Percy Agyei-Obese	James Mad	SR	RB	10	159	908	5.71	8	15.90	90.80
+28	Donovan Edwards	Michigan	SO	RB	11	140	991	7.08	7	12.73	90.09
+29	Sieh Bangura	Ohio	FR	RB	12	222	1078	4.86	13	18.50	89.83
+30	George Holani	Boise St	JR	RB	13	221	1157	5.24	10	17.00	89.00
+31	La'Damian Webb	USA	JR	RB	12	210	1065	5.07	13	17.50	88.75
+32	Sean Tucker	Syracuse	SO	RB	12	206	1060	5.15	11	17.17	88.33
+33	Ray Davis	Vanderbilt	SR	RB	12	232	1042	4.49	5	19.33	86.83
+34	Titus Swen	Wyoming	JR	RB	12	207	1039	5.02	8	17.25	86.58
+35	Calvin Tyler Jr.	Utah State	SR	RB	13	253	1122	4.43	7	19.46	86.31
+36	Sean Tyler	W Mich	JR	RB	12	209	1027	4.91	7	17.42	85.58
+37	Will Shipley	Clemson	SO	RB	14	210	1182	5.63	15	15.00	84.43
+38	Devin Neal	Kansas	SO	RB	13	180	1090	6.06	9	13.85	83.85
+39	Blake Watson	ODU	JR	RB	11	159	921	5.79	5	14.45	83.73
+40	Larry McCammon III	FAU	JR	RB	12	193	998	5.17	7	16.08	83.17
+41	Jalen White	Ga South	JR	RB	11	162	914	5.64	10	14.73	83.09
+42	Harrison Waylee	N Illinois	SO	RB	11	165	899	5.45	5	15.00	81.73
+43	Nicholas Singleton	Penn State	FR	RB	13	156	1061	6.80	12	12.00	81.62
+44	Bucky Irving	Oregon	SO	RB	13	156	1058	6.78	5	12.00	81.38
+45	Kimani Vidal	Troy	SO	RB	14	231	1132	4.90	10	16.50	80.86
+46	Tank Bigsby	Auburn	JR	RB	12	179	970	5.42	10	14.92	80.83
+47	Zach Evans	Miss	JR	RB	12	144	936	6.50	9	12.00	78.00
+48	Jahmyr Gibbs	Alabama	JR	RB	12	151	926	6.13	7	12.58	77.17
+2021
+1	Lew Nichols III	CMU	FR	RB	13	341	1848	5.42	16	26.23	142.15
+2	Kenneth Walker III	Mich St	JR	RB	12	263	1636	6.22	18	21.92	136.33
+3	Tyler Badie	Missouri	SR	RB	12	268	1604	5.99	14	22.33	133.67
+4	Sean Tucker	Syracuse	FR	RB	12	246	1496	6.08	12	20.50	124.67
+5	Tyler Allgeier	BYU	SO	RB	13	276	1606	5.82	23	21.23	123.54
+6	Breece Hall	Iowa State	JR	RB	12	253	1472	5.82	20	21.08	122.67
+7	Abram Smith	Baylor	SR	RB	14	257	1601	6.23	12	18.36	114.36
+8	Bijan Robinson	Texas	SO	RB	10	195	1127	5.78	11	19.50	112.70
+9	Deuce Vaughn	Kansas St	SO	RB	13	235	1404	5.97	18	18.08	108.00
+10	Rasheen Ali	Marshall	FR	RB	13	250	1401	5.60	23	19.23	107.77
+11	Bryant Koback	Toledo	JR	RB	13	208	1400	6.73	15	16.00	107.69
+12	Chris Rodriguez Jr.	Kentucky	JR	RB	13	225	1379	6.13	9	17.31	106.08
+13	Braelon Allen	Wisconsin	FR	RB	12	186	1268	6.82	12	15.50	105.67
+14	Sincere McCormick	UTSA	JR	RB	14	299	1479	4.95	15	21.36	105.64
+15	DeWayne McBride	UAB	SO	RB	13	204	1371	6.72	13	15.69	105.46
+16	Charles Williams	UNLV	SR	RB	12	254	1261	4.96	15	21.17	105.08
+17	Brad Roberts	Air Force	JR	RB	13	297	1357	4.57	13	22.85	104.38
+18	Mataeo Durant	Duke	SR	RB	12	255	1244	4.88	9	21.25	103.67
+19	B.J. Baylor	Oregon St	JR	RB	13	227	1336	5.89	13	17.46	102.77
+20	Blake Watson	ODU	SO	RB	11	215	1121	5.21	8	19.55	101.91
+21	Jerome Ford	Cincinnati	JR	RB	13	215	1320	6.14	19	16.54	101.54
+22	DeAndre Torrey	N Texas	SR	RB	12	248	1215	4.90	13	20.67	101.25
+23	Chase Brown	Illinois	SO	RB	10	170	1005	5.91	5	17.00	100.50
+24	Jay Ducker	N Illinois	FR	RB	12	218	1184	5.43	3	18.17	98.67
+25	TreVeyon Henderson	Ohio State	FR	RB	13	184	1255	6.82	15	14.15	96.54
+26	Kennedy Brooks	Oklahoma	JR	RB	13	198	1253	6.33	13	15.23	96.38
+27	Brian Robinson Jr.	Alabama	SR	RB	14	271	1343	4.96	14	19.36	95.93
+28	Ellis Merriweather	U Mass	JR	RB	12	218	1138	5.22	5	18.17	94.83
+29	Hassan Haskins	Michigan	SR	RB	14	270	1327	4.91	20	19.29	94.79
+30	Zach Charbonnet	UCLA	JR	RB	12	203	1137	5.60	13	16.92	94.75
+31	Shermari Jones	Coast Car	SR	RB	11	159	1040	6.54	13	14.45	94.55
+32	Keaton Mitchell	ECU	FR	RB	12	174	1132	6.51	9	14.50	94.33
+33	Rachaad White	Ariz St	SR	RB	11	182	1006	5.53	15	16.55	91.45
+34	Keaontay Ingram	USC	SR	TB	10	156	911	5.84	5	15.60	91.10
+35	Travis Dye	Oregon	JR	RB	14	211	1271	6.02	16	15.07	90.79
+36	Leddie Brown	WVU	SR	RB	12	223	1065	4.78	13	18.58	88.75
+37	Tyler Goodson	Iowa	JR	RB	13	256	1151	4.50	6	19.69	88.54
+38	Sean Tyler	W Mich	SO	RB	13	178	1150	6.46	9	13.69	88.46
+39	Dylan McDuffie	Buffalo	JR	RB	12	206	1049	5.09	11	17.17	87.42
+40	Pat Garwo III	BC	SO	RB	12	205	1045	5.10	7	17.08	87.08
+41	Jaylen Warren	Okla St	SR	RB	14	256	1216	4.75	11	18.29	86.86
+42	Marquez Cooper	Kent State	SO	RB	14	241	1205	5.00	11	17.21	86.07
+43	Tavion Thomas	Utah	SO	RB	13	204	1108	5.43	21	15.69	85.23
+44	Tank Bigsby	Auburn	SO	RB	13	223	1099	4.93	10	17.15	84.54
+45	Isaiah Spiller	Texas A&M	JR	RB	12	179	1011	5.65	6	14.92	84.25
+46	Evan Hull	N'western	SO	RB	12	196	1009	5.15	7	16.33	84.08
+47	Ty Chandler	N Carolina	SR	RB	13	182	1092	6.00	13	14.00	84.00
+48	Kyren Williams	Notre Dame	SO	RB	12	204	1005	4.93	14	17.00	83.75
+49	Tyrion Davis-Price	LSU	JR	RB	12	211	1003	4.75	6	17.58	83.58
+50	Xazavian Valladay	Wyoming	SR	RB	13	208	1070	5.14	6	16.00	82.31
+51	Nate Noel	App St	SO	RB	14	199	1126	5.66	4	14.21	80.43
+52	Malik Cunningham	Louisville	JR	QB	13	173	1034	5.98	20	13.31	79.54
+53	Blake Corum	Michigan	SO	RB	12	144	952	6.61	11	12.00	79.33
+54	Shamari Brooks	Tulsa	SR	RB	13	218	1029	4.72	7	16.77	79.15
+55	Greg Bell	SDSU	SR	RB	14	245	1091	4.45	9	17.50	77.93
+56	Camerun Peoples	App St	JR	RB	12	166	926	5.58	14	13.83	77.17
+57	Calvin Tyler Jr.	Utah State	JR	RB	12	196	911	4.65	7	16.33	75.92
+58	Devon Achane	Texas A&M	SO	RB	12	130	910	7.00	9	10.83	75.83
+59	D'vonte Price	FIU	SR	RB	9	129	682	5.29	6	14.33	75.78
+60	Johnny Ford	FAU	SO	RB	11	131	831	6.34	5	11.91	75.55
+61	Brandon Thomas	Memphis	FR	RB	9	116	669	5.77	8	12.89	74.33
+62	Jashaun Corbin	FSU	SO	RB	12	143	887	6.20	7	11.92	73.92
+63	Will Shipley	Clemson	FR	RB	10	149	739	4.96	11	14.90	73.90
+64	Max Borghi	Wash St	SR	RB	12	160	880	5.50	12	13.33	73.33
+65	Tucker Gregg	Georgia St	SR	RB	13	192	953	4.96	9	14.77	73.31
+66	Jabari Small	Tennessee	SO	RB	11	140	792	5.66	9	12.73	72.00
+67	Tyjae Spears	Tulane	FR	RB	12	129	863	6.69	9	10.75	71.92
+68	Ronnie Rivers	Fresno St	SR	RB	11	161	788	4.89	5	14.64	71.64
+69	La'Darius Jefferson	W Mich	JR	RB	12	185	836	4.52	10	15.42	69.67
+70	Sam Howell	N Carolina	JR	QB	12	182	829	4.55	11	15.17	69.08
+71	Tyler Nevens	SJSU	SR	RB	11	167	756	4.53	7	15.18	68.73
+72	Alton McCaskill	Houston	FR	RB	14	189	961	5.08	16	13.50	68.64
+73	Carson Steele	Ball State	FR	RB	13	192	891	4.64	6	14.77	68.54
+74	David Bailey	CSU	SR	RB	11	197	752	3.82	9	17.91	68.36
+75	Malik Willis	Liberty	JR	QB	13	197	878	4.46	13	15.15	67.54
+76	De'Montre Tuggle	Ohio	SR	RB	12	138	804	5.83	7	11.50	67.00
+77	Frank Gore, Jr.	USM	FR	RB	12	179	801	4.47	5	14.92	66.75
+78	Stephen Carr	Indiana	SR	RB	9	155	600	3.87	6	17.22	66.67
+79	Tre Siggers	SMU	SR	RB	11	147	727	4.95	9	13.36	66.09
+80	Jamyest Williams	Georgia St	SR	RB	13	128	859	6.71	9	9.85	66.08
+80	Logan Wright	Ga South	SR	RB	12	150	793	5.29	8	12.50	66.08
+82	Marcus Williams Jr.	La Tech	SR	RB	12	193	792	4.10	8	16.08	66.00
+83	Chris Smith	La-Lafytte	SO	RB	13	153	856	5.59	8	11.77	65.85
+84	Ronald Awatt	UTEP	JR	RB	13	158	854	5.41	6	12.15	65.69
+85	Dae Dae Hunter	Hawai'i	SO	RB	10	101	651	6.45	3	10.10	65.10
+86	Garrett Shrader	Syracuse	SO	QB	12	173	781	4.51	14	14.42	65.08
+87	Devin Neal	Kansas	FR	RB	11	158	707	4.47	8	14.36	64.27
+88	Jerrion Ealy	Miss	JR	RB	12	133	768	5.77	5	11.08	64.00
+89	Kimani Vidal	Troy	FR	RB	11	151	696	4.61	5	13.73	63.27
+90	George Holani	Boise St	SO	RB	9	119	569	4.78	1	13.22	63.22
+91	Zonovan Knight	NC State	SO	RB	12	140	753	5.38	3	11.67	62.75
+92	Xavier Williams	Kent State	SR	RB	13	125	812	6.50	3	9.62	62.46
+93	Kendre Miller	TCU	SO	RB	10	83	623	7.51	7	8.30	62.30
+94	Jahmyr Gibbs	Ga Tech	FR	RB	12	143	746	5.22	4	11.92	62.17
+2020
+1	Jaret Patterson	Buffalo	JR	RB	6	141	1072	7.60	19	23.50	178.67
+2	Mohamed Ibrahim	Minnesota	JR	RB	7	201	1076	5.35	15	28.71	153.71
+3	Jarek Broussard	Colorado	SO	TB	6	156	895	5.74	5	26.00	149.17
+4	Jermar Jefferson	Oregon St	JR	RB	6	133	858	6.45	7	22.17	143.00
+5	De'Montre Tuggle	Ohio	SR	RB	3	53	403	7.60	6	17.67	134.33
+6	Sincere McCormick	UTSA	SO	RB	11	249	1467	5.89	11	22.64	133.36
+7	Breece Hall	Iowa State	SO	RB	12	279	1572	5.63	21	23.25	131.00
+8	Jake Funk	Maryland	SR	RB	4	60	516	8.60	3	15.00	129.00
+9	Ty Jordan	Utah	FR	RB	5	83	597	7.19	6	16.60	119.40
+10	D'vonte Price	FIU	SR	RB	5	85	581	6.84	4	17.00	116.20
+11	Kevin Harris	S Carolina	SO	RB	10	185	1138	6.15	15	18.50	113.80
+12	Michael Carter	N Carolina	SR	RB	11	156	1245	7.98	9	14.18	113.18
+13	Najee Harris	Alabama	SR	RB	13	251	1466	5.84	26	19.31	112.77
+14	Demetric Felton	UCLA	SR	RB	6	132	668	5.06	5	22.00	111.33
+15	Spencer Brown	UAB	SR	RB	8	186	889	4.78	10	23.25	111.13
+16	Teon Dollard	Akron	JR	RB	6	112	666	5.95	6	18.67	111.00
+17	Xazavian Valladay	Wyoming	JR	RB	5	99	550	5.56	4	19.80	110.00
+18	Trey Sermon	Ohio State	SR	RB	8	116	870	7.50	4	14.50	108.75
+19	Khalil Herbert	Va Tech	SR	RB	11	154	1182	7.68	8	14.00	107.45
+20	Kevin Marks, Jr.	Buffalo	JR	RB	7	112	741	6.62	7	16.00	105.86
+21	Rachaad White	Ariz St	JR	RB	4	42	420	10.00	5	10.50	105.00
+22	La'Darius Jefferson	W Mich	JR	RB	6	112	624	5.57	5	18.67	104.00
+23	Javonte Williams	N Carolina	JR	RB	11	157	1140	7.26	19	14.27	103.64
+24	Isaiah Spiller	Texas A&M	SO	RB	10	188	1036	5.51	9	18.80	103.60
+25	Tyler Allgeier	BYU	SO	RB	11	150	1130	7.53	13	13.64	102.73
+26	Camerun Peoples	App St	SO	RB	11	168	1124	6.69	12	15.27	102.18
+27	Leddie Brown	WVU	JR	RB	10	199	1010	5.08	9	19.90	101.00
+28	Larry Rountree III	Missouri	SR	RB	10	209	972	4.65	14	20.90	97.20
+29	Tyler Goodson	Iowa	SO	RB	8	143	762	5.33	7	17.88	95.25
+30	Malik Willis	Liberty	JR	QB	10	141	944	6.70	14	14.10	94.40
+31	Kyren Williams	Notre Dame	SO	RB	12	211	1125	5.33	13	17.58	93.75
+32	Austin Jones	Stanford	SO	RB	6	126	550	4.37	9	21.00	91.67
+33	Ulysses Bentley IV	SMU	FR	RB	10	170	913	5.37	11	17.00	91.30
+34	Greg Bell	SDSU	SR	RB	7	113	637	5.64	6	16.14	91.00
+35	Brenden Knox	Marshall	JR	RB	10	185	887	4.79	9	18.50	88.70
+36	Elijah Mitchell	La-Lafytte	SR	RB	10	141	878	6.23	8	14.10	87.80
+37	Chris Rodriguez Jr.	Kentucky	SO	RB	9	119	785	6.60	11	13.22	87.22
+38	Bryant Koback	Toledo	JR	RB	6	123	522	4.24	4	20.50	87.00
+39	Eric Gray	Tennessee	SO	RB	9	157	772	4.92	4	17.44	85.78
+40	Destin Coates	Georgia St	JR	RB	9	166	769	4.63	7	18.44	85.44
+41	Lew Nichols III	CMU	FR	RB	6	78	508	6.51	4	13.00	84.67
+42	Deion Hankins	UTEP	FR	RB	7	121	592	4.89	9	17.29	84.57
+43	Ronnie Rivers	Fresno St	SR	RB	6	100	507	5.07	7	16.67	84.50
+44	Toa Taua	Nevada	JR	RB	8	114	675	5.92	4	14.25	84.38
+45	Tank Bigsby	Auburn	FR	RB	10	138	834	6.04	5	13.80	83.40
+46	Jerrion Ealy	Miss	SO	RB	9	147	745	5.07	9	16.33	82.78
+47	Charles Williams	UNLV	SR	RB	6	116	495	4.27	4	19.33	82.50
+48	Trey Smith	Wyoming	SR	RB	6	88	488	5.55	5	14.67	81.33
+48	Christian Beal-Smith	Wk Forest	JR	RB	9	142	732	5.15	5	15.78	81.33
+50	Deon McIntosh	Wash St	SR	RB	4	52	323	6.21	3	13.00	80.75
+51	Joshua Mack	Liberty	SR	RB	10	139	797	5.73	4	13.90	79.70
+52	Bobby Cole	New Mexico	JR	RB	7	97	548	5.65	6	13.86	78.29
+53	Bijan Robinson	Texas	FR	RB	9	86	703	8.17	4	9.56	78.11
+54	Rahjai Harris	ECU	FR	RB	8	128	624	4.88	4	16.00	78.00
+54	Kobe Lewis	CMU	JR	RB	6	105	468	4.46	6	17.50	78.00
+54	Gary Brightwell	Arizona	SR	RB	5	88	390	4.43	1	17.60	78.00
+57	Zamir White	Georgia	SO	RB	10	144	779	5.41	11	14.40	77.90
+58	Brittain Brown	UCLA	SR	RB	7	82	543	6.62	4	11.71	77.57
+59	Otis Anderson	UCF	SR	RB	9	125	687	5.50	4	13.89	76.33
+60	Travis Etienne	Clemson	SR	RB	12	168	914	5.44	14	14.00	76.17
+2019
+1	Chuba Hubbard	Okla St	SO	RB	13	328	2094	6.38	21	25.23	161.08
+2	Malcolm Perry	Navy	SR	QB	13	295	2017	6.84	21	22.69	155.15
+3	J.K. Dobbins	Ohio State	JR	RB	14	301	2003	6.65	21	21.50	143.07
+3	Jonathan Taylor	Wisconsin	JR	RB	14	320	2003	6.26	21	22.86	143.07
+5	Jaret Patterson	Buffalo	SO	RB	13	312	1799	5.77	19	24.00	138.38
+6	AJ Dillon	BC	JR	RB	13	318	1685	5.30	14	24.46	129.62
+7	Javian Hawkins	Louisville	FR	RB	13	264	1525	5.78	9	20.31	117.31
+8	John Rhys Plumlee	Miss	FR	QB	9	154	1023	6.64	12	17.11	113.67
+9	LeVante Bellamy	W Mich	SR	RB	13	266	1472	5.53	23	20.46	113.23
+10	Lynn Bowden Jr.	Kentucky	JR	WR	13	185	1468	7.94	13	14.23	112.92
+11	Tra Barnett	Georgia St	SR	RB	13	248	1453	5.86	12	19.08	111.77
+12	Zack Moss	Utah	SR	RB	13	235	1416	6.03	15	18.08	108.92
+13	Josh Johnson	La-Monroe	JR	RB	12	201	1298	6.46	11	16.75	108.17
+14	Travis Etienne	Clemson	JR	RB	15	207	1614	7.80	19	13.80	107.60
+15	Brenden Knox	Marshall	SO	RB	13	270	1387	5.14	11	20.77	106.69
+16	Caleb Huntley	Ball State	JR	RB	12	248	1275	5.14	12	20.67	106.25
+17	Darrynton Evans	App St	JR	RB	14	255	1484	5.82	18	18.21	106.00
+18	Xazavian Valladay	Wyoming	SO	RB	12	247	1265	5.12	6	20.58	105.42
+19	Charles Williams	UNLV	JR	RB	12	212	1257	5.93	11	17.67	104.75
+20	Kenneth Gainwell	Memphis	FR	RB	14	231	1459	6.32	13	16.50	104.21
+21	Cam Akers	FSU	JR	RB	11	231	1144	4.95	14	21.00	104.00
+22	Kylin Hill	Miss St	JR	RB	13	242	1350	5.58	10	18.62	103.85
+23	Bryant Koback	Toledo	SO	RB	12	195	1187	6.09	12	16.25	98.92
+24	Xavier Jones	SMU	SR	RB	13	244	1276	5.23	23	18.77	98.15
+25	Benny LeMay	Charlotte	SR	RB	11	193	1072	5.55	9	17.55	97.45
+26	Joshua Kelley	UCLA	SR	RB	11	229	1060	4.63	12	20.82	96.36
+27	Rakeem Boyd	Arkansas	JR	RB	12	184	1133	6.16	8	15.33	94.42
+28	Clyde Edwards-Helaire	LSU	JR	RB	15	215	1414	6.58	16	14.33	94.27
+29	Najee Harris	Alabama	JR	RB	13	209	1224	5.86	13	16.08	94.15
+30	Gaej Walker	Western Ky	JR	RB	13	241	1208	5.01	8	18.54	92.92
+31	Tre Harbison	N Illinois	JR	TB	11	230	1021	4.44	8	20.91	92.82
+32	Jalen Hurts	Oklahoma	SR	QB	14	233	1298	5.57	20	16.64	92.71
+33	Ahmari Davis	New Mexico	SR	RB	9	140	832	5.94	7	15.56	92.44
+34	Jason Huntley	NMSU	SR	RB	12	154	1090	7.08	9	12.83	90.83
+35	CJ Marable	Coast Car	JR	RB	12	204	1085	5.32	11	17.00	90.42
+36	Michael Warren II	Cincinnati	JR	RB	14	261	1265	4.85	14	18.64	90.36
+37	Eno Benjamin	Ariz St	JR	RB	12	253	1083	4.28	10	21.08	90.25
+38	Rodney Smith	Minnesota	SR	RB	13	228	1163	5.10	8	17.54	89.46
+39	Pooka Williams Jr.	Kansas	SO	RB	12	203	1061	5.23	3	16.92	88.42
+40	Asher O'Hara	MTSU	SO	QB	12	199	1058	5.32	9	16.58	88.17
+41	Tra Minter	USA	SR	RB	12	193	1057	5.48	5	16.08	88.08
+42	Shamari Brooks	Tulsa	JR	RB	12	227	1046	4.61	6	18.92	87.17
+43	CJ Verdell	Oregon	SO	RB	14	197	1220	6.19	8	14.07	87.14
+44	D'Andre Swift	Georgia	JR	RB	14	196	1218	6.21	7	14.00	87.00
+45	Ke'Shawn Vaughn	Vanderbilt	SR	RB	12	198	1028	5.19	9	16.50	85.67
+46	Tre Siggers	N Texas	SO	RB	10	152	853	5.61	6	15.20	85.30
+47	Jonathan Ward	CMU	SR	RB	13	183	1108	6.05	15	14.08	85.23
+48	Salvon Ahmed	Washington	JR	TB	12	188	1020	5.43	11	15.67	85.00
+49	Kevin Mensah	UConn	JR	RB	12	226	1013	4.48	9	18.83	84.42
+50	Elijah Mitchell	La-Lafytte	JR	RB	14	198	1147	5.79	16	14.14	81.93
+51	Sincere McCormick	UTSA	FR	RB	12	177	983	5.55	8	14.75	81.92
+52	Justin Henderson	La Tech	JR	RB	13	188	1062	5.65	15	14.46	81.69
+53	Kadin Remsberg	Air Force	JR	RB	13	181	1050	5.80	8	13.92	80.77
+54	Frankie Hickson	Liberty	SR	RB	13	187	1041	5.57	12	14.38	80.08
+55	Kevin Marks	Buffalo	SO	RB	13	227	1035	4.56	8	17.46	79.62
+56	Alex Fontenot	Colorado	SO	TB	11	185	874	4.72	5	16.82	79.45
+57	Re'Mahn Davis	Temple	FR	RB	12	193	936	4.85	8	16.08	78.00
+58	Kennedy Brooks	Oklahoma	SO	RB	13	155	1011	6.52	6	11.92	77.77
+59	Michael Carter	N Carolina	JR	RB	13	177	1003	5.67	3	13.62	77.15
+60	Kobe Lewis	CMU	SO	RB	14	182	1074	5.90	12	13.00	76.71
+61	Jermar Jefferson	Oregon St	SO	RB	9	142	685	4.82	8	15.78	76.11
+62	Elijah Collins	Mich St	FR	RB	13	222	988	4.45	5	17.08	76.00
+63	DK Billingsley	Troy	SO	RB	12	154	899	5.84	10	12.83	74.92
+63	Jordan Mason	Ga Tech	SO	RB	12	172	899	5.23	7	14.33	74.92
+63	Ronnie Rivers	Fresno St	JR	RB	12	177	899	5.08	13	14.75	74.92
+66	Breece Hall	Iowa State	FR	RB	12	186	897	4.82	9	15.50	74.75
+67	Marcel Murray	Ark St	SO	RB	11	170	820	4.82	6	15.45	74.55
+68	Timothy Jackson	Air Force	SO	FB	10	122	745	6.11	6	12.20	74.50
+69	Jamale Carothers	Navy	SO	FB	10	111	734	6.61	14	11.10	73.40
+70	Isaiah Spiller	Texas A&M	FR	RB	13	174	946	5.44	10	13.38	72.77
+71	Artavis Pierce	Oregon St	SR	RB	12	146	873	5.98	6	12.17	72.75
+72	George Holani	Boise St	FR	RB	14	192	1014	5.28	7	13.71	72.43
+73	O'Shaan Allison	Ohio	FR	RB	12	138	869	6.30	6	11.50	72.42
+74	Anthony Jones	FIU	SR	RB	12	187	867	4.64	9	15.58	72.25
+75	Javonte Williams	N Carolina	SO	RB	13	166	933	5.62	5	12.77	71.77
+76	Tony Jones Jr.	Notre Dame	SR	RB	12	144	857	5.95	6	12.00	71.42
+2018	
+1	Jonathan Taylor	Wisconsin	SO	RB	13	307	2194	7.15	16	23.62	168.77
+2	Darrell Henderson	Memphis	JR	RB	13	214	1909	8.92	22	16.46	146.85
+3	Trayveon Williams	Texas A&M	JR	RB	13	271	1760	6.49	18	20.85	135.38
+4	Nico Evans	Wyoming	SR	RB	10	203	1325	6.53	8	20.30	132.50
+5	Eno Benjamin	Ariz St	SO	RB	13	300	1642	5.47	16	23.08	126.31
+6	J.J. Taylor	Arizona	SO	RB	12	255	1434	5.62	6	21.25	119.50
+7	Mohamed Ibrahim	Minnesota	FR	RB	10	202	1160	5.74	9	20.20	116.00
+8	Jermar Jefferson	Oregon St	FR	RB	12	239	1380	5.77	12	19.92	115.00
+9	Joshua Kelley	UCLA	JR	RB	11	225	1243	5.52	12	20.45	113.00
+10	Alex Barnes	Kansas St	JR	RB	12	256	1355	5.29	12	21.33	112.92
+11	Devin Singletary	FAU	JR	RB	12	261	1348	5.16	22	21.75	112.33
+12	Benny Snell, Jr.	Kentucky	JR	RB	13	289	1449	5.01	16	22.23	111.46
+13	AJ Dillon	BC	SO	RB	10	227	1108	4.88	10	22.70	110.80
+14	Michael Warren II	Cincinnati	SO	RB	12	244	1329	5.45	19	20.33	110.75
+15	Travis Etienne	Clemson	SO	RB	15	204	1658	8.13	24	13.60	110.53
+16	Ryquell Armstead	Temple	SR	RB	10	210	1098	5.23	13	21.00	109.80
+17	Alexander Mattison	Boise St	JR	RB	13	302	1415	4.69	17	23.23	108.85
+18	Karan Higdon	Michigan	SR	RB	11	224	1178	5.26	10	20.36	107.09
+19	Myles Gaskin	Washington	SR	TB	12	259	1268	4.90	12	21.58	105.67
+20	Ke'Shawn Vaughn	Vanderbilt	JR	RB	12	157	1244	7.92	12	13.08	103.67
+21	Benny LeMay	Charlotte	JR	RB	12	232	1243	5.36	11	19.33	103.58
+22	Pooka Williams Jr.	Kansas	FR	RB	11	161	1125	6.99	7	14.64	102.27
+23	David Montgomery	Iowa State	JR	RB	12	257	1216	4.73	13	21.42	101.33
+24	A.J. Ouellette	Ohio	SR	RB	13	213	1306	6.13	12	16.38	100.46
+25	Miles Sanders	Penn State	JR	RB	13	220	1274	5.79	9	16.92	98.00
+26	David Pindell	UConn	SR	QB	12	212	1139	5.37	10	17.67	94.92
+27	Stevie Scott	Indiana	FR	RB	12	228	1137	4.99	10	19.00	94.75
+28	LeVante Bellamy	W Mich	JR	RB	13	205	1228	5.99	6	15.77	94.46
+29	Larry Rountree III	Missouri	SO	RB	13	225	1216	5.40	11	17.31	93.54
+30	Jordan Cronkrite	S Florida	JR	RB	12	184	1121	6.09	9	15.33	93.42
+30	Nick Fitzgerald	Miss St	SR	QB	12	221	1121	5.07	13	18.42	93.42
+32	Justice Hill	Okla St	JR	RB	10	158	930	5.89	9	15.80	93.00
+33	Darrynton Evans	App St	SO	RB	13	179	1187	6.63	7	13.77	91.31
+34	B.J. Smith	Troy	JR	RB	13	219	1186	5.42	13	16.85	91.23
+35	Greg McCrae	UCF	SO	RB	13	133	1182	8.89	10	10.23	90.92
+36	Reggie Corbin	Illinois	JR	RB	12	128	1085	8.48	9	10.67	90.42
+37	Devine Ozigbo	Nebraska	SR	RB	12	155	1082	6.98	12	12.92	90.17
+38	Lexington Thomas	UNLV	SR	RB	12	215	1067	4.96	12	17.92	88.92
+39	Kennedy Brooks	Oklahoma	FR	RB	12	119	1056	8.87	12	9.92	88.00
+40	Shamari Brooks	Tulsa	SO	RB	11	229	967	4.22	7	20.82	87.91
+41	Spencer Brown	UAB	SO	RB	14	272	1227	4.51	16	19.43	87.64
+42	Wesley Fields	Ga South	SR	RB	12	200	1050	5.25	9	16.67	87.50
+43	Darius Bradwell	Tulane	JR	RB	13	201	1134	5.64	11	15.46	87.23
+44	Kevin Mensah	UConn	SO	RB	12	225	1045	4.64	6	18.75	87.08
+45	Qadree Ollison	Pittsburgh	SR	RB	14	194	1213	6.25	11	13.86	86.64
+46	Anthony McFarland	Maryland	FR	RB	12	131	1034	7.89	4	10.92	86.17
+47	Frankie Hickson	Liberty	JR	RB	12	229	1032	4.51	11	19.08	86.00
+48	Kelvin Hopkins Jr.	Army	JR	QB	12	208	1017	4.89	17	17.33	84.75
+49	Scottie Phillips	Miss	JR	RB	11	153	928	6.07	12	13.91	84.36
+49	Trey Ragas	La-Lafytte	SO	RB	14	207	1181	5.71	8	14.79	84.36
+51	Travon McMillian	Colorado	SR	TB	12	201	1009	5.02	7	16.75	84.08
+52	Reggie Gallaspy, Jr.	NC State	SR	RB	13	228	1091	4.79	18	17.54	83.92
+53	Malcolm Perry	Navy	JR	QB	13	172	1087	6.32	7	13.23	83.62
+54	Cole Fagan	Air Force	JR	FB	12	185	997	5.39	7	15.42	83.08
+55	Darrin Hall	Pittsburgh	SR	RB	14	153	1144	7.48	10	10.93	81.71
+56	TaQuon Marshall	Ga Tech	SR	QB	12	216	971	4.50	11	18.00	80.92
+57	Darwin Thompson	Utah State	JR	RB	13	153	1044	6.82	14	11.77	80.31
+58	Patrick Taylor Jr.	Memphis	JR	RB	14	208	1122	5.39	16	14.86	80.14
+59	Nick Brossette	LSU	SR	RB	13	240	1039	4.33	14	18.46	79.92
+60	Jordan Ellis	Virginia	SR	TB	13	215	1026	4.77	10	16.54	78.92
+61	Isaiah Bowser	N'western	FR	RB	11	197	866	4.40	6	17.91	78.73
+62	CJ Verdell	Oregon	FR	RB	13	202	1018	5.04	10	15.54	78.31
+63	Cade Carney	Wk Forest	JR	RB	13	188	1005	5.35	8	14.46	77.31
+64	Corey Taylor II	Tulsa	SO	RB	11	178	846	4.75	11	16.18	76.91
+65	Travis Homer	Miami (Fl)	JR	RB	13	164	985	6.01	4	12.62	75.77
+66	Maleek Irons	Ohio	SR	RB	11	126	831	6.60	8	11.45	75.55
+67	J.K. Dobbins	Ohio State	SO	RB	14	230	1053	4.58	10	16.43	75.21
+68	DeAndre Torrey	N Texas	SO	RB	13	175	977	5.58	15	13.46	75.15
+69	D'Andre Swift	Georgia	SO	RB	14	163	1049	6.44	10	11.64	74.93
+70	Patrick Laird	California	SR	RB	13	223	961	4.31	5	17.15	73.92
+71	Bryce Love	Stanford	SR	RB	10	166	739	4.45	6	16.60	73.90
+72	Tre Harbison	N Illinois	SO	TB	14	206	1034	5.02	5	14.71	73.86
+73	Darnell Woolfolk	Army	SR	RB	13	221	956	4.33	14	17.00	73.54
+74	Mike Weber	Ohio State	JR	RB	13	172	954	5.55	5	13.23	73.38
+75	AJ Bush Jr.	Illinois	SR	QB	10	138	733	5.31	8	13.80	73.30
+76	Tobias Oliver	Ga Tech	FR	QB	12	152	876	5.76	12	12.67	73.00
+77	Elijah Holyfield	Georgia	JR	TB	14	159	1018	6.40	7	11.36	72.71
+78	Jaret Patterson	Buffalo	FR	RB	14	183	1013	5.54	14	13.07	72.36
+79	Kerrith Whyte, Jr.	FAU	JR	RB	12	134	866	6.46	8	11.17	72.17
+80	Johnny Ford	S Florida	FR	RB	11	115	787	6.84	8	10.45	71.55
+81	Kyler Murray	Oklahoma	JR	QB	14	140	1001	7.15	12	10.00	71.50

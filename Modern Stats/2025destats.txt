@@ -1,0 +1,36 @@
+2025
+1	David Bailey	Texas Tech	SR	OLB	14	14.5	133	1.04
+1	Nadame Tucker	W Mich	SR	DE	13	14.5	119	1.12
+3	Anthony Smith	Minnesota	JR	DL	13	12.5	100	0.96
+3	Akheem Mesidor	Miami (Fl)	SR	DL	15	12.5	99	0.83
+5	Nathan Voorhis	Ball State	SR	DE	12	12.0	81	1.00
+5	Colin Simmons	Texas	SO	EDG	13	12.0	55	0.92
+7	John Henry Daley	Utah	SO	DE	11	11.5	91	1.05
+7	Cashius Howell	Texas A&M	SR	DE	13	11.5	80	0.89
+9	Caden Curry	Ohio State	SR	DE	14	11.0	72	0.79
+9	Donnie Smith	Troy	JR	BAN	14	11.0	69	0.79
+9	Gabe Jacas	Illinois	SR	OLB	12	11.0	61	0.92
+12	Bryun Parham	UConn	SR	LB	13	10.5	79	0.81
+12	Melkart Abou Jaoude	N Carolina	JR	DL	12	10.5	65	0.88
+12	Michael Heldman	CMU	SR	DL	13	10.5	48	0.81
+15	Derrick Moore	Michigan	SR	EDG	12	10.0	97	0.83
+15	Jack Kelly	BYU	SR	LB	12	10.0	75	0.83
+15	Romello Height	Texas Tech	SR	OLB	14	10.0	70	0.71
+18	Teitum Tuioti	Oregon	JR	OLB	15	9.5	68	0.63
+18	Rueben Bain, Jr.	Miami (Fl)	JR	DL	16	9.5	57	0.59
+20	Damon Wilson II	Missouri	JR	DE	13	9.0	70	0.69
+20	Elijah Hill	KSU	FR	DL	14	9.0	60	0.64
+20	Keyshawn James-Newby	New Mexico	SR	DE	13	9.0	53	0.69
+20	Xavier Atkins	Auburn	SO	LB	12	9.0	50	0.75
+20	Princewill Umanmielen	Miss	JR	LB	15	9.0	49	0.60
+25	Clev Lubin	Louisville	JR	DL	13	8.5	75	0.65
+25	Adam Trick	Miami (Oh)	JR	DL	13	8.5	69	0.65
+25	Demarcus Hendricks	Ark St	SR	DE	13	8.5	62	0.65
+25	Dani Dennis-Sutton	Penn State	SR	DE	13	8.5	57	0.65
+25	Isaiah Smith	SMU	SR	DE	13	8.5	44	0.65
+30	Yhonzae Pierre	Alabama	SO	LB	15	8.0	81	0.53
+30	Ethan Hassler	Ark St	SR	DL	13	8.0	68	0.62
+30	Harvey Dyson	Tulane	JR	BAN	14	8.0	66	0.57
+30	Ethan Hurkett	Iowa	SR	DL	13	8.0	65	0.62
+30	John Miller	Utah State	SR	ILB	13	8.0	57	0.62
+30	Quincy Rhodes, Jr.	Arkansas	JR	DL	12	8.0	56	0.67
