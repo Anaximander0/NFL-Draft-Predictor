@@ -17,6 +17,7 @@ Stats Parsers/ - includes data parsers which turned TXT files into readable CSV 
 txtdatastats/ - includes all the raw txt data files which were parsed and turned into CSV files
 
 --ML Draft Simulation--
+
 Raiders-1-Fernando Mendoza-QB
 
 Jets-2-David Bailey-EDGE
@@ -26,33 +27,61 @@ Cardinals-3-Arvell Reese-EDGE
 Titans-4-Makai Lemon-WR
 
 Giants-5-Caleb Downs-S
+
 Browns-6-Monroe Freeling-LT
+
 Commanders-7-Akheem Mesidor-EDGE
+
 Saints-8-Caleb Banks-DT
+
 Chiefs-9-Mansoor Delane-CB
+
 Bengals-10-T.J. Parker-EDGE
+
 Dolphins-11-Max Iheanachor-OT
+
 Cowboys-12-Avieon Terrell-CB
+
 Rams-13-Caleb Lomu-OT
+
 Ravens-14-Carnell Tate-WR
+
 Buccaneers-15-KC Concepcion-WR
+
 Jets-16-Cashius Howell-EDGE
+
 Lions-17-Spencer Fano-OT
+
 Vikings-18-Christen Miller-DT
+
 Panthers-19-Kenyon Sadiq-TE
+
 Cowboys-20-Jermod McCoy-CB
+
 Steelers-21-Ty Simpson-QB
+
 Chargers-22-Omar Cooper-WR
+
 Eagles-23-Blake Miller-RT
+
 Browns-24-Olaivavega Ioane-OG
+
 Bears-25-Brandon Cisse-S
+
 Bills-26-Anthony Hill-ILB
+
 49ers-27-Ted Hurst-WR
+
 Texans-28-Kadyn Proctor-OT
+
 Chiefs-29-Malachi Fields-WR
+
 Dolphins-30-Logan Jones-OT
+
 Patriots-31-Emmanuel Pregnon-OT
+
 Seahawks-32-Jeremiyah Love-RB
+
 --ML Draft Simulation--
 
 
