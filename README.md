@@ -16,7 +16,7 @@ Merge/ - includes mergers to combine all of the many data CSV files together wit
 Stats Parsers/ - includes data parsers which turned TXT files into readable CSV files
 txtdatastats/ - includes all the raw txt data files which were parsed and turned into CSV files
 
---ML Draft Simulation--
+--Draft Simulation Results--
 
 Raiders-1-Fernando Mendoza-QB
 
@@ -82,6 +82,6 @@ Patriots-31-Emmanuel Pregnon-OT
 
 Seahawks-32-Jeremiyah Love-RB
 
---ML Draft Simulation--
+--Draft Simulation Results--
 
 
