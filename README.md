@@ -18,9 +18,13 @@ txtdatastats/ - includes all the raw txt data files which were parsed and turned
 
 --ML Draft Simulation--
 Raiders-1-Fernando Mendoza-QB
+
 Jets-2-David Bailey-EDGE
+
 Cardinals-3-Arvell Reese-EDGE
+
 Titans-4-Makai Lemon-WR
+
 Giants-5-Caleb Downs-S
 Browns-6-Monroe Freeling-LT
 Commanders-7-Akheem Mesidor-EDGE
