@@ -19,68 +19,37 @@ txtdatastats/ - includes all the raw txt data files which were parsed and turned
 --Draft Simulation Results--
 
 Raiders-1-Fernando Mendoza-QB
-
 Jets-2-David Bailey-EDGE
-
 Cardinals-3-Arvell Reese-EDGE
-
 Titans-4-Makai Lemon-WR
-
 Giants-5-Caleb Downs-S
-
-Browns-6-Monroe Freeling-LT
-
-Commanders-7-Akheem Mesidor-EDGE
-
+Browns-6-Denzel Boston-WR
+Commanders-7-T.J. Parker-EDGE
 Saints-8-Caleb Banks-DT
-
 Chiefs-9-Mansoor Delane-CB
-
-Bengals-10-T.J. Parker-EDGE
-
+Giants-10-Omar Cooper-WR
 Dolphins-11-Max Iheanachor-OT
-
-Cowboys-12-Avieon Terrell-CB
-
-Rams-13-Caleb Lomu-OT
-
-Ravens-14-Carnell Tate-WR
-
-Buccaneers-15-KC Concepcion-WR
-
-Jets-16-Cashius Howell-EDGE
-
-Lions-17-Spencer Fano-OT
-
+Cowboys-12-Chris Johnson-CB
+Rams-13-Blake Miller-OG
+Ravens-14-Olaivavega Ioane-OG
+Buccaneers-15-Carnell Tate-WR
+Jets-16-Keldric Faulk-EDGE
+Lions-17-Monroe Freeling-OT
 Vikings-18-Christen Miller-DT
-
 Panthers-19-Kenyon Sadiq-TE
-
-Cowboys-20-Jermod McCoy-CB
-
+Cowboys-20-Daylen Everette-CB
 Steelers-21-Ty Simpson-QB
-
-Chargers-22-Omar Cooper-WR
-
-Eagles-23-Blake Miller-RT
-
-Browns-24-Olaivavega Ioane-OG
-
+Chargers-22-Chase Bisontis-OG
+Eagles-23-Spencer Fano-OT
+Browns-24-KC Concepcion-WR
 Bears-25-Brandon Cisse-S
-
-Bills-26-Anthony Hill-ILB
-
-49ers-27-Ted Hurst-WR
-
-Texans-28-Kadyn Proctor-OT
-
-Chiefs-29-Malachi Fields-WR
-
-Dolphins-30-Logan Jones-OT
-
-Patriots-31-Emmanuel Pregnon-OT
-
-Seahawks-32-Jeremiyah Love-RB
+Bills-26-CJ Allen-ILB
+49ers-27-Jordyn Tyson-WR
+Texans-28-Caleb Lomu-OT
+Chiefs-29-Keionte Scott-CB
+Dolphins-30-Kadyn Proctor-OT
+Patriots-31-Ted Hurst-WR
+Seahawks-32-Jermod McCoy-CB
 
 --Draft Simulation Results--
 
